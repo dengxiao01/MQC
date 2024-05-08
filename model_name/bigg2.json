@@ -1,0 +1,552 @@
+[
+    {
+        "organism": "Acinetobacter baumannii AYE",
+        "model": "iCN718",
+        "year": "2018"
+    },
+    {
+        "organism": "Bacillus subtilis",
+        "model": "iBsu1147R",
+        "year": "2023"
+    },
+    {
+        "organism": "Bacillus subtilis subsp. subtilis str. 168",
+        "model": "iYO844",
+        "year": "2007"
+    },
+    {
+        "organism": "Chlamydomonas reinhardtii",
+        "model": "iRC1080",
+        "year": "2011"
+    },
+    {
+        "organism": "Clostridioides difficile 630",
+        "model": "iCN900",
+        "year": "2020"
+    },
+    {
+        "organism": "Clostridium ljungdahlii DSM 13528",
+        "model": "iHN637",
+        "year": "2013"
+    },
+    {
+        "organism": "Corynebacterium glutamicum ATCC13032",
+        "model": "iCW773R",
+        "year": "2022"
+    },
+    {
+        "organism": "Cricetulus griseus",
+        "model": "iCHOv1",
+        "year": "2016"
+    },
+    {
+        "organism": "Cricetulus griseus",
+        "model": "iCHOv1_DG44",
+        "year": "2019"
+    },
+    {
+        "organism": "Escherichia coli 042",
+        "model": "iEC042_1314",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli 536",
+        "model": "iECP_1309",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli 55989",
+        "model": "iEC55989_1330",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli ABU 83972",
+        "model": "iECABU_c1320",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli APEC O1",
+        "model": "iAPECO1_1312",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli ATCC 8739",
+        "model": "iEC1349_Crooks",
+        "year": "2016"
+    },
+    {
+        "organism": "Escherichia coli ATCC 8739",
+        "model": "iEcolC_1368",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli B str. REL606",
+        "model": "iECB_1328",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli BL21(DE3)",
+        "model": "iB21_1397",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli BL21(DE3)",
+        "model": "iEC1356_Bl21DE3",
+        "year": "2016"
+    },
+    {
+        "organism": "Escherichia coli BL21(DE3)",
+        "model": "iECD_1391",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli 'BL21-Gold(DE3)pLysS AG'",
+        "model": "iECBD_1354",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli BW2952",
+        "model": "iBWG_1329",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli C",
+        "model": "iEC1344_C",
+        "year": "2016"
+    },
+    {
+        "organism": "Escherichia coli CFT073",
+        "model": "ic_1306",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli DH1",
+        "model": "iEcDH1_1363",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli DH1",
+        "model": "iECDH1ME8569_1439",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli DH5[alpha]",
+        "model": "iEC1368_DH5a",
+        "year": "2016"
+    },
+    {
+        "organism": "Escherichia coli ED1a",
+        "model": "iECED1_1282",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli ETEC H10407",
+        "model": "iETEC_1333",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli HS",
+        "model": "iEcHS_1320",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli IAI1",
+        "model": "iECIAI1_1343",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli IAI39",
+        "model": "iECIAI39_1322",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli IHE3034",
+        "model": "iECOK1_1307",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli KO11FL",
+        "model": "iEKO11_1354",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli LF82",
+        "model": "iLF82_1304",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli NA114",
+        "model": "iECNA114_1301",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli O103:H2 str. 12009",
+        "model": "iECO103_1326",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli O111:H- str. 11128",
+        "model": "iECO111_1330",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli O127:H6 str. E2348/69",
+        "model": "iE2348C_1286",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli O139:H28 str. E24377A",
+        "model": "iEcE24377_1341",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli O157:H7 str. EC4115",
+        "model": "iECH74115_1262",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli O157:H7 str. EDL933",
+        "model": "iZ_1308",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli O157:H7 str. Sakai",
+        "model": "iECs_1301",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli O157:H7 str. TW14359",
+        "model": "iECSP_1301",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli O26:H11 str. 11368",
+        "model": "iECO26_1355",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli O55:H7 str. CB9615",
+        "model": "iG2583_1286",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli O83:H1 str. NRG 857C",
+        "model": "iNRG857_1313",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli S88",
+        "model": "iECS88_1305",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli SE11",
+        "model": "iECSE_1348",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli SE15",
+        "model": "iECSF_1327",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli SMS-3-5",
+        "model": "iEcSMS35_1347",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli str. K-12 substr. DH10B",
+        "model": "iECDH10B_1368",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli str. K-12 substr. MG1655",
+        "model": "e_coli_core",
+        "year": "2010"
+    },
+    {
+        "organism": "Escherichia coli str. K-12 substr. MG1655",
+        "model": "iAF1260",
+        "year": "2007"
+    },
+    {
+        "organism": "Escherichia coli str. K-12 substr. MG1655",
+        "model": "iAF1260b",
+        "year": "2010"
+    },
+    {
+        "organism": "Escherichia coli str. K-12 substr. MG1655",
+        "model": "iJO1366",
+        "year": "2011"
+    },
+    {
+        "organism": "Escherichia coli str. K-12 substr. MG1655",
+        "model": "iJR904",
+        "year": "2003"
+    },
+    {
+        "organism": "Escherichia coli str. K-12 substr. MG1655",
+        "model": "iML1515",
+        "year": "2017"
+    },
+    {
+        "organism": "Escherichia coli str. K-12 substr. W3110",
+        "model": "iEC1372_W3110",
+        "year": "2016"
+    },
+    {
+        "organism": "Escherichia coli str. K-12 substr. W3110",
+        "model": "iY75_1357",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli UM146",
+        "model": "iUMN146_1321",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli UMN026",
+        "model": "iECUMN_1333",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli UMNK88",
+        "model": "iUMNK88_1353",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli UTI89",
+        "model": "iUTI89_1310",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli W",
+        "model": "iEC1364_W",
+        "year": "2016"
+    },
+    {
+        "organism": "Escherichia coli W",
+        "model": "iECW_1372",
+        "year": "2013"
+    },
+    {
+        "organism": "Escherichia coli W",
+        "model": "iWFL_1372",
+        "year": "2013"
+    },
+    {
+        "organism": "Geobacter metallireducens GS-15",
+        "model": "iAF987",
+        "year": "2014"
+    },
+    {
+        "organism": "Helicobacter pylori 26695",
+        "model": "iIT341",
+        "year": "2005"
+    },
+    {
+        "organism": "Homo sapiens",
+        "model": "iAB_RBC_283",
+        "year": "2011"
+    },
+    {
+        "organism": "Homo sapiens",
+        "model": "iAT_PLT_636",
+        "year": "2014"
+    },
+    {
+        "organism": "Homo sapiens",
+        "model": "RECON1",
+        "year": "2007"
+    },
+    {
+        "organism": "Homo sapiens",
+        "model": "Recon3D",
+        "year": "2018"
+    },
+    {
+        "organism": "Klebsiella pneumoniae subsp. pneumoniae MGH 78578",
+        "model": "iYL1228",
+        "year": "2011"
+    },
+    {
+        "organism": "Lactococcus lactis subsp. cremoris MG1363",
+        "model": "iNF517",
+        "year": "2013"
+    },
+    {
+        "organism": "Methanosarcina barkeri str. Fusaro",
+        "model": "iAF692",
+        "year": "2006"
+    },
+    {
+        "organism": "Mus musculus",
+        "model": "iMM1415",
+        "year": "2010"
+    },
+    {
+        "organism": "Mycobacterium tuberculosis H37Rv",
+        "model": "iEK1008",
+        "year": "2018"
+    },
+    {
+        "organism": "Mycobacterium tuberculosis H37Rv",
+        "model": "iNJ661",
+        "year": "2007"
+    },
+    {
+        "organism": "Phaeodactylum tricornutum CCAP 1055/1",
+        "model": "iLB1027_lipid",
+        "year": "2016"
+    },
+    {
+        "organism": "Plasmodium berghei",
+        "model": "iAM_Pb448",
+        "year": "2018"
+    },
+    {
+        "organism": "Plasmodium cynomolgi strain B",
+        "model": "iAM_Pc455",
+        "year": "2018"
+    },
+    {
+        "organism": "Plasmodium falciparum 3D7",
+        "model": "iAM_Pf480",
+        "year": "2018"
+    },
+    {
+        "organism": "Plasmodium knowlesi strain H",
+        "model": "iAM_Pk459",
+        "year": "2018"
+    },
+    {
+        "organism": "Plasmodium vivax Sal-1",
+        "model": "iAM_Pv461",
+        "year": "2018"
+    },
+    {
+        "organism": "Pseudomonas putida KT2440",
+        "model": "iJN1463",
+        "year": "2020"
+    },
+    {
+        "organism": "Pseudomonas putida KT2440",
+        "model": "iJN746",
+        "year": "2008"
+    },
+    {
+        "organism": "Saccharomyces cerevisiae S288C",
+        "model": "iMM904",
+        "year": "2009"
+    },
+    {
+        "organism": "Saccharomyces cerevisiae S288C",
+        "model": "iND750",
+        "year": "2004"
+    },
+    {
+        "organism": "Salmonella enterica subsp. enterica serovar Typhimurium str. LT2",
+        "model": "STM_v1_0",
+        "year": "2011"
+    },
+    {
+        "organism": "Salmonella pan-reactome",
+        "model": "iYS1720",
+        "year": "2018"
+    },
+    {
+        "organism": "Shigella boydii CDC 3083-94",
+        "model": "iSbBS512_1146",
+        "year": "2013"
+    },
+    {
+        "organism": "Shigella boydii Sb227",
+        "model": "iSBO_1134",
+        "year": "2013"
+    },
+    {
+        "organism": "Shigella dysenteriae Sd197",
+        "model": "iSDY_1059",
+        "year": "2013"
+    },
+    {
+        "organism": "Shigella flexneri 2002017",
+        "model": "iSFxv_1172",
+        "year": "2013"
+    },
+    {
+        "organism": "Shigella flexneri 2a str. 2457T",
+        "model": "iS_1188",
+        "year": "2013"
+    },
+    {
+        "organism": "Shigella flexneri 2a str. 301",
+        "model": "iSF_1195",
+        "year": "2013"
+    },
+    {
+        "organism": "Shigella flexneri 5 str. 8401",
+        "model": "iSFV_1184",
+        "year": "2013"
+    },
+    {
+        "organism": "Shigella sonnei Ss046",
+        "model": "iSSON_1240",
+        "year": "2013"
+    },
+    {
+        "organism": "Staphylococcus aureus subsp. aureus N315",
+        "model": "iSB619",
+        "year": "2005"
+    },
+    {
+        "organism": "Staphylococcus aureus subsp. aureus USA300_TCH1516",
+        "model": "iYS854",
+        "year": "2019"
+    },
+    {
+        "organism": "Synechococcus elongatus PCC 7942",
+        "model": "iJB785",
+        "year": "2016"
+    },
+    {
+        "organism": "Synechocystis sp. PCC 6803",
+        "model": "iJN678",
+        "year": "2012"
+    },
+    {
+        "organism": "Synechocystis sp. PCC 6803",
+        "model": "iSynCJ816",
+        "year": "2017"
+    },
+    {
+        "organism": "Thermotoga maritima MSB8",
+        "model": "iLJ478",
+        "year": "2009"
+    },
+    {
+        "organism": "Trypanosoma cruzi Dm28c",
+        "model": "iIS312",
+        "year": "2020"
+    },
+    {
+        "organism": "Trypanosoma cruzi Dm28c",
+        "model": "iIS312_Amastigote",
+        "year": "2020"
+    },
+    {
+        "organism": "Trypanosoma cruzi Dm28c",
+        "model": "iIS312_Epimastigote",
+        "year": "2020"
+    },
+    {
+        "organism": "Trypanosoma cruzi Dm28c",
+        "model": "iIS312_Trypomastigote",
+        "year": "2020"
+    },
+    {
+        "organism": "Yersinia pestis CO92",
+        "model": "iPC815",
+        "year": "2011"
+    }
+]

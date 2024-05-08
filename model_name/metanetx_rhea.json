@@ -1,0 +1,896 @@
+[
+ {
+  "organism": "Agrobacterium fabrum",
+  "model": "rhea_AGRFC",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_AGRFC.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Aliivibrio fischeri",
+  "model": "rhea_ALIF1",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_ALIF1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Anopheles gambiae",
+  "model": "rhea_ANOGA",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_ANOGA.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Aquifex aeolicus",
+  "model": "rhea_AQUAE",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_AQUAE.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Arabidopsis thaliana",
+  "model": "rhea_ARATH",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_ARATH.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Archaeoglobus fulgidus",
+  "model": "rhea_ARCFU",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_ARCFU.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Ashbya gossypii",
+  "model": "rhea_ASHGO",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_ASHGO.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Neosartorya fumigata",
+  "model": "rhea_ASPFU",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_ASPFU.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Aspergillus niger",
+  "model": "rhea_ASPNC",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_ASPNC.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Bacillus anthracis",
+  "model": "rhea_BACAN",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_BACAN.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Bacillus cereus",
+  "model": "rhea_BACCR",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_BACCR.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Bacillus subtilis",
+  "model": "rhea_BACSU",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_BACSU.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Bacteroides thetaiotaomicron",
+  "model": "rhea_BACTN",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_BACTN.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Batrachochytrium dendrobatidis",
+  "model": "rhea_BATDJ",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_BATDJ.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Bifidobacterium longum",
+  "model": "rhea_BIFLO",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_BIFLO.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Bombyx mori",
+  "model": "rhea_BOMMO",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_BOMMO.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Borrelia burgdorferi",
+  "model": "rhea_BORBU",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_BORBU.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Bordetella pertussis",
+  "model": "rhea_BORPE",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_BORPE.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Bos taurus",
+  "model": "rhea_BOVIN",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_BOVIN.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Bradyrhizobium diazoefficiens",
+  "model": "rhea_BRADU",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_BRADU.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Buchnera aphidicola subsp. Acyrthosiphon pisum",
+  "model": "rhea_BUCAI",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_BUCAI.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Burkholderia pseudomallei",
+  "model": "rhea_BURPS",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_BURPS.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Caenorhabditis elegans",
+  "model": "rhea_CAEEL",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_CAEEL.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Campylobacter jejuni subsp. jejuni serotype O",
+  "model": "rhea_CAMJE",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_CAMJE.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Candida albicans",
+  "model": "rhea_CANAL",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_CANAL.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Caulobacter vibrioides",
+  "model": "rhea_CAUVC",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_CAUVC.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Caulobacter vibrioides",
+  "model": "rhea_CAUVN",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_CAUVN.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Cenarchaeum symbiosum",
+  "model": "rhea_CENSY",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_CENSY.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Gallus gallus",
+  "model": "rhea_CHICK",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_CHICK.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Chloroflexus aurantiacus",
+  "model": "rhea_CHLAA",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_CHLAA.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Chlamydomonas reinhardtii",
+  "model": "rhea_CHLRE",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_CHLRE.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Chlorobaculum tepidum",
+  "model": "rhea_CHLTE",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_CHLTE.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Chlamydia trachomatis",
+  "model": "rhea_CHLTR",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_CHLTR.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Clostridium acetobutylicum",
+  "model": "rhea_CLOAB",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_CLOAB.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Clostridium botulinum",
+  "model": "rhea_CLOBH",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_CLOBH.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Clostridioides difficile",
+  "model": "rhea_CLOD6",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_CLOD6.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Corynebacterium glutamicum",
+  "model": "rhea_CORGL",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_CORGL.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Coxiella burnetii",
+  "model": "rhea_COXBU",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_COXBU.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Cricetulus griseus",
+  "model": "rhea_CRIGR",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_CRIGR.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Cryptococcus neoformans var. neoformans serotype D",
+  "model": "rhea_CRYNJ",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_CRYNJ.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Danio rerio",
+  "model": "rhea_DANRE",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_DANRE.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Deinococcus radiodurans",
+  "model": "rhea_DEIRA",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_DEIRA.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Desulfovibrio vulgaris",
+  "model": "rhea_DESVH",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_DESVH.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Dictyostelium discoideum",
+  "model": "rhea_DICDI",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_DICDI.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Dictyoglomus turgidum",
+  "model": "rhea_DICTD",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_DICTD.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Drosophila melanogaster",
+  "model": "rhea_DROME",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_DROME.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Escherichia coli",
+  "model": "rhea_ECOLI",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_ECOLI.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Emericella nidulans",
+  "model": "rhea_EMENI",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_EMENI.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Encephalitozoon cuniculi",
+  "model": "rhea_ENCCU",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_ENCCU.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Enterococcus faecalis",
+  "model": "rhea_ENTFA",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_ENTFA.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Flavobacterium psychrophilum",
+  "model": "rhea_FLAPJ",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_FLAPJ.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Francisella tularensis subsp. tularensis",
+  "model": "rhea_FRATT",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_FRATT.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Fusobacterium nucleatum subsp. nucleatum",
+  "model": "rhea_FUSNN",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_FUSNN.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Geobacter metallireducens",
+  "model": "rhea_GEOMG",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_GEOMG.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Geobacter sulfurreducens",
+  "model": "rhea_GEOSL",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_GEOSL.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Giardia intestinalis",
+  "model": "rhea_GIAIC",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_GIAIC.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Gloeobacter violaceus",
+  "model": "rhea_GLOVI",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_GLOVI.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Haemophilus influenzae",
+  "model": "rhea_HAEIN",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_HAEIN.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Halobacterium salinarum",
+  "model": "rhea_HALSA",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_HALSA.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Haloferax volcanii",
+  "model": "rhea_HALVD",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_HALVD.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Helicobacter pylori",
+  "model": "rhea_HELPY",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_HELPY.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Homo sapiens",
+  "model": "rhea_HUMAN",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_HUMAN.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Hyperthermus butylicus",
+  "model": "rhea_HYPBU",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_HYPBU.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Klebsiella pneumoniae subsp. pneumoniae",
+  "model": "rhea_KLEP7",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_KLEP7.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Komagataella phaffii",
+  "model": "rhea_KOMPG",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_KOMPG.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Korarchaeum cryptofilum",
+  "model": "rhea_KORCO",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_KORCO.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Koribacter versatilis",
+  "model": "rhea_KORVE",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_KORVE.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Lactococcus lactis subsp. lactis",
+  "model": "rhea_LACLA",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_LACLA.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Lactobacillus plantarum",
+  "model": "rhea_LACPL",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_LACPL.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Leishmania braziliensis",
+  "model": "rhea_LEIBR",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_LEIBR.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Leishmania infantum",
+  "model": "rhea_LEIIN",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_LEIIN.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Leishmania major",
+  "model": "rhea_LEIMA",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_LEIMA.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Leptospira interrogans serogroup Icterohaemorrhagiae serovar Lai",
+  "model": "rhea_LEPIN",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_LEPIN.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Listeria monocytogenes serovar 1/2a",
+  "model": "rhea_LISMO",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_LISMO.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Zea mays",
+  "model": "rhea_MAIZE",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_MAIZE.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Mesoplasma florum",
+  "model": "rhea_MESFL",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_MESFL.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Methanosarcina acetivorans",
+  "model": "rhea_METAC",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_METAC.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Methanosarcina barkeri",
+  "model": "rhea_METBF",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_METBF.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Methanospirillum hungatei JF-1",
+  "model": "rhea_METHJ",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_METHJ.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Methanocaldococcus jannaschii",
+  "model": "rhea_METJA",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_METJA.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Methanopyrus kandleri",
+  "model": "rhea_METKA",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_METKA.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Methanothermobacter thermautotrophicus",
+  "model": "rhea_METTH",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_METTH.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Monosiga brevicollis",
+  "model": "rhea_MONBE",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_MONBE.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Moorella thermoacetica",
+  "model": "rhea_MOOTA",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_MOOTA.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Mus musculus",
+  "model": "rhea_MOUSE",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_MOUSE.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Mycobacterium bovis",
+  "model": "rhea_MYCBO",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_MYCBO.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Mycobacterium bovis",
+  "model": "rhea_MYCBP",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_MYCBP.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Mycobacterium marinum",
+  "model": "rhea_MYCMM",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_MYCMM.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Mycoplasma mycoides subsp. mycoides SC",
+  "model": "rhea_MYCMS",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_MYCMS.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Mycoplasma pneumoniae",
+  "model": "rhea_MYCPN",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_MYCPN.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Mycolicibacterium smegmatis",
+  "model": "rhea_MYCS2",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_MYCS2.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Mycobacterium tuberculosis",
+  "model": "rhea_MYCTU",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_MYCTU.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Nanoarchaeum equitans",
+  "model": "rhea_NANEQ",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_NANEQ.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Neisseria gonorrhoeae",
+  "model": "rhea_NEIG1",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_NEIG1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Neisseria meningitidis serogroup B",
+  "model": "rhea_NEIMB",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_NEIMB.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Neurospora crassa",
+  "model": "rhea_NEUCR",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_NEUCR.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Nitrosopumilus maritimus",
+  "model": "rhea_NITMS",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_NITMS.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Oryza sativa subsp. japonica",
+  "model": "rhea_ORYSJ",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_ORYSJ.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Penicillium rubens",
+  "model": "rhea_PENRW",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_PENRW.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Phaeosphaeria nodorum",
+  "model": "rhea_PHANO",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_PHANO.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Phytophthora infestans",
+  "model": "rhea_PHYIT",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_PHYIT.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Scheffersomyces stipitis",
+  "model": "rhea_PICST",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_PICST.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Plasmodium falciparum",
+  "model": "rhea_PLAF7",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_PLAF7.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Prochlorococcus marinus",
+  "model": "rhea_PROMA",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_PROMA.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Pseudomonas aeruginosa",
+  "model": "rhea_PSEAE",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_PSEAE.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Pseudomonas putida",
+  "model": "rhea_PSEPK",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_PSEPK.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Puccinia graminis f. sp. tritici",
+  "model": "rhea_PUCGT",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_PUCGT.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Pyrobaculum aerophilum",
+  "model": "rhea_PYRAE",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_PYRAE.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Pyrococcus furiosus",
+  "model": "rhea_PYRFU",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_PYRFU.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Ralstonia solanacearum",
+  "model": "rhea_RALSO",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_RALSO.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Rattus norvegicus",
+  "model": "rhea_RAT",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_RAT.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Rhodopirellula baltica",
+  "model": "rhea_RHOBA",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_RHOBA.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Rhodospirillum rubrum",
+  "model": "rhea_RHORT",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_RHORT.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Rhodobacter sphaeroides",
+  "model": "rhea_RHOS4",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_RHOS4.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Rickettsia prowazekii",
+  "model": "rhea_RICPR",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_RICPR.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Saccharolobus solfataricus",
+  "model": "rhea_SACS2",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_SACS2.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Salinibacter ruber",
+  "model": "rhea_SALRD",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_SALRD.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Salmonella typhimurium",
+  "model": "rhea_SALTY",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_SALTY.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Schistosoma mansoni",
+  "model": "rhea_SCHMA",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_SCHMA.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Schizosaccharomyces pombe",
+  "model": "rhea_SCHPO",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_SCHPO.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Sclerotinia sclerotiorum",
+  "model": "rhea_SCLS1",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_SCLS1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Shewanella oneidensis",
+  "model": "rhea_SHEON",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_SHEON.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Shigella dysenteriae serotype 1",
+  "model": "rhea_SHIDS",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_SHIDS.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Glycine max",
+  "model": "rhea_SOYBN",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_SOYBN.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Staphylococcus aureus",
+  "model": "rhea_STAA8",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_STAA8.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Staphylococcus aureus",
+  "model": "rhea_STAAN",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_STAAN.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Streptomyces coelicolor",
+  "model": "rhea_STRCO",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_STRCO.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Streptococcus pneumoniae",
+  "model": "rhea_STRR6",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_STRR6.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Synechococcus elongatus",
+  "model": "rhea_SYNE7",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_SYNE7.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Synechocystis sp.",
+  "model": "rhea_SYNY3",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_SYNY3.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Thermoplasma acidophilum",
+  "model": "rhea_THEAC",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_THEAC.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Thermanaerovibrio acidaminovorans",
+  "model": "rhea_THEAS",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_THEAS.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Thermosynechococcus elongatus",
+  "model": "rhea_THEEB",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_THEEB.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Thermococcus kodakarensis",
+  "model": "rhea_THEKO",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_THEKO.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Thermotoga maritima",
+  "model": "rhea_THEMA",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_THEMA.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Thermofilum pendens",
+  "model": "rhea_THEPD",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_THEPD.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Thermus thermophilus",
+  "model": "rhea_THET8",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_THET8.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Thermodesulfovibrio yellowstonii",
+  "model": "rhea_THEYD",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_THEYD.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Trichoplax adhaerens",
+  "model": "rhea_TRIAD",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_TRIAD.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Trypanosoma brucei brucei",
+  "model": "rhea_TRYB2",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_TRYB2.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Tuber melanosporum",
+  "model": "rhea_TUBMM",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_TUBMM.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Ustilago maydis",
+  "model": "rhea_USTMA",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_USTMA.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Vibrio cholerae serotype O1",
+  "model": "rhea_VIBCH",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_VIBCH.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Xanthomonas campestris pv. campestris",
+  "model": "rhea_XANCP",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_XANCP.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Xanthomonas oryzae pv. oryzae",
+  "model": "rhea_XANOR",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_XANOR.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Xenopus tropicalis",
+  "model": "rhea_XENTR",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_XENTR.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Yarrowia lipolytica",
+  "model": "rhea_YARLI",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_YARLI.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Saccharomyces cerevisiae",
+  "model": "rhea_YEAST",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_YEAST.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Yersinia pestis",
+  "model": "rhea_YERPE",
+  "year": "",
+  "path": "data/metanetx/metanetx_rhea/rhea_YERPE.COBRA-sbml3.xml"
+ }
+]

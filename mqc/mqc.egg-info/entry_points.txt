@@ -1,0 +1,2 @@
+[console_scripts]
+mqc = mqc.main:main

@@ -1,0 +1,4910 @@
+[
+ {
+  "organism": "Abiotrophia defectiva ATCC 49176",
+  "model": "Abiotrophia_defectiva_ATCC_49176",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Abiotrophia_defectiva_ATCC_49176.xml"
+ },
+ {
+  "organism": "Achromobacter xylosoxidans A8",
+  "model": "Achromobacter_xylosoxidans_A8",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Achromobacter_xylosoxidans_A8.xml"
+ },
+ {
+  "organism": "Achromobacter xylosoxidans NBRC 15126 = ATCC 27061",
+  "model": "Achromobacter_xylosoxidans_NBRC_15126",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Achromobacter_xylosoxidans_NBRC_15126.xml"
+ },
+ {
+  "organism": "Acidaminococcus fermentans DSM 20731",
+  "model": "Acidaminococcus_fermentans_DSM_20731",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Acidaminococcus_fermentans_DSM_20731.xml"
+ },
+ {
+  "organism": "Acidaminococcus intestini RyC-MR95",
+  "model": "Acidaminococcus_intestini_RyC_MR95",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Acidaminococcus_intestini_RyC_MR95.xml"
+ },
+ {
+  "organism": "Acidaminococcus sp. D21",
+  "model": "Acidaminococcus_sp_D21",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Acidaminococcus_sp_D21.xml"
+ },
+ {
+  "organism": "Acinetobacter baumannii AB0057",
+  "model": "Acinetobacter_baumannii_AB0057",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Acinetobacter_baumannii_AB0057.xml"
+ },
+ {
+  "organism": "Acinetobacter calcoaceticus PHEA-2",
+  "model": "Acinetobacter_calcoaceticus_PHEA_2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Acinetobacter_calcoaceticus_PHEA_2.xml"
+ },
+ {
+  "organism": "Acinetobacter haemolyticus NIPH 261",
+  "model": "Acinetobacter_haemolyticus_NIPH_261",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Acinetobacter_haemolyticus_NIPH_261.xml"
+ },
+ {
+  "organism": "Acinetobacter johnsonii SH046",
+  "model": "Acinetobacter_johnsonii_SH046",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Acinetobacter_johnsonii_SH046.xml"
+ },
+ {
+  "organism": "Acinetobacter junii SH205",
+  "model": "Acinetobacter_junii_SH205",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Acinetobacter_junii_SH205.xml"
+ },
+ {
+  "organism": "Acinetobacter lwoffii WJ10621",
+  "model": "Acinetobacter_lwoffii_WJ10621",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Acinetobacter_lwoffii_WJ10621.xml"
+ },
+ {
+  "organism": "Acinetobacter pittii ANC 4052",
+  "model": "Acinetobacter_pittii_ANC_4052",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Acinetobacter_pittii_ANC_4052.xml"
+ },
+ {
+  "organism": "Acinetobacter radioresistens NIPH 2130",
+  "model": "Acinetobacter_radioresistens_NIPH_2130",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Acinetobacter_radioresistens_NIPH_2130.xml"
+ },
+ {
+  "organism": "Actinobacillus pleuropneumoniae L20",
+  "model": "Actinobacillus_pleuropneumoniae_L20",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Actinobacillus_pleuropneumoniae_L20.xml"
+ },
+ {
+  "organism": "Actinomyces cardiffensis F0333",
+  "model": "Actinomyces_cardiffensis_F0333",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Actinomyces_cardiffensis_F0333.xml"
+ },
+ {
+  "organism": "Actinomyces georgiae  DSM 6843",
+  "model": "Actinomyces_georgiae_DSM_6843",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Actinomyces_georgiae_DSM_6843.xml"
+ },
+ {
+  "organism": "Actinomyces graevenitzii  C83",
+  "model": "Actinomyces_graevenitzii_C83",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Actinomyces_graevenitzii_C83.xml"
+ },
+ {
+  "organism": "Actinomyces naeslundii str. Howell 279",
+  "model": "Actinomyces_naeslundii_str_Howell_279",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Actinomyces_naeslundii_str_Howell_279.xml"
+ },
+ {
+  "organism": "Actinomyces odontolyticus ATCC 17982",
+  "model": "Actinomyces_odontolyticus_ATCC_17982",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Actinomyces_odontolyticus_ATCC_17982.xml"
+ },
+ {
+  "organism": "Actinomyces oris K20",
+  "model": "Actinomyces_oris_K20",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Actinomyces_oris_K20.xml"
+ },
+ {
+  "organism": "Actinomyces turicensis ACS-279-V-Col4",
+  "model": "Actinomyces_turicensis_ACS_279_V_Col4",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Actinomyces_turicensis_ACS_279_V_Col4.xml"
+ },
+ {
+  "organism": "Actinomyces urogenitalis DSM 15434",
+  "model": "Actinomyces_urogenitalis_DSM_15434",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Actinomyces_urogenitalis_DSM_15434.xml"
+ },
+ {
+  "organism": "Actinomyces viscosus  C505",
+  "model": "Actinomyces_viscosus_C505",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Actinomyces_viscosus_C505.xml"
+ },
+ {
+  "organism": "Adlercreutzia equolifaciens DSM 19450",
+  "model": "Adlercreutzia_equolifaciens_DSM_19450",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Adlercreutzia_equolifaciens_DSM_19450.xml"
+ },
+ {
+  "organism": "Aerococcus viridans ATCC 11563",
+  "model": "Aerococcus_viridans_ATCC_11563",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Aerococcus_viridans_ATCC_11563.xml"
+ },
+ {
+  "organism": "Aeromonas caviae Ae398",
+  "model": "Aeromonas_caviae_Ae398",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Aeromonas_caviae_Ae398.xml"
+ },
+ {
+  "organism": "Aeromonas hydrophila subsp. hydrophila ATCC 7966",
+  "model": "Aeromonas_hydrophila_subsp_hydrophila_ATCC_7966",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Aeromonas_hydrophila_subsp_hydrophila_ATCC_7966.xml"
+ },
+ {
+  "organism": "Aeromonas jandaei Riv2",
+  "model": "Aeromonas_jandaei_Riv2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Aeromonas_jandaei_Riv2.xml"
+ },
+ {
+  "organism": "Aeromonas media WS",
+  "model": "Aeromonas_media_WS",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Aeromonas_media_WS.xml"
+ },
+ {
+  "organism": "Aeromonas veronii B565",
+  "model": "Aeromonas_veronii_B565",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Aeromonas_veronii_B565.xml"
+ },
+ {
+  "organism": "Afipia birgiae 34632",
+  "model": "Afipia_birgiae_34632",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Afipia_birgiae_34632.xml"
+ },
+ {
+  "organism": "Aggregatibacter aphrophilus NJ8700",
+  "model": "Aggregatibacter_aphrophilus_NJ8700",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Aggregatibacter_aphrophilus_NJ8700.xml"
+ },
+ {
+  "organism": "Agrobacterium tumefaciens F2",
+  "model": "Agrobacterium_tumefaciens_F2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Agrobacterium_tumefaciens_F2.xml"
+ },
+ {
+  "organism": "Akkermansia muciniphila ATCC BAA-835",
+  "model": "Akkermansia_muciniphila_ATCC_BAA_835",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Akkermansia_muciniphila_ATCC_BAA_835.xml"
+ },
+ {
+  "organism": "Alcaligenes faecalis subsp. faecalis NBRC 13111",
+  "model": "Alcaligenes_faecalis_subsp_faecalis_NBRC_13111",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Alcaligenes_faecalis_subsp_faecalis_NBRC_13111.xml"
+ },
+ {
+  "organism": "Alcaligenes faecalis subsp. faecalis NCIB 8687",
+  "model": "Alcaligenes_faecalis_subsp_faecalis_NCIB_8687",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Alcaligenes_faecalis_subsp_faecalis_NCIB_8687.xml"
+ },
+ {
+  "organism": "Alistipes finegoldii DSM 17242",
+  "model": "Alistipes_finegoldii_DSM_17242",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Alistipes_finegoldii_DSM_17242.xml"
+ },
+ {
+  "organism": "Alistipes indistinctus YIT 12060",
+  "model": "Alistipes_indistinctus_YIT_12060",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Alistipes_indistinctus_YIT_12060.xml"
+ },
+ {
+  "organism": "Alistipes onderdonkii DSM 19147",
+  "model": "Alistipes_onderdonkii_DSM_19147",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Alistipes_onderdonkii_DSM_19147.xml"
+ },
+ {
+  "organism": "Alistipes putredinis DSM 17216",
+  "model": "Alistipes_putredinis_DSM_17216",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Alistipes_putredinis_DSM_17216.xml"
+ },
+ {
+  "organism": "Alistipes shahii WAL 8301",
+  "model": "Alistipes_shahii_WAL_8301",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Alistipes_shahii_WAL_8301.xml"
+ },
+ {
+  "organism": "Alloprevotella tannerae ATCC 51259",
+  "model": "Alloprevotella_tannerae_ATCC_51259",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Alloprevotella_tannerae_ATCC_51259.xml"
+ },
+ {
+  "organism": "Anaerobaculum hydrogeniformans OS1, ATCC BAA-1850",
+  "model": "Anaerobaculum_hydrogeniformans_OS1_ATCC_BAA_1850",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Anaerobaculum_hydrogeniformans_OS1_ATCC_BAA_1850.xml"
+ },
+ {
+  "organism": "Anaerobiospirillum succiniciproducens DSM 640001",
+  "model": "Anaerobiospirillum_succiniciproducens_DSM_640001",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Anaerobiospirillum_succiniciproducens_DSM_640001.xml"
+ },
+ {
+  "organism": "Anaerococcus hydrogenalis DSM 7454",
+  "model": "Anaerococcus_hydrogenalis_DSM_7454",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Anaerococcus_hydrogenalis_DSM_7454.xml"
+ },
+ {
+  "organism": "Anaerococcus prevotii DSM 20548",
+  "model": "Anaerococcus_prevotii_DSM_20548",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Anaerococcus_prevotii_DSM_20548.xml"
+ },
+ {
+  "organism": "Anaerococcus vaginalis ATCC 51170",
+  "model": "Anaerococcus_vaginalis_ATCC_51170",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Anaerococcus_vaginalis_ATCC_51170.xml"
+ },
+ {
+  "organism": "Anaerofustis stercorihominis DSM 17244",
+  "model": "Anaerofustis_stercorihominis_DSM_17244",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Anaerofustis_stercorihominis_DSM_17244.xml"
+ },
+ {
+  "organism": "Anaerostipes caccae DSM 14662",
+  "model": "Anaerostipes_caccae_DSM_14662",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Anaerostipes_caccae_DSM_14662.xml"
+ },
+ {
+  "organism": "Anaerostipes hadrus DSM 3319",
+  "model": "Anaerostipes_hadrus_DSM_3319",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Anaerostipes_hadrus_DSM_3319.xml"
+ },
+ {
+  "organism": "Anaerostipes sp. 3_2_56FAA",
+  "model": "Anaerostipes_sp_3_2_56FAA",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Anaerostipes_sp_3_2_56FAA.xml"
+ },
+ {
+  "organism": "Anaerotruncus colihominis DSM 17241",
+  "model": "Anaerotruncus_colihominis_DSM_17241",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Anaerotruncus_colihominis_DSM_17241.xml"
+ },
+ {
+  "organism": "Aneurinibacillus aneurinilyticus ATCC 12856",
+  "model": "Aneurinibacillus_aneurinilyticus_ATCC_12856",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Aneurinibacillus_aneurinilyticus_ATCC_12856.xml"
+ },
+ {
+  "organism": "Arcanobacterium haemolyticum DSM 20595",
+  "model": "Arcanobacterium_haemolyticum_DSM_20595",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Arcanobacterium_haemolyticum_DSM_20595.xml"
+ },
+ {
+  "organism": "Arcobacter butzleri RM4018",
+  "model": "Arcobacter_butzleri_RM4018",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Arcobacter_butzleri_RM4018.xml"
+ },
+ {
+  "organism": "Arthrobacter castelli DSM 16402",
+  "model": "Arthrobacter_castelli_DSM_16402",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Arthrobacter_castelli_DSM_16402.xml"
+ },
+ {
+  "organism": "Atopobium minutum 10063974",
+  "model": "Atopobium_minutum_10063974",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Atopobium_minutum_10063974.xml"
+ },
+ {
+  "organism": "Atopobium parvulum DSM 20469",
+  "model": "Atopobium_parvulum_DSM_20469",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Atopobium_parvulum_DSM_20469.xml"
+ },
+ {
+  "organism": "Atopobium rimae ATCC 49626",
+  "model": "Atopobium_rimae_ATCC_49626",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Atopobium_rimae_ATCC_49626.xml"
+ },
+ {
+  "organism": "Bacillus altitudinis 41KF2b",
+  "model": "Bacillus_altitudinis_41KF2b",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_altitudinis_41KF2b.xml"
+ },
+ {
+  "organism": "Bacillus amyloliquefaciens DSM7",
+  "model": "Bacillus_amyloliquefaciens_DSM7",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_amyloliquefaciens_DSM7.xml"
+ },
+ {
+  "organism": "Bacillus amyloliquefaciens subsp. amyloliquefaciens DC-12",
+  "model": "Bacillus_amyloliquefaciens_subsp_amyloliquefaciens_DC_12",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_amyloliquefaciens_subsp_amyloliquefaciens_DC_12.xml"
+ },
+ {
+  "organism": "Bacillus atrophaeus ATCC 49822-1",
+  "model": "Bacillus_atrophaeus_ATCC_49822_1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_atrophaeus_ATCC_49822_1.xml"
+ },
+ {
+  "organism": "Bacillus cereus AH187 (F4810/72)",
+  "model": "Bacillus_cereus_AH187_F4810_72",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_cereus_AH187_F4810_72.xml"
+ },
+ {
+  "organism": "Bacillus cereus G9842",
+  "model": "Bacillus_cereus_G9842",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_cereus_G9842.xml"
+ },
+ {
+  "organism": "Bacillus clausii KSM-K16",
+  "model": "Bacillus_clausii_KSM_K16",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_clausii_KSM_K16.xml"
+ },
+ {
+  "organism": "Bacillus endophyticus 2102",
+  "model": "Bacillus_endophyticus_2102",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_endophyticus_2102.xml"
+ },
+ {
+  "organism": "Bacillus firmus DS1",
+  "model": "Bacillus_firmus_DS1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_firmus_DS1.xml"
+ },
+ {
+  "organism": "Bacillus flexus 27Col1.1E",
+  "model": "Bacillus_flexus_27Col1_1E",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_flexus_27Col1_1E.xml"
+ },
+ {
+  "organism": "Bacillus fordii DSM 16014",
+  "model": "Bacillus_fordii_DSM_16014",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_fordii_DSM_16014.xml"
+ },
+ {
+  "organism": "Bacillus halodurans C-125",
+  "model": "Bacillus_halodurans_C_125",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_halodurans_C_125.xml"
+ },
+ {
+  "organism": "Bacillus infantis NRRL B-14911",
+  "model": "Bacillus_infantis_NRRL_B_14911",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_infantis_NRRL_B_14911.xml"
+ },
+ {
+  "organism": "Bacillus licheniformis ATCC 14580",
+  "model": "Bacillus_licheniformis_ATCC_14580",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_licheniformis_ATCC_14580.xml"
+ },
+ {
+  "organism": "Bacillus megaterium DSM319",
+  "model": "Bacillus_megaterium_DSM319",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_megaterium_DSM319.xml"
+ },
+ {
+  "organism": "Bacillus mojavensis RO-H-1 = KCTC3706",
+  "model": "Bacillus_mojavensis_RO_H_1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_mojavensis_RO_H_1.xml"
+ },
+ {
+  "organism": "Bacillus mycoides  DSM 2048",
+  "model": "Bacillus_mycoides_DSM_2048",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_mycoides_DSM_2048.xml"
+ },
+ {
+  "organism": "Bacillus nealsonii AAU1",
+  "model": "Bacillus_nealsonii_AAU1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_nealsonii_AAU1.xml"
+ },
+ {
+  "organism": "Bacillus pseudofirmus  OF4",
+  "model": "Bacillus_pseudofirmus_OF4",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_pseudofirmus_OF4.xml"
+ },
+ {
+  "organism": "Bacillus pumilus ATCC 7061",
+  "model": "Bacillus_pumilus_ATCC_7061",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_pumilus_ATCC_7061.xml"
+ },
+ {
+  "organism": "Bacillus sonorensis L12",
+  "model": "Bacillus_sonorensis_L12",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_sonorensis_L12.xml"
+ },
+ {
+  "organism": "Bacillus subtilis str. 168",
+  "model": "Bacillus_subtilis_str_168",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_subtilis_str_168.xml"
+ },
+ {
+  "organism": "Bacillus thermoamylovorans",
+  "model": "Bacillus_thermoamylovorans",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_thermoamylovorans.xml"
+ },
+ {
+  "organism": "Bacillus thuringiensis serovar thuringiensis str. T01001",
+  "model": "Bacillus_thuringiensis_serovar_thuringiensis_str_T01001",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_thuringiensis_serovar_thuringiensis_str_T01001.xml"
+ },
+ {
+  "organism": "Bacillus timonensis 10403023",
+  "model": "Bacillus_timonensis_10403023",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_timonensis_10403023.xml"
+ },
+ {
+  "organism": "Bacillus vallismortis DV1-F-3",
+  "model": "Bacillus_vallismortis_DV1_F_3",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacillus_vallismortis_DV1_F_3.xml"
+ },
+ {
+  "organism": "Bacteroides caccae ATCC 43185",
+  "model": "Bacteroides_caccae_ATCC_43185",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_caccae_ATCC_43185.xml"
+ },
+ {
+  "organism": "Bacteroides cellulosilyticus DSM 14838",
+  "model": "Bacteroides_cellulosilyticus_DSM_14838",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_cellulosilyticus_DSM_14838.xml"
+ },
+ {
+  "organism": "Bacteroides clarus YIT 12056",
+  "model": "Bacteroides_clarus_YIT_12056",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_clarus_YIT_12056.xml"
+ },
+ {
+  "organism": "Bacteroides coprocola M16, DSM 17136",
+  "model": "Bacteroides_coprocola_M16_DSM_17136",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_coprocola_M16_DSM_17136.xml"
+ },
+ {
+  "organism": "Bacteroides coprophilus DSM 18228",
+  "model": "Bacteroides_coprophilus_DSM_18228",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_coprophilus_DSM_18228.xml"
+ },
+ {
+  "organism": "Bacteroides dorei DSM 17855",
+  "model": "Bacteroides_dorei_DSM_17855",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_dorei_DSM_17855.xml"
+ },
+ {
+  "organism": "Bacteroides eggerthii 1_2_48FAA",
+  "model": "Bacteroides_eggerthii_1_2_48FAA",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_eggerthii_1_2_48FAA.xml"
+ },
+ {
+  "organism": "Bacteroides eggerthii DSM 20697",
+  "model": "Bacteroides_eggerthii_DSM_20697",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_eggerthii_DSM_20697.xml"
+ },
+ {
+  "organism": "Bacteroides faecis MAJ27",
+  "model": "Bacteroides_faecis_MAJ27",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_faecis_MAJ27.xml"
+ },
+ {
+  "organism": "Bacteroides finegoldii DSM 17565",
+  "model": "Bacteroides_finegoldii_DSM_17565",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_finegoldii_DSM_17565.xml"
+ },
+ {
+  "organism": "Bacteroides fluxus YIT 12057",
+  "model": "Bacteroides_fluxus_YIT_12057",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_fluxus_YIT_12057.xml"
+ },
+ {
+  "organism": "Bacteroides fragilis 3_1_12",
+  "model": "Bacteroides_fragilis_3_1_12",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_fragilis_3_1_12.xml"
+ },
+ {
+  "organism": "Bacteroides fragilis 638R",
+  "model": "Bacteroides_fragilis_638R",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_fragilis_638R.xml"
+ },
+ {
+  "organism": "Bacteroides fragilis NCTC 9343",
+  "model": "Bacteroides_fragilis_NCTC_9343",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_fragilis_NCTC_9343.xml"
+ },
+ {
+  "organism": "Bacteroides fragilis YCH46",
+  "model": "Bacteroides_fragilis_YCH46",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_fragilis_YCH46.xml"
+ },
+ {
+  "organism": "Bacteroides graminisolvens DSM 19988 ",
+  "model": "Bacteroides_graminisolvens_DSM_19988",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_graminisolvens_DSM_19988.xml"
+ },
+ {
+  "organism": "Bacteroides intestinalis 341, DSM 17393",
+  "model": "Bacteroides_intestinalis_341_DSM_17393",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_intestinalis_341_DSM_17393.xml"
+ },
+ {
+  "organism": "Bacteroides massiliensis B846dnLKV334 = Timone 84634 = DSM 17679 = JCM 13223",
+  "model": "Bacteroides_massiliensis_B846dnLKV334",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_massiliensis_B846dnLKV334.xml"
+ },
+ {
+  "organism": "Bacteroides nordii CL02T12C05 ",
+  "model": "Bacteroides_nordii_CL02T12C05",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_nordii_CL02T12C05.xml"
+ },
+ {
+  "organism": "Bacteroides oleiciplenus YIT 12058",
+  "model": "Bacteroides_oleiciplenus_YIT_12058",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_oleiciplenus_YIT_12058.xml"
+ },
+ {
+  "organism": "Bacteroides ovatus ATCC 8483",
+  "model": "Bacteroides_ovatus_ATCC_8483",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_ovatus_ATCC_8483.xml"
+ },
+ {
+  "organism": "Bacteroides ovatus SD CC 2a",
+  "model": "Bacteroides_ovatus_SD_CC_2a",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_ovatus_SD_CC_2a.xml"
+ },
+ {
+  "organism": "Bacteroides ovatus SD CMC 3f",
+  "model": "Bacteroides_ovatus_SD_CMC_3f",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_ovatus_SD_CMC_3f.xml"
+ },
+ {
+  "organism": "Bacteroides pectinophilus ATCC 43243",
+  "model": "Bacteroides_pectinophilus_ATCC_43243",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_pectinophilus_ATCC_43243.xml"
+ },
+ {
+  "organism": "Bacteroides plebeius M12, DSM 17135",
+  "model": "Bacteroides_plebeius_M12_DSM_17135",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_plebeius_M12_DSM_17135.xml"
+ },
+ {
+  "organism": "Bacteroides pyogenes DSM20611",
+  "model": "Bacteroides_pyogenes_DSM20611",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_pyogenes_DSM20611.xml"
+ },
+ {
+  "organism": "Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988",
+  "model": "Bacteroides_salyersiae_WAL_10018",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_salyersiae_WAL_10018.xml"
+ },
+ {
+  "organism": "Bacteroides sp. 1_1_14",
+  "model": "Bacteroides_sp_1_1_14",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_sp_1_1_14.xml"
+ },
+ {
+  "organism": "Bacteroides sp. 1_1_30",
+  "model": "Bacteroides_sp_1_1_30",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_sp_1_1_30.xml"
+ },
+ {
+  "organism": "Bacteroides sp. 1_1_6",
+  "model": "Bacteroides_sp_1_1_6",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_sp_1_1_6.xml"
+ },
+ {
+  "organism": "Bacteroides sp. 20_3",
+  "model": "Bacteroides_sp_20_3",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_sp_20_3.xml"
+ },
+ {
+  "organism": "Bacteroides sp. 2_1_22",
+  "model": "Bacteroides_sp_2_1_22",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_sp_2_1_22.xml"
+ },
+ {
+  "organism": "Bacteroides sp. 2_1_33B",
+  "model": "Bacteroides_sp_2_1_33B",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_sp_2_1_33B.xml"
+ },
+ {
+  "organism": "Bacteroides sp. 2_1_7",
+  "model": "Bacteroides_sp_2_1_7",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_sp_2_1_7.xml"
+ },
+ {
+  "organism": "Bacteroides sp. 2_2_4",
+  "model": "Bacteroides_sp_2_2_4",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_sp_2_2_4.xml"
+ },
+ {
+  "organism": "Bacteroides sp. 3_1_19",
+  "model": "Bacteroides_sp_3_1_19",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_sp_3_1_19.xml"
+ },
+ {
+  "organism": "Bacteroides sp. 3_1_23",
+  "model": "Bacteroides_sp_3_1_23",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_sp_3_1_23.xml"
+ },
+ {
+  "organism": "Bacteroides sp. 3_1_33FAA",
+  "model": "Bacteroides_sp_3_1_33FAA",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_sp_3_1_33FAA.xml"
+ },
+ {
+  "organism": "Bacteroides sp. 3_1_40A",
+  "model": "Bacteroides_sp_3_1_40A",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_sp_3_1_40A.xml"
+ },
+ {
+  "organism": "Bacteroides sp. 3_2_5",
+  "model": "Bacteroides_sp_3_2_5",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_sp_3_2_5.xml"
+ },
+ {
+  "organism": "Bacteroides sp. 4_1_36",
+  "model": "Bacteroides_sp_4_1_36",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_sp_4_1_36.xml"
+ },
+ {
+  "organism": "Bacteroides sp. 4_3_47FAA",
+  "model": "Bacteroides_sp_4_3_47FAA",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_sp_4_3_47FAA.xml"
+ },
+ {
+  "organism": "Bacteroides sp. 9_1_42FAA",
+  "model": "Bacteroides_sp_9_1_42FAA",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_sp_9_1_42FAA.xml"
+ },
+ {
+  "organism": "Bacteroides sp. D1",
+  "model": "Bacteroides_sp_D1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_sp_D1.xml"
+ },
+ {
+  "organism": "Bacteroides sp. D2",
+  "model": "Bacteroides_sp_D2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_sp_D2.xml"
+ },
+ {
+  "organism": "Bacteroides sp. D20",
+  "model": "Bacteroides_sp_D20",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_sp_D20.xml"
+ },
+ {
+  "organism": "Bacteroides sp. D22",
+  "model": "Bacteroides_sp_D22",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_sp_D22.xml"
+ },
+ {
+  "organism": "Bacteroides stercoris ATCC 43183",
+  "model": "Bacteroides_stercoris_ATCC_43183",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_stercoris_ATCC_43183.xml"
+ },
+ {
+  "organism": "Bacteroides thetaiotaomicron VPI-5482",
+  "model": "Bacteroides_thetaiotaomicron_VPI_5482",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_thetaiotaomicron_VPI_5482.xml"
+ },
+ {
+  "organism": "Bacteroides timonensis AP1",
+  "model": "Bacteroides_timonensis_AP1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_timonensis_AP1.xml"
+ },
+ {
+  "organism": "Bacteroides uniformis ATCC 8492",
+  "model": "Bacteroides_uniformis_ATCC_8492",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_uniformis_ATCC_8492.xml"
+ },
+ {
+  "organism": "Bacteroides ureolyticus DSM 20703",
+  "model": "Bacteroides_ureolyticus_DSM_20703",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_ureolyticus_DSM_20703.xml"
+ },
+ {
+  "organism": "Bacteroides vulgatus ATCC 8482",
+  "model": "Bacteroides_vulgatus_ATCC_8482",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_vulgatus_ATCC_8482.xml"
+ },
+ {
+  "organism": "Bacteroides xylanisolvens SD CC 1b",
+  "model": "Bacteroides_xylanisolvens_SD_CC_1b",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_xylanisolvens_SD_CC_1b.xml"
+ },
+ {
+  "organism": "Bacteroides xylanisolvens XB1A",
+  "model": "Bacteroides_xylanisolvens_XB1A",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bacteroides_xylanisolvens_XB1A.xml"
+ },
+ {
+  "organism": "Barnesiella intestinihominis YIT 11860",
+  "model": "Barnesiella_intestinihominis_YIT_11860",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Barnesiella_intestinihominis_YIT_11860.xml"
+ },
+ {
+  "organism": "Bartonella quintana Toulouse",
+  "model": "Bartonella_quintana_Toulouse",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bartonella_quintana_Toulouse.xml"
+ },
+ {
+  "organism": "Bifidobacterium adolescentis ATCC 15703",
+  "model": "Bifidobacterium_adolescentis_ATCC_15703",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_adolescentis_ATCC_15703.xml"
+ },
+ {
+  "organism": "Bifidobacterium angulatum DSM 20098",
+  "model": "Bifidobacterium_angulatum_DSM_20098",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_angulatum_DSM_20098.xml"
+ },
+ {
+  "organism": "Bifidobacterium animalis lactis AD011",
+  "model": "Bifidobacterium_animalis_lactis_AD011",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_animalis_lactis_AD011.xml"
+ },
+ {
+  "organism": "Bifidobacterium animalis lactis BB-12",
+  "model": "Bifidobacterium_animalis_lactis_BB_12",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_animalis_lactis_BB_12.xml"
+ },
+ {
+  "organism": "Bifidobacterium animalis lactis Bi-07",
+  "model": "Bifidobacterium_animalis_lactis_Bi_07",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_animalis_lactis_Bi_07.xml"
+ },
+ {
+  "organism": "Bifidobacterium animalis lactis Bl-04, ATCC SD5219",
+  "model": "Bifidobacterium_animalis_lactis_Bl_04_ATCC_SD5219",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_animalis_lactis_Bl_04_ATCC_SD5219.xml"
+ },
+ {
+  "organism": "Bifidobacterium animalis lactis CNCM I-2494",
+  "model": "Bifidobacterium_animalis_lactis_CNCM_I_2494",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_animalis_lactis_CNCM_I_2494.xml"
+ },
+ {
+  "organism": "Bifidobacterium animalis lactis DSM 10140",
+  "model": "Bifidobacterium_animalis_lactis_DSM_10140",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_animalis_lactis_DSM_10140.xml"
+ },
+ {
+  "organism": "Bifidobacterium animalis lactis V9",
+  "model": "Bifidobacterium_animalis_lactis_V9",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_animalis_lactis_V9.xml"
+ },
+ {
+  "organism": "Bifidobacterium bifidum BGN4",
+  "model": "Bifidobacterium_bifidum_BGN4",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_bifidum_BGN4.xml"
+ },
+ {
+  "organism": "Bifidobacterium bifidum NCIMB 41171",
+  "model": "Bifidobacterium_bifidum_NCIMB_41171",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_bifidum_NCIMB_41171.xml"
+ },
+ {
+  "organism": "Bifidobacterium bifidum PRL2010",
+  "model": "Bifidobacterium_bifidum_PRL2010",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_bifidum_PRL2010.xml"
+ },
+ {
+  "organism": "Bifidobacterium bifidum S17",
+  "model": "Bifidobacterium_bifidum_S17",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_bifidum_S17.xml"
+ },
+ {
+  "organism": "Bifidobacterium boum DSM 20432",
+  "model": "Bifidobacterium_boum_DSM_20432",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_boum_DSM_20432.xml"
+ },
+ {
+  "organism": "Bifidobacterium breve HPH0326",
+  "model": "Bifidobacterium_breve_HPH0326",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_breve_HPH0326.xml"
+ },
+ {
+  "organism": "Bifidobacterium breve UCC2003 (NCIMB8807)",
+  "model": "Bifidobacterium_breve_UCC2003_NCIMB8807",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_breve_UCC2003_NCIMB8807.xml"
+ },
+ {
+  "organism": "Bifidobacterium catenulatum DSM 16992",
+  "model": "Bifidobacterium_catenulatum_DSM_16992",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_catenulatum_DSM_16992.xml"
+ },
+ {
+  "organism": "Bifidobacterium coryneforme DSM 20216",
+  "model": "Bifidobacterium_coryneforme_DSM_20216",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_coryneforme_DSM_20216.xml"
+ },
+ {
+  "organism": "Bifidobacterium dentium ATCC 27678",
+  "model": "Bifidobacterium_dentium_ATCC_27678",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_dentium_ATCC_27678.xml"
+ },
+ {
+  "organism": "Bifidobacterium gallicum DSM 20093",
+  "model": "Bifidobacterium_gallicum_DSM_20093",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_gallicum_DSM_20093.xml"
+ },
+ {
+  "organism": "Bifidobacterium kashiwanohense DSM 21854",
+  "model": "Bifidobacterium_kashiwanohense_DSM_21854",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_kashiwanohense_DSM_21854.xml"
+ },
+ {
+  "organism": "Bifidobacterium longum DJO10A",
+  "model": "Bifidobacterium_longum_DJO10A",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_longum_DJO10A.xml"
+ },
+ {
+  "organism": "Bifidobacterium longum E18",
+  "model": "Bifidobacterium_longum_E18",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_longum_E18.xml"
+ },
+ {
+  "organism": "Bifidobacterium longum NCC2705",
+  "model": "Bifidobacterium_longum_NCC2705",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_longum_NCC2705.xml"
+ },
+ {
+  "organism": "Bifidobacterium longum infantis 157F-NC",
+  "model": "Bifidobacterium_longum_infantis_157F_NC",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_longum_infantis_157F_NC.xml"
+ },
+ {
+  "organism": "Bifidobacterium longum infantis ATCC 15697",
+  "model": "Bifidobacterium_longum_infantis_ATCC_15697",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_longum_infantis_ATCC_15697.xml"
+ },
+ {
+  "organism": "Bifidobacterium longum longum ATCC 55813",
+  "model": "Bifidobacterium_longum_longum_ATCC_55813",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_longum_longum_ATCC_55813.xml"
+ },
+ {
+  "organism": "Bifidobacterium longum longum BBMN68",
+  "model": "Bifidobacterium_longum_longum_BBMN68",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_longum_longum_BBMN68.xml"
+ },
+ {
+  "organism": "Bifidobacterium longum longum CCUG 52486",
+  "model": "Bifidobacterium_longum_longum_CCUG_52486",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_longum_longum_CCUG_52486.xml"
+ },
+ {
+  "organism": "Bifidobacterium longum longum JCM 1217",
+  "model": "Bifidobacterium_longum_longum_JCM_1217",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_longum_longum_JCM_1217.xml"
+ },
+ {
+  "organism": "Bifidobacterium longum longum JDM301",
+  "model": "Bifidobacterium_longum_longum_JDM301",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_longum_longum_JDM301.xml"
+ },
+ {
+  "organism": "Bifidobacterium mongoliense DSM 21395",
+  "model": "Bifidobacterium_mongoliense_DSM_21395",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_mongoliense_DSM_21395.xml"
+ },
+ {
+  "organism": "Bifidobacterium pseudocatenulatum DSM 20438",
+  "model": "Bifidobacterium_pseudocatenulatum_DSM_20438",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_pseudocatenulatum_DSM_20438.xml"
+ },
+ {
+  "organism": "Bifidobacterium pseudolongum subsp. Pseudolongum DSM 20099",
+  "model": "Bifidobacterium_pseudolongum_subsp_Pseudolongum_DSM_20099",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_pseudolongum_subsp_Pseudolongum_DSM_20099.xml"
+ },
+ {
+  "organism": "Bifidobacterium ruminantium DSM 6489",
+  "model": "Bifidobacterium_ruminantium_DSM_6489",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_ruminantium_DSM_6489.xml"
+ },
+ {
+  "organism": "Bifidobacterium scardovii JCM 12489 = DSM 13734",
+  "model": "Bifidobacterium_scardovii_JCM_12489",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_scardovii_JCM_12489.xml"
+ },
+ {
+  "organism": "Bifidobacterium stercoris DSM 24849",
+  "model": "Bifidobacterium_stercoris_DSM_24849",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_stercoris_DSM_24849.xml"
+ },
+ {
+  "organism": "Bifidobacterium thermacidophilum subsp. thermacidophilum DSM 15837",
+  "model": "Bifidobacterium_thermacidophilum_subsp_thermacidophilum_DSM_15837",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_thermacidophilum_subsp_thermacidophilum_DSM_15837.xml"
+ },
+ {
+  "organism": "Bifidobacterium thermophilum RBL67",
+  "model": "Bifidobacterium_thermophilum_RBL67",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bifidobacterium_thermophilum_RBL67.xml"
+ },
+ {
+  "organism": "Bilophila wadsworthia 3_1_6",
+  "model": "Bilophila_wadsworthia_3_1_6",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bilophila_wadsworthia_3_1_6.xml"
+ },
+ {
+  "organism": "Blastococcus massiliensis AP3",
+  "model": "Blastococcus_massiliensis_AP3",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Blastococcus_massiliensis_AP3.xml"
+ },
+ {
+  "organism": "Blautia hansenii VPI C7-24, DSM 20583",
+  "model": "Blautia_hansenii_VPI_C7_24_DSM_20583",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Blautia_hansenii_VPI_C7_24_DSM_20583.xml"
+ },
+ {
+  "organism": "Blautia hydrogenotrophica DSM 10507",
+  "model": "Blautia_hydrogenotrophica_DSM_10507",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Blautia_hydrogenotrophica_DSM_10507.xml"
+ },
+ {
+  "organism": "Blautia obeum ATCC 29174",
+  "model": "Blautia_obeum_ATCC_29174",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Blautia_obeum_ATCC_29174.xml"
+ },
+ {
+  "organism": "Blautia producta DSM 2950",
+  "model": "Blautia_producta_DSM_2950",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Blautia_producta_DSM_2950.xml"
+ },
+ {
+  "organism": "Blautia wexlerae DSM 19850",
+  "model": "Blautia_wexlerae_DSM_19850",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Blautia_wexlerae_DSM_19850.xml"
+ },
+ {
+  "organism": "Bordetella hinzii OH87 BAL007II",
+  "model": "Bordetella_hinzii_OH87_BAL007II",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bordetella_hinzii_OH87_BAL007II.xml"
+ },
+ {
+  "organism": "Brachybacterium paraconglomeratum LC44",
+  "model": "Brachybacterium_paraconglomeratum_LC44",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Brachybacterium_paraconglomeratum_LC44.xml"
+ },
+ {
+  "organism": "Brachyspira pilosicoli B2904",
+  "model": "Brachyspira_pilosicoli_B2904",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Brachyspira_pilosicoli_B2904.xml"
+ },
+ {
+  "organism": "Bradyrhizobium elkanii USDA 76",
+  "model": "Bradyrhizobium_elkanii_USDA_76",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bradyrhizobium_elkanii_USDA_76.xml"
+ },
+ {
+  "organism": "Bradyrhizobium japonicum USDA 6",
+  "model": "Bradyrhizobium_japonicum_USDA_6",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bradyrhizobium_japonicum_USDA_6.xml"
+ },
+ {
+  "organism": "Brevibacillus agri 5-2",
+  "model": "Brevibacillus_agri_5_2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Brevibacillus_agri_5_2.xml"
+ },
+ {
+  "organism": "Brevibacillus agri BAB-2500",
+  "model": "Brevibacillus_agri_BAB_2500",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Brevibacillus_agri_BAB_2500.xml"
+ },
+ {
+  "organism": "Brevibacillus borstelensis AK1",
+  "model": "Brevibacillus_borstelensis_AK1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Brevibacillus_borstelensis_AK1.xml"
+ },
+ {
+  "organism": "Brevibacillus brevis NBRC 100599",
+  "model": "Brevibacillus_brevis_NBRC_100599",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Brevibacillus_brevis_NBRC_100599.xml"
+ },
+ {
+  "organism": "Brevibacterium casei S18",
+  "model": "Brevibacterium_casei_S18",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Brevibacterium_casei_S18.xml"
+ },
+ {
+  "organism": "Brevibacterium linens BL2",
+  "model": "Brevibacterium_linens_BL2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Brevibacterium_linens_BL2.xml"
+ },
+ {
+  "organism": "Brevibacterium massiliense 5401308",
+  "model": "Brevibacterium_massiliense_5401308",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Brevibacterium_massiliense_5401308.xml"
+ },
+ {
+  "organism": "Brevundimonas bacteroides DSM 4726",
+  "model": "Brevundimonas_bacteroides_DSM_4726",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Brevundimonas_bacteroides_DSM_4726.xml"
+ },
+ {
+  "organism": "Brevundimonas diminuta 470-4",
+  "model": "Brevundimonas_diminuta_470_4",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Brevundimonas_diminuta_470_4.xml"
+ },
+ {
+  "organism": "Brochothrix thermosphacta DSM 20171 = FSL F6-1036",
+  "model": "Brochothrix_thermosphacta_DSM_20171",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Brochothrix_thermosphacta_DSM_20171.xml"
+ },
+ {
+  "organism": "Bulleidia extructa W1219",
+  "model": "Bulleidia_extructa_W1219",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Bulleidia_extructa_W1219.xml"
+ },
+ {
+  "organism": "Burkholderia cepacia GG4",
+  "model": "Burkholderia_cepacia_GG4",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Burkholderia_cepacia_GG4.xml"
+ },
+ {
+  "organism": "Burkholderiales bacterium 1_1_47",
+  "model": "Burkholderiales_bacterium_1_1_47",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Burkholderiales_bacterium_1_1_47.xml"
+ },
+ {
+  "organism": "Butyricicoccus pullicaecorum 1.2",
+  "model": "Butyricicoccus_pullicaecorum_1_2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Butyricicoccus_pullicaecorum_1_2.xml"
+ },
+ {
+  "organism": "Butyricimonas synergistica DSM 23225",
+  "model": "Butyricimonas_synergistica_DSM_23225",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Butyricimonas_synergistica_DSM_23225.xml"
+ },
+ {
+  "organism": "Butyricimonas virosa DSM 23226",
+  "model": "Butyricimonas_virosa_DSM_23226",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Butyricimonas_virosa_DSM_23226.xml"
+ },
+ {
+  "organism": "Butyrivibrio crossotus DSM 2876",
+  "model": "Butyrivibrio_crossotus_DSM_2876",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Butyrivibrio_crossotus_DSM_2876.xml"
+ },
+ {
+  "organism": "Butyrivibrio fibrisolvens 16/4",
+  "model": "Butyrivibrio_fibrisolvens_16_4",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Butyrivibrio_fibrisolvens_16_4.xml"
+ },
+ {
+  "organism": "Campylobacter coli JV20",
+  "model": "Campylobacter_coli_JV20",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Campylobacter_coli_JV20.xml"
+ },
+ {
+  "organism": "Campylobacter concisus 13826",
+  "model": "Campylobacter_concisus_13826",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Campylobacter_concisus_13826.xml"
+ },
+ {
+  "organism": "Campylobacter curvus 525.92",
+  "model": "Campylobacter_curvus_525_92",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Campylobacter_curvus_525_92.xml"
+ },
+ {
+  "organism": "Campylobacter fetus subsp. fetus 82-40",
+  "model": "Campylobacter_fetus_subsp_fetus_82_40",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Campylobacter_fetus_subsp_fetus_82_40.xml"
+ },
+ {
+  "organism": "Campylobacter gracilis RM3268",
+  "model": "Campylobacter_gracilis_RM3268",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Campylobacter_gracilis_RM3268.xml"
+ },
+ {
+  "organism": "Campylobacter hominis ATCC BAA-381",
+  "model": "Campylobacter_hominis_ATCC_BAA_381",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Campylobacter_hominis_ATCC_BAA_381.xml"
+ },
+ {
+  "organism": "Campylobacter hyointestinalis subsp. hyointestinalis LMG 9260",
+  "model": "Campylobacter_hyointestinalis_subsp_hyointestinalis_LMG_9260",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Campylobacter_hyointestinalis_subsp_hyointestinalis_LMG_9260.xml"
+ },
+ {
+  "organism": "Campylobacter jejuni jejuni 81-176",
+  "model": "Campylobacter_jejuni_jejuni_81_176",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Campylobacter_jejuni_jejuni_81_176.xml"
+ },
+ {
+  "organism": "Campylobacter jejuni jejuni ICDCCJ07004",
+  "model": "Campylobacter_jejuni_jejuni_ICDCCJ07004",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Campylobacter_jejuni_jejuni_ICDCCJ07004.xml"
+ },
+ {
+  "organism": "Campylobacter jejuni jejuni M1",
+  "model": "Campylobacter_jejuni_jejuni_M1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Campylobacter_jejuni_jejuni_M1.xml"
+ },
+ {
+  "organism": "Campylobacter jejuni jejuni NCTC 11168",
+  "model": "Campylobacter_jejuni_jejuni_NCTC_11168",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Campylobacter_jejuni_jejuni_NCTC_11168.xml"
+ },
+ {
+  "organism": "Campylobacter lari RM2100",
+  "model": "Campylobacter_lari_RM2100",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Campylobacter_lari_RM2100.xml"
+ },
+ {
+  "organism": "Campylobacter rectus RM3267",
+  "model": "Campylobacter_rectus_RM3267",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Campylobacter_rectus_RM3267.xml"
+ },
+ {
+  "organism": "Campylobacter showae CSUNSWCD",
+  "model": "Campylobacter_showae_CSUNSWCD",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Campylobacter_showae_CSUNSWCD.xml"
+ },
+ {
+  "organism": "Campylobacter upsaliensis JV21",
+  "model": "Campylobacter_upsaliensis_JV21",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Campylobacter_upsaliensis_JV21.xml"
+ },
+ {
+  "organism": "Candidatus Nitrososphaera gargensis Ga9.2",
+  "model": "Candidatus_Nitrososphaera_gargensis_Ga9_2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Candidatus_Nitrososphaera_gargensis_Ga9_2.xml"
+ },
+ {
+  "organism": "Capnocytophaga granulosa ATCC 51502",
+  "model": "Capnocytophaga_granulosa_ATCC_51502",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Capnocytophaga_granulosa_ATCC_51502.xml"
+ },
+ {
+  "organism": "Capnocytophaga ochracea DSM 7271 ",
+  "model": "Capnocytophaga_ochracea_DSM_7271",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Capnocytophaga_ochracea_DSM_7271.xml"
+ },
+ {
+  "organism": "Capnocytophaga sputigena ATCC 33612",
+  "model": "Capnocytophaga_sputigena_ATCC_33612",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Capnocytophaga_sputigena_ATCC_33612.xml"
+ },
+ {
+  "organism": "Catenibacterium mitsuokai DSM 15897",
+  "model": "Catenibacterium_mitsuokai_DSM_15897",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Catenibacterium_mitsuokai_DSM_15897.xml"
+ },
+ {
+  "organism": "Cedecea davisae DSM 4568",
+  "model": "Cedecea_davisae_DSM_4568",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Cedecea_davisae_DSM_4568.xml"
+ },
+ {
+  "organism": "Cellulosilyticum lentocellum DSM 5427",
+  "model": "Cellulosilyticum_lentocellum_DSM_5427",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Cellulosilyticum_lentocellum_DSM_5427.xml"
+ },
+ {
+  "organism": "Cellulosimicrobium cellulans J36",
+  "model": "Cellulosimicrobium_cellulans_J36",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Cellulosimicrobium_cellulans_J36.xml"
+ },
+ {
+  "organism": "Cetobacterium somerae ATCC BAA-47401",
+  "model": "Cetobacterium_somerae_ATCC_BAA_47401",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Cetobacterium_somerae_ATCC_BAA_47401.xml"
+ },
+ {
+  "organism": "Citrobacter amalonaticus Y19",
+  "model": "Citrobacter_amalonaticus_Y19",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Citrobacter_amalonaticus_Y19.xml"
+ },
+ {
+  "organism": "Citrobacter freundii ATCC 8090 = MTCC 1658",
+  "model": "Citrobacter_freundii_ATCC_8090",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Citrobacter_freundii_ATCC_8090.xml"
+ },
+ {
+  "organism": "Citrobacter freundii UCI 31",
+  "model": "Citrobacter_freundii_UCI_31",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Citrobacter_freundii_UCI_31.xml"
+ },
+ {
+  "organism": "Citrobacter koseri ATCC BAA-895",
+  "model": "Citrobacter_koseri_ATCC_BAA_895",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Citrobacter_koseri_ATCC_BAA_895.xml"
+ },
+ {
+  "organism": "Citrobacter sp. 30_2",
+  "model": "Citrobacter_sp_30_2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Citrobacter_sp_30_2.xml"
+ },
+ {
+  "organism": "Citrobacter youngae ATCC 29220",
+  "model": "Citrobacter_youngae_ATCC_29220",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Citrobacter_youngae_ATCC_29220.xml"
+ },
+ {
+  "organism": "Cloacibacillus evryensis DSM 19522",
+  "model": "Cloacibacillus_evryensis_DSM_19522",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Cloacibacillus_evryensis_DSM_19522.xml"
+ },
+ {
+  "organism": "Clostridiales sp. 1_7_47FAA",
+  "model": "Clostridiales_sp_1_7_47FAA",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridiales_sp_1_7_47FAA.xml"
+ },
+ {
+  "organism": "Clostridium acetobutylicum ATCC 824",
+  "model": "Clostridium_acetobutylicum_ATCC_824",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_acetobutylicum_ATCC_824.xml"
+ },
+ {
+  "organism": "Clostridium asparagiforme DSM 15981",
+  "model": "Clostridium_asparagiforme_DSM_15981",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_asparagiforme_DSM_15981.xml"
+ },
+ {
+  "organism": "Clostridium bartlettii DSM 16795",
+  "model": "Clostridium_bartlettii_DSM_16795",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_bartlettii_DSM_16795.xml"
+ },
+ {
+  "organism": "Clostridium beijerinckii NCIMB 8052",
+  "model": "Clostridium_beijerinckii_NCIMB_8052",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_beijerinckii_NCIMB_8052.xml"
+ },
+ {
+  "organism": "Clostridium bifermentans ATCC 19299",
+  "model": "Clostridium_bifermentans_ATCC_19299",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_bifermentans_ATCC_19299.xml"
+ },
+ {
+  "organism": "Clostridium bolteae ATCC BAA-613",
+  "model": "Clostridium_bolteae_ATCC_BAA_613",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_bolteae_ATCC_BAA_613.xml"
+ },
+ {
+  "organism": "Clostridium botulinum A str. ATCC 19397",
+  "model": "Clostridium_botulinum_A_str_ATCC_19397",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_botulinum_A_str_ATCC_19397.xml"
+ },
+ {
+  "organism": "Clostridium botulinum A str. ATCC 3502",
+  "model": "Clostridium_botulinum_A_str_ATCC_3502",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_botulinum_A_str_ATCC_3502.xml"
+ },
+ {
+  "organism": "Clostridium botulinum A str. Hall",
+  "model": "Clostridium_botulinum_A_str_Hall",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_botulinum_A_str_Hall.xml"
+ },
+ {
+  "organism": "Clostridium botulinum Bf",
+  "model": "Clostridium_botulinum_Bf",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_botulinum_Bf.xml"
+ },
+ {
+  "organism": "Clostridium botulinum E1 str. 'BoNT E Beluga'",
+  "model": "Clostridium_botulinum_E1_str_BoNT_E_Beluga",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_botulinum_E1_str_BoNT_E_Beluga.xml"
+ },
+ {
+  "organism": "Clostridium botulinum F str. 230613",
+  "model": "Clostridium_botulinum_F_str_230613",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_botulinum_F_str_230613.xml"
+ },
+ {
+  "organism": "Clostridium butyricum DSM 10702",
+  "model": "Clostridium_butyricum_DSM_10702",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_butyricum_DSM_10702.xml"
+ },
+ {
+  "organism": "Clostridium butyricum E4 str. BoNT E BL5262",
+  "model": "Clostridium_butyricum_E4_str_BoNT_E_BL5262",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_butyricum_E4_str_BoNT_E_BL5262.xml"
+ },
+ {
+  "organism": "Clostridium cadaveris AGR2141",
+  "model": "Clostridium_cadaveris_AGR2141",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_cadaveris_AGR2141.xml"
+ },
+ {
+  "organism": "Clostridium celatum DSM 1785",
+  "model": "Clostridium_celatum_DSM_1785",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_celatum_DSM_1785.xml"
+ },
+ {
+  "organism": "Clostridium cellobioparum DSM 1351 = ATCC 15832",
+  "model": "Clostridium_cellobioparum_DSM_1351",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_cellobioparum_DSM_1351.xml"
+ },
+ {
+  "organism": "Clostridium citroniae WAL-17108",
+  "model": "Clostridium_citroniae_WAL_17108",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_citroniae_WAL_17108.xml"
+ },
+ {
+  "organism": "Clostridium clariflavum DSM 19732",
+  "model": "Clostridium_clariflavum_DSM_19732",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_clariflavum_DSM_19732.xml"
+ },
+ {
+  "organism": "Clostridium clostridioforme CM201",
+  "model": "Clostridium_clostridioforme_CM201",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_clostridioforme_CM201.xml"
+ },
+ {
+  "organism": "Clostridium difficile CD196",
+  "model": "Clostridium_difficile_CD196",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_difficile_CD196.xml"
+ },
+ {
+  "organism": "Clostridium difficile NAP07",
+  "model": "Clostridium_difficile_NAP07",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_difficile_NAP07.xml"
+ },
+ {
+  "organism": "Clostridium difficile NAP08",
+  "model": "Clostridium_difficile_NAP08",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_difficile_NAP08.xml"
+ },
+ {
+  "organism": "Clostridium difficile R20291",
+  "model": "Clostridium_difficile_R20291",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_difficile_R20291.xml"
+ },
+ {
+  "organism": "Clostridium glycolicum ATCC 14880 = DSM 1288",
+  "model": "Clostridium_glycolicum_ATCC_14880",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_glycolicum_ATCC_14880.xml"
+ },
+ {
+  "organism": "Clostridium hathewayi 12489931",
+  "model": "Clostridium_hathewayi_12489931",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_hathewayi_12489931.xml"
+ },
+ {
+  "organism": "Clostridium hathewayi DSM 13479",
+  "model": "Clostridium_hathewayi_DSM_13479",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_hathewayi_DSM_13479.xml"
+ },
+ {
+  "organism": "Clostridium hiranonis TO-931 DSM 13275",
+  "model": "Clostridium_hiranonis_TO_931_DSM_13275",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_hiranonis_TO_931_DSM_13275.xml"
+ },
+ {
+  "organism": "Clostridium hylemonae DSM 15053",
+  "model": "Clostridium_hylemonae_DSM_15053",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_hylemonae_DSM_15053.xml"
+ },
+ {
+  "organism": "Clostridium indolis DSM 755",
+  "model": "Clostridium_indolis_DSM_755",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_indolis_DSM_755.xml"
+ },
+ {
+  "organism": "Clostridium innocuum 2959",
+  "model": "Clostridium_innocuum_2959",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_innocuum_2959.xml"
+ },
+ {
+  "organism": "Clostridium leptum DSM 753",
+  "model": "Clostridium_leptum_DSM_753",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_leptum_DSM_753.xml"
+ },
+ {
+  "organism": "Clostridium methoxybenzovorans SR3",
+  "model": "Clostridium_methoxybenzovorans_SR3",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_methoxybenzovorans_SR3.xml"
+ },
+ {
+  "organism": "Clostridium methylpentosum R2, DSM 5476",
+  "model": "Clostridium_methylpentosum_R2_DSM_5476",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_methylpentosum_R2_DSM_5476.xml"
+ },
+ {
+  "organism": "Clostridium nexile DSM 1787",
+  "model": "Clostridium_nexile_DSM_1787",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_nexile_DSM_1787.xml"
+ },
+ {
+  "organism": "Clostridium paraputrificum AGR2156",
+  "model": "Clostridium_paraputrificum_AGR2156",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_paraputrificum_AGR2156.xml"
+ },
+ {
+  "organism": "Clostridium perfringens ATCC 13124",
+  "model": "Clostridium_perfringens_ATCC_13124",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_perfringens_ATCC_13124.xml"
+ },
+ {
+  "organism": "Clostridium ramosum VPI 0427, DSM 1402",
+  "model": "Clostridium_ramosum_VPI_0427_DSM_1402",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_ramosum_VPI_0427_DSM_1402.xml"
+ },
+ {
+  "organism": "Clostridium saccharogumia DSM 17460",
+  "model": "Clostridium_saccharogumia_DSM_17460",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_saccharogumia_DSM_17460.xml"
+ },
+ {
+  "organism": "Clostridium saccharoperbutylacetonicum N1-4(HMT)",
+  "model": "Clostridium_saccharoperbutylacetonicum_N1_4_HMT",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_saccharoperbutylacetonicum_N1_4_HMT.xml"
+ },
+ {
+  "organism": "Clostridium sartagoforme AAU1",
+  "model": "Clostridium_sartagoforme_AAU1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_sartagoforme_AAU1.xml"
+ },
+ {
+  "organism": "Clostridium scindens ATCC 35704",
+  "model": "Clostridium_scindens_ATCC_35704",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_scindens_ATCC_35704.xml"
+ },
+ {
+  "organism": "Clostridium sordellii ATCC 9714",
+  "model": "Clostridium_sordellii_ATCC_9714",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_sordellii_ATCC_9714.xml"
+ },
+ {
+  "organism": "Clostridium sp. 7_2_43FAA",
+  "model": "Clostridium_sp_7_2_43FAA",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_sp_7_2_43FAA.xml"
+ },
+ {
+  "organism": "Clostridium sp. L2-50",
+  "model": "Clostridium_sp_L2_50",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_sp_L2_50.xml"
+ },
+ {
+  "organism": "Clostridium sp M62/1",
+  "model": "Clostridium_sp_M62_1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_sp_M62_1.xml"
+ },
+ {
+  "organism": "Clostridium sp. SS2/1",
+  "model": "Clostridium_sp_SS2_1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_sp_SS2_1.xml"
+ },
+ {
+  "organism": "Clostridium sp. SY8519",
+  "model": "Clostridium_sp_SY8519",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_sp_SY8519.xml"
+ },
+ {
+  "organism": "Clostridium spiroforme DSM 1552",
+  "model": "Clostridium_spiroforme_DSM_1552",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_spiroforme_DSM_1552.xml"
+ },
+ {
+  "organism": "Clostridium sporogenes ATCC 15579",
+  "model": "Clostridium_sporogenes_ATCC_15579",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_sporogenes_ATCC_15579.xml"
+ },
+ {
+  "organism": "Clostridium sporosphaeroides DSM 1294",
+  "model": "Clostridium_sporosphaeroides_DSM_1294",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_sporosphaeroides_DSM_1294.xml"
+ },
+ {
+  "organism": "Clostridium sticklandii DSM 519",
+  "model": "Clostridium_sticklandii_DSM_519",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_sticklandii_DSM_519.xml"
+ },
+ {
+  "organism": "Clostridium symbiosum ATCC 14940",
+  "model": "Clostridium_symbiosum_ATCC_14940",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_symbiosum_ATCC_14940.xml"
+ },
+ {
+  "organism": "Clostridium symbiosum WAL-14163",
+  "model": "Clostridium_symbiosum_WAL_14163",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_symbiosum_WAL_14163.xml"
+ },
+ {
+  "organism": "Clostridium symbiosum WAL-14673",
+  "model": "Clostridium_symbiosum_WAL_14673",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_symbiosum_WAL_14673.xml"
+ },
+ {
+  "organism": "Clostridium tyrobutyricum DSM 2637 = ATCC 25755 = JCM 11008",
+  "model": "Clostridium_tyrobutyricum_DSM_2637",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_tyrobutyricum_DSM_2637.xml"
+ },
+ {
+  "organism": "Clostridium viride DSM 6836",
+  "model": "Clostridium_viride_DSM_6836",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Clostridium_viride_DSM_6836.xml"
+ },
+ {
+  "organism": "Collinsella aerofaciens ATCC 25986",
+  "model": "Collinsella_aerofaciens_ATCC_25986",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Collinsella_aerofaciens_ATCC_25986.xml"
+ },
+ {
+  "organism": "Collinsella intestinalis DSM 13280",
+  "model": "Collinsella_intestinalis_DSM_13280",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Collinsella_intestinalis_DSM_13280.xml"
+ },
+ {
+  "organism": "Collinsella stercoris DSM 13279",
+  "model": "Collinsella_stercoris_DSM_13279",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Collinsella_stercoris_DSM_13279.xml"
+ },
+ {
+  "organism": "Collinsella tanakaei YIT 12063",
+  "model": "Collinsella_tanakaei_YIT_12063",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Collinsella_tanakaei_YIT_12063.xml"
+ },
+ {
+  "organism": "Comamonas testosteroni CNB-2",
+  "model": "Comamonas_testosteroni_CNB_2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Comamonas_testosteroni_CNB_2.xml"
+ },
+ {
+  "organism": "Coprobacillus sp. 29_1",
+  "model": "Coprobacillus_sp_29_1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Coprobacillus_sp_29_1.xml"
+ },
+ {
+  "organism": "Coprobacillus sp. D7",
+  "model": "Coprobacillus_sp_D7",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Coprobacillus_sp_D7.xml"
+ },
+ {
+  "organism": "Coprococcus catus GD/7",
+  "model": "Coprococcus_catus_GD_7",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Coprococcus_catus_GD_7.xml"
+ },
+ {
+  "organism": "Coprococcus comes ATCC 27758",
+  "model": "Coprococcus_comes_ATCC_27758",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Coprococcus_comes_ATCC_27758.xml"
+ },
+ {
+  "organism": "Coprococcus eutactus ATCC 27759",
+  "model": "Coprococcus_eutactus_ATCC_27759",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Coprococcus_eutactus_ATCC_27759.xml"
+ },
+ {
+  "organism": "Corynebacterium ammoniagenes DSM 20306",
+  "model": "Corynebacterium_ammoniagenes_DSM_20306",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Corynebacterium_ammoniagenes_DSM_20306.xml"
+ },
+ {
+  "organism": "Corynebacterium amycolatum SK46",
+  "model": "Corynebacterium_amycolatum_SK46",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Corynebacterium_amycolatum_SK46.xml"
+ },
+ {
+  "organism": "Corynebacterium aurimucosum ATCC 700975",
+  "model": "Corynebacterium_aurimucosum_ATCC_700975",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Corynebacterium_aurimucosum_ATCC_700975.xml"
+ },
+ {
+  "organism": "Corynebacterium durum F0235",
+  "model": "Corynebacterium_durum_F0235",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Corynebacterium_durum_F0235.xml"
+ },
+ {
+  "organism": "Corynebacterium glucuronolyticum ATCC 51867",
+  "model": "Corynebacterium_glucuronolyticum_ATCC_51867",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Corynebacterium_glucuronolyticum_ATCC_51867.xml"
+ },
+ {
+  "organism": "Corynebacterium kroppenstedtii DSM 44385",
+  "model": "Corynebacterium_kroppenstedtii_DSM_44385",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Corynebacterium_kroppenstedtii_DSM_44385.xml"
+ },
+ {
+  "organism": "Corynebacterium propinquum DSM 44285",
+  "model": "Corynebacterium_propinquum_DSM_44285",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Corynebacterium_propinquum_DSM_44285.xml"
+ },
+ {
+  "organism": "Corynebacterium striatum ATCC 6940",
+  "model": "Corynebacterium_striatum_ATCC_6940",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Corynebacterium_striatum_ATCC_6940.xml"
+ },
+ {
+  "organism": "Corynebacterium tuberculostearicum SK141",
+  "model": "Corynebacterium_tuberculostearicum_SK141",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Corynebacterium_tuberculostearicum_SK141.xml"
+ },
+ {
+  "organism": "Corynebacterium ulcerans 809",
+  "model": "Corynebacterium_ulcerans_809",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Corynebacterium_ulcerans_809.xml"
+ },
+ {
+  "organism": "Corynebacterium ureicelerivorans",
+  "model": "Corynebacterium_ureicelerivorans",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Corynebacterium_ureicelerivorans.xml"
+ },
+ {
+  "organism": "Cronobacter sakazakii ATCC BAA-894",
+  "model": "Cronobacter_sakazakii_ATCC_BAA_894",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Cronobacter_sakazakii_ATCC_BAA_894.xml"
+ },
+ {
+  "organism": "Cryptobacterium curtum DSM 15641",
+  "model": "Cryptobacterium_curtum_DSM_15641",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Cryptobacterium_curtum_DSM_15641.xml"
+ },
+ {
+  "organism": "Curtobacterium flaccumfaciens UCD-AKU",
+  "model": "Curtobacterium_flaccumfaciens_UCD_AKU",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Curtobacterium_flaccumfaciens_UCD_AKU.xml"
+ },
+ {
+  "organism": "Delftia acidovorans SPH-1",
+  "model": "Delftia_acidovorans_SPH_1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Delftia_acidovorans_SPH_1.xml"
+ },
+ {
+  "organism": "Dermacoccus nishinomiyaensis",
+  "model": "Dermacoccus_nishinomiyaensis",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Dermacoccus_nishinomiyaensis.xml"
+ },
+ {
+  "organism": "Desulfovibrio desulfuricans subsp. desulfuricans DSM 642",
+  "model": "Desulfovibrio_desulfuricans_subsp_desulfuricans_DSM_642",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Desulfovibrio_desulfuricans_subsp_desulfuricans_DSM_642.xml"
+ },
+ {
+  "organism": "Desulfovibrio piger ATCC 29098",
+  "model": "Desulfovibrio_piger_ATCC_29098",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Desulfovibrio_piger_ATCC_29098.xml"
+ },
+ {
+  "organism": "Desulfovibrio sp. 3_1_syn3",
+  "model": "Desulfovibrio_sp_3_1_syn3",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Desulfovibrio_sp_3_1_syn3.xml"
+ },
+ {
+  "organism": "Dialister invisus DSM 15470",
+  "model": "Dialister_invisus_DSM_15470",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Dialister_invisus_DSM_15470.xml"
+ },
+ {
+  "organism": "Dialister succinatiphilus YIT 11850",
+  "model": "Dialister_succinatiphilus_YIT_11850",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Dialister_succinatiphilus_YIT_11850.xml"
+ },
+ {
+  "organism": "Dietzia cinnamea P4",
+  "model": "Dietzia_cinnamea_P4",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Dietzia_cinnamea_P4.xml"
+ },
+ {
+  "organism": "Dorea formicigenerans ATCC 27755",
+  "model": "Dorea_formicigenerans_ATCC_27755",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Dorea_formicigenerans_ATCC_27755.xml"
+ },
+ {
+  "organism": "Dorea longicatena DSM 13814",
+  "model": "Dorea_longicatena_DSM_13814",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Dorea_longicatena_DSM_13814.xml"
+ },
+ {
+  "organism": "Dyadobacter beijingensis DSM 21582",
+  "model": "Dyadobacter_beijingensis_DSM_21582",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Dyadobacter_beijingensis_DSM_21582.xml"
+ },
+ {
+  "organism": "Dyadobacter fermentans DSM 18053",
+  "model": "Dyadobacter_fermentans_DSM_18053",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Dyadobacter_fermentans_DSM_18053.xml"
+ },
+ {
+  "organism": "Dysgonomonas gadei ATCC BAA-286",
+  "model": "Dysgonomonas_gadei_ATCC_BAA_286",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Dysgonomonas_gadei_ATCC_BAA_286.xml"
+ },
+ {
+  "organism": "Edwardsiella tarda ATCC 23685",
+  "model": "Edwardsiella_tarda_ATCC_23685",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Edwardsiella_tarda_ATCC_23685.xml"
+ },
+ {
+  "organism": "Edwardsiella tarda FL6-60",
+  "model": "Edwardsiella_tarda_FL6_60",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Edwardsiella_tarda_FL6_60.xml"
+ },
+ {
+  "organism": "Eggerthella lenta DSM 2243",
+  "model": "Eggerthella_lenta_DSM_2243",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eggerthella_lenta_DSM_2243.xml"
+ },
+ {
+  "organism": "Eggerthella sp. 1_3_56FAA",
+  "model": "Eggerthella_sp_1_3_56FAA",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eggerthella_sp_1_3_56FAA.xml"
+ },
+ {
+  "organism": "Eggerthella sp. YY7918",
+  "model": "Eggerthella_sp_YY7918",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eggerthella_sp_YY7918.xml"
+ },
+ {
+  "organism": "Eggerthia catenaformis OT 569 = DSM 20559",
+  "model": "Eggerthia_catenaformis_OT_569",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eggerthia_catenaformis_OT_569.xml"
+ },
+ {
+  "organism": "Eikenella corrodens ATCC 23834",
+  "model": "Eikenella_corrodens_ATCC_23834",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eikenella_corrodens_ATCC_23834.xml"
+ },
+ {
+  "organism": "Enterobacter aerogenes KCTC 2190",
+  "model": "Enterobacter_aerogenes_KCTC_2190",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterobacter_aerogenes_KCTC_2190.xml"
+ },
+ {
+  "organism": "Enterobacter asburiae LF7a",
+  "model": "Enterobacter_asburiae_LF7a",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterobacter_asburiae_LF7a.xml"
+ },
+ {
+  "organism": "Enterobacter cancerogenus ATCC 35316",
+  "model": "Enterobacter_cancerogenus_ATCC_35316",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterobacter_cancerogenus_ATCC_35316.xml"
+ },
+ {
+  "organism": "Enterobacter cloacae EcWSU1",
+  "model": "Enterobacter_cloacae_EcWSU1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterobacter_cloacae_EcWSU1.xml"
+ },
+ {
+  "organism": "Enterobacter hormaechei YT2",
+  "model": "Enterobacter_hormaechei_YT2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterobacter_hormaechei_YT2.xml"
+ },
+ {
+  "organism": "Enterobacter hormaechei YT3",
+  "model": "Enterobacter_hormaechei_YT3",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterobacter_hormaechei_YT3.xml"
+ },
+ {
+  "organism": "Enterobacteriaceae bacterium 9_2_54FAA",
+  "model": "Enterobacteriaceae_bacterium_9_2_54FAA",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterobacteriaceae_bacterium_9_2_54FAA.xml"
+ },
+ {
+  "organism": "Enterococcus asini ATCC 700915",
+  "model": "Enterococcus_asini_ATCC_700915",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterococcus_asini_ATCC_700915.xml"
+ },
+ {
+  "organism": "Enterococcus avium ATCC 14025",
+  "model": "Enterococcus_avium_ATCC_14025",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterococcus_avium_ATCC_14025.xml"
+ },
+ {
+  "organism": "Enterococcus caccae ATCC BAA-1240",
+  "model": "Enterococcus_caccae_ATCC_BAA_1240",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterococcus_caccae_ATCC_BAA_1240.xml"
+ },
+ {
+  "organism": "Enterococcus casseliflavus ATCC 12755",
+  "model": "Enterococcus_casseliflavus_ATCC_12755",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterococcus_casseliflavus_ATCC_12755.xml"
+ },
+ {
+  "organism": "Enterococcus cecorum DSM 20682 = ATCC 43198",
+  "model": "Enterococcus_cecorum_DSM_20682",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterococcus_cecorum_DSM_20682.xml"
+ },
+ {
+  "organism": "Enterococcus dispar ATCC 51266",
+  "model": "Enterococcus_dispar_ATCC_51266",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterococcus_dispar_ATCC_51266.xml"
+ },
+ {
+  "organism": "Enterococcus durans ATCC 6056",
+  "model": "Enterococcus_durans_ATCC_6056",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterococcus_durans_ATCC_6056.xml"
+ },
+ {
+  "organism": "Enterococcus faecalis OG1RF, ATCC 47077",
+  "model": "Enterococcus_faecalis_OG1RF_ATCC_47077",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterococcus_faecalis_OG1RF_ATCC_47077.xml"
+ },
+ {
+  "organism": "Enterococcus faecalis TX0104",
+  "model": "Enterococcus_faecalis_TX0104",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterococcus_faecalis_TX0104.xml"
+ },
+ {
+  "organism": "Enterococcus faecalis TX1322",
+  "model": "Enterococcus_faecalis_TX1322",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterococcus_faecalis_TX1322.xml"
+ },
+ {
+  "organism": "Enterococcus faecalis TX2134",
+  "model": "Enterococcus_faecalis_TX2134",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterococcus_faecalis_TX2134.xml"
+ },
+ {
+  "organism": "Enterococcus faecalis V583",
+  "model": "Enterococcus_faecalis_V583",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterococcus_faecalis_V583.xml"
+ },
+ {
+  "organism": "Enterococcus faecium TX1330",
+  "model": "Enterococcus_faecium_TX1330",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterococcus_faecium_TX1330.xml"
+ },
+ {
+  "organism": "Enterococcus gallinarum EG2",
+  "model": "Enterococcus_gallinarum_EG2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterococcus_gallinarum_EG2.xml"
+ },
+ {
+  "organism": "Enterococcus hirae ATCC 9790",
+  "model": "Enterococcus_hirae_ATCC_9790",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterococcus_hirae_ATCC_9790.xml"
+ },
+ {
+  "organism": "Enterococcus phoeniculicola ATCC BAA-412",
+  "model": "Enterococcus_phoeniculicola_ATCC_BAA_412",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterococcus_phoeniculicola_ATCC_BAA_412.xml"
+ },
+ {
+  "organism": "Enterococcus saccharolyticus DSM8903",
+  "model": "Enterococcus_saccharolyticus_DSM8903",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterococcus_saccharolyticus_DSM8903.xml"
+ },
+ {
+  "organism": "Enterococcus sp. 7L76",
+  "model": "Enterococcus_sp_7L76",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Enterococcus_sp_7L76.xml"
+ },
+ {
+  "organism": "Erysipelotrichaceae bacterium 5_2_54FAA",
+  "model": "Erysipelotrichaceae_bacterium_5_2_54FAA",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Erysipelotrichaceae_bacterium_5_2_54FAA.xml"
+ },
+ {
+  "organism": "Erysipelotrichaceae bacterium sp. 3_1_53",
+  "model": "Erysipelotrichaceae_bacterium_sp_3_1_53",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Erysipelotrichaceae_bacterium_sp_3_1_53.xml"
+ },
+ {
+  "organism": "Escherichia albertii KF1",
+  "model": "Escherichia_albertii_KF1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Escherichia_albertii_KF1.xml"
+ },
+ {
+  "organism": "Escherichia albertii TW07627",
+  "model": "Escherichia_albertii_TW07627",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Escherichia_albertii_TW07627.xml"
+ },
+ {
+  "organism": "Escherichia coli O157:H7 str. Sakai",
+  "model": "Escherichia_coli_O157_H7_str_Sakai",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Escherichia_coli_O157_H7_str_Sakai.xml"
+ },
+ {
+  "organism": "Escherichia coli SE11",
+  "model": "Escherichia_coli_SE11",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Escherichia_coli_SE11.xml"
+ },
+ {
+  "organism": "Escherichia coli UTI89 (UPEC)",
+  "model": "Escherichia_coli_UTI89_UPEC",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Escherichia_coli_UTI89_UPEC.xml"
+ },
+ {
+  "organism": "Escherichia coli str. K-12 substr. MG1655",
+  "model": "Escherichia_coli_str_K_12_substr_MG1655",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Escherichia_coli_str_K_12_substr_MG1655.xml"
+ },
+ {
+  "organism": "Escherichia fergusonii ATCC 35469",
+  "model": "Escherichia_fergusonii_ATCC_35469",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Escherichia_fergusonii_ATCC_35469.xml"
+ },
+ {
+  "organism": "Escherichia hermannii NBRC 105704",
+  "model": "Escherichia_hermannii_NBRC_105704",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Escherichia_hermannii_NBRC_105704.xml"
+ },
+ {
+  "organism": "Escherichia sp. 1_1_43",
+  "model": "Escherichia_sp_1_1_43",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Escherichia_sp_1_1_43.xml"
+ },
+ {
+  "organism": "Escherichia sp. 3_2_53FAA",
+  "model": "Escherichia_sp_3_2_53FAA",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Escherichia_sp_3_2_53FAA.xml"
+ },
+ {
+  "organism": "Escherichia sp. 4_1_40B",
+  "model": "Escherichia_sp_4_1_40B",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Escherichia_sp_4_1_40B.xml"
+ },
+ {
+  "organism": "Eubacterium biforme DSM 3989",
+  "model": "Eubacterium_biforme_DSM_3989",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eubacterium_biforme_DSM_3989.xml"
+ },
+ {
+  "organism": "Eubacterium brachy ATCC 33089",
+  "model": "Eubacterium_brachy_ATCC_33089",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eubacterium_brachy_ATCC_33089.xml"
+ },
+ {
+  "organism": "Eubacterium cellulosolvens 6",
+  "model": "Eubacterium_cellulosolvens_6",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eubacterium_cellulosolvens_6.xml"
+ },
+ {
+  "organism": "Eubacterium cylindroides T2-87",
+  "model": "Eubacterium_cylindroides_T2_87",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eubacterium_cylindroides_T2_87.xml"
+ },
+ {
+  "organism": "Eubacterium desmolans ATCC 43058",
+  "model": "Eubacterium_desmolans_ATCC_43058",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eubacterium_desmolans_ATCC_43058.xml"
+ },
+ {
+  "organism": "Eubacterium dolichum DSM 3991",
+  "model": "Eubacterium_dolichum_DSM_3991",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eubacterium_dolichum_DSM_3991.xml"
+ },
+ {
+  "organism": "Eubacterium eligens ATCC 27750",
+  "model": "Eubacterium_eligens_ATCC_27750",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eubacterium_eligens_ATCC_27750.xml"
+ },
+ {
+  "organism": "Eubacterium hallii DSM 3353",
+  "model": "Eubacterium_hallii_DSM_3353",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eubacterium_hallii_DSM_3353.xml"
+ },
+ {
+  "organism": "Eubacterium hallii L2-7",
+  "model": "Eubacterium_hallii_L2_7",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eubacterium_hallii_L2_7.xml"
+ },
+ {
+  "organism": "Eubacterium limosum KIST612",
+  "model": "Eubacterium_limosum_KIST612",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eubacterium_limosum_KIST612.xml"
+ },
+ {
+  "organism": "Eubacterium ramulus ATCC 29099",
+  "model": "Eubacterium_ramulus_ATCC_29099",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eubacterium_ramulus_ATCC_29099.xml"
+ },
+ {
+  "organism": "Eubacterium rectale ATCC 33656",
+  "model": "Eubacterium_rectale_ATCC_33656",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eubacterium_rectale_ATCC_33656.xml"
+ },
+ {
+  "organism": "Eubacterium rectale M104/1",
+  "model": "Eubacterium_rectale_M104_1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eubacterium_rectale_M104_1.xml"
+ },
+ {
+  "organism": "Eubacterium saphenum ATCC 49989",
+  "model": "Eubacterium_saphenum_ATCC_49989",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eubacterium_saphenum_ATCC_49989.xml"
+ },
+ {
+  "organism": "Eubacterium siraeum 70/3",
+  "model": "Eubacterium_siraeum_70_3",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eubacterium_siraeum_70_3.xml"
+ },
+ {
+  "organism": "Eubacterium siraeum DSM 15702",
+  "model": "Eubacterium_siraeum_DSM_15702",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eubacterium_siraeum_DSM_15702.xml"
+ },
+ {
+  "organism": "Eubacterium sulci ATCC 35585",
+  "model": "Eubacterium_sulci_ATCC_35585",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eubacterium_sulci_ATCC_35585.xml"
+ },
+ {
+  "organism": "Eubacterium ventriosum ATCC 27560",
+  "model": "Eubacterium_ventriosum_ATCC_27560",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Eubacterium_ventriosum_ATCC_27560.xml"
+ },
+ {
+  "organism": "Exiguobacterium aurantiacum DSM 6208",
+  "model": "Exiguobacterium_aurantiacum_DSM_6208",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Exiguobacterium_aurantiacum_DSM_6208.xml"
+ },
+ {
+  "organism": "Faecalibacterium cf. prausnitzii KLE1255",
+  "model": "Faecalibacterium_cf_prausnitzii_KLE1255",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Faecalibacterium_cf_prausnitzii_KLE1255.xml"
+ },
+ {
+  "organism": "Faecalibacterium prausnitzii A2-165",
+  "model": "Faecalibacterium_prausnitzii_A2_165",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Faecalibacterium_prausnitzii_A2_165.xml"
+ },
+ {
+  "organism": "Faecalibacterium prausnitzii L2-6",
+  "model": "Faecalibacterium_prausnitzii_L2_6",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Faecalibacterium_prausnitzii_L2_6.xml"
+ },
+ {
+  "organism": "Faecalibacterium prausnitzii M21/2",
+  "model": "Faecalibacterium_prausnitzii_M21_2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Faecalibacterium_prausnitzii_M21_2.xml"
+ },
+ {
+  "organism": "Faecalibacterium prausnitzii SL3/3",
+  "model": "Faecalibacterium_prausnitzii_SL3_3",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Faecalibacterium_prausnitzii_SL3_3.xml"
+ },
+ {
+  "organism": "Filifactor alocis ATCC 35896",
+  "model": "Filifactor_alocis_ATCC_35896",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Filifactor_alocis_ATCC_35896.xml"
+ },
+ {
+  "organism": "Finegoldia magna ATCC 29328",
+  "model": "Finegoldia_magna_ATCC_29328",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Finegoldia_magna_ATCC_29328.xml"
+ },
+ {
+  "organism": "Flavonifractor plautii ATCC 29863",
+  "model": "Flavonifractor_plautii_ATCC_29863",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Flavonifractor_plautii_ATCC_29863.xml"
+ },
+ {
+  "organism": "Fusobacterium gonidiaformans 3-1-5R",
+  "model": "Fusobacterium_gonidiaformans_3_1_5R",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Fusobacterium_gonidiaformans_3_1_5R.xml"
+ },
+ {
+  "organism": "Fusobacterium gonidiaformans ATCC 25563",
+  "model": "Fusobacterium_gonidiaformans_ATCC_25563",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Fusobacterium_gonidiaformans_ATCC_25563.xml"
+ },
+ {
+  "organism": "Fusobacterium mortiferum ATCC 9817",
+  "model": "Fusobacterium_mortiferum_ATCC_9817",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Fusobacterium_mortiferum_ATCC_9817.xml"
+ },
+ {
+  "organism": "Fusobacterium necrophorum D12",
+  "model": "Fusobacterium_necrophorum_D12",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Fusobacterium_necrophorum_D12.xml"
+ },
+ {
+  "organism": "Fusobacterium nucleatum subsp. animalis 3_1_33",
+  "model": "Fusobacterium_nucleatum_subsp_animalis_3_1_33",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Fusobacterium_nucleatum_subsp_animalis_3_1_33.xml"
+ },
+ {
+  "organism": "Fusobacterium nucleatum subsp. animalis 7_1",
+  "model": "Fusobacterium_nucleatum_subsp_animalis_7_1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Fusobacterium_nucleatum_subsp_animalis_7_1.xml"
+ },
+ {
+  "organism": "Fusobacterium nucleatum subsp. animalis D11",
+  "model": "Fusobacterium_nucleatum_subsp_animalis_D11",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Fusobacterium_nucleatum_subsp_animalis_D11.xml"
+ },
+ {
+  "organism": "Fusobacterium nucleatum subsp. nucleatum ATCC 25586",
+  "model": "Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586.xml"
+ },
+ {
+  "organism": "Fusobacterium nucleatum subsp. vincentii 3_1_27",
+  "model": "Fusobacterium_nucleatum_subsp_vincentii_3_1_27",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Fusobacterium_nucleatum_subsp_vincentii_3_1_27.xml"
+ },
+ {
+  "organism": "Fusobacterium nucleatum subsp. vincentii 3_1_36A2",
+  "model": "Fusobacterium_nucleatum_subsp_vincentii_3_1_36A2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Fusobacterium_nucleatum_subsp_vincentii_3_1_36A2.xml"
+ },
+ {
+  "organism": "Fusobacterium nucleatum subsp. vincentii 4_1_13",
+  "model": "Fusobacterium_nucleatum_subsp_vincentii_4_1_13",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Fusobacterium_nucleatum_subsp_vincentii_4_1_13.xml"
+ },
+ {
+  "organism": "Fusobacterium periodonticum 1_1_41FAA",
+  "model": "Fusobacterium_periodonticum_1_1_41FAA",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Fusobacterium_periodonticum_1_1_41FAA.xml"
+ },
+ {
+  "organism": "Fusobacterium periodonticum 2_1_31",
+  "model": "Fusobacterium_periodonticum_2_1_31",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Fusobacterium_periodonticum_2_1_31.xml"
+ },
+ {
+  "organism": "Fusobacterium russii ATCC 25533",
+  "model": "Fusobacterium_russii_ATCC_25533",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Fusobacterium_russii_ATCC_25533.xml"
+ },
+ {
+  "organism": "Fusobacterium sp. 4_8",
+  "model": "Fusobacterium_sp_4_8",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Fusobacterium_sp_4_8.xml"
+ },
+ {
+  "organism": "Fusobacterium ulcerans ATCC 49185",
+  "model": "Fusobacterium_ulcerans_ATCC_49185",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Fusobacterium_ulcerans_ATCC_49185.xml"
+ },
+ {
+  "organism": "Fusobacterium varium ATCC 27725",
+  "model": "Fusobacterium_varium_ATCC_27725",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Fusobacterium_varium_ATCC_27725.xml"
+ },
+ {
+  "organism": "Gemella haemolysans ATCC 10379",
+  "model": "Gemella_haemolysans_ATCC_10379",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Gemella_haemolysans_ATCC_10379.xml"
+ },
+ {
+  "organism": "Gemella morbillorum M424",
+  "model": "Gemella_morbillorum_M424",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Gemella_morbillorum_M424.xml"
+ },
+ {
+  "organism": "Gemella sanguinis ATCC700632",
+  "model": "Gemella_sanguinis_ATCC700632",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Gemella_sanguinis_ATCC700632.xml"
+ },
+ {
+  "organism": "Gemella sanguinis M325",
+  "model": "Gemella_sanguinis_M325",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Gemella_sanguinis_M325.xml"
+ },
+ {
+  "organism": "Geobacillus stearothermophilus ATCC 7953",
+  "model": "Geobacillus_stearothermophilus_ATCC_7953",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Geobacillus_stearothermophilus_ATCC_7953.xml"
+ },
+ {
+  "organism": "Geobacillus vulcani PSS1",
+  "model": "Geobacillus_vulcani_PSS1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Geobacillus_vulcani_PSS1.xml"
+ },
+ {
+  "organism": "Gordonia rubripertincta NBRC 101908",
+  "model": "Gordonia_rubripertincta_NBRC_101908",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Gordonia_rubripertincta_NBRC_101908.xml"
+ },
+ {
+  "organism": "Gordonia terrae C-6",
+  "model": "Gordonia_terrae_C_6",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Gordonia_terrae_C_6.xml"
+ },
+ {
+  "organism": "Gordonia terrae NBRC 100016",
+  "model": "Gordonia_terrae_NBRC_100016",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Gordonia_terrae_NBRC_100016.xml"
+ },
+ {
+  "organism": "Gordonibacter pamelaeae 7-10-1-bT, DSM 19378",
+  "model": "Gordonibacter_pamelaeae_7_10_1_bT_DSM_19378",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Gordonibacter_pamelaeae_7_10_1_bT_DSM_19378.xml"
+ },
+ {
+  "organism": "Granulicatella adiacens ATCC 49175",
+  "model": "Granulicatella_adiacens_ATCC_49175",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Granulicatella_adiacens_ATCC_49175.xml"
+ },
+ {
+  "organism": "Granulicatella elegans ATCC 700633",
+  "model": "Granulicatella_elegans_ATCC_700633",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Granulicatella_elegans_ATCC_700633.xml"
+ },
+ {
+  "organism": "Grimontia hollisae CIP 101886",
+  "model": "Grimontia_hollisae_CIP_101886",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Grimontia_hollisae_CIP_101886.xml"
+ },
+ {
+  "organism": "Haemophilus haemolyticus M19501",
+  "model": "Haemophilus_haemolyticus_M19501",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Haemophilus_haemolyticus_M19501.xml"
+ },
+ {
+  "organism": "Haemophilus influenzae R2846",
+  "model": "Haemophilus_influenzae_R2846",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Haemophilus_influenzae_R2846.xml"
+ },
+ {
+  "organism": "Haemophilus parainfluenzae T3T1",
+  "model": "Haemophilus_parainfluenzae_T3T1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Haemophilus_parainfluenzae_T3T1.xml"
+ },
+ {
+  "organism": "Haemophilus sputorum CCUG 13788",
+  "model": "Haemophilus_sputorum_CCUG_13788",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Haemophilus_sputorum_CCUG_13788.xml"
+ },
+ {
+  "organism": "Hafnia alvei ATCC 51873",
+  "model": "Hafnia_alvei_ATCC_51873",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Hafnia_alvei_ATCC_51873.xml"
+ },
+ {
+  "organism": "Hafnia alvei BIDMC 31",
+  "model": "Hafnia_alvei_BIDMC_31",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Hafnia_alvei_BIDMC_31.xml"
+ },
+ {
+  "organism": "Halococcus morrhuae DSM1307",
+  "model": "Halococcus_morrhuae_DSM1307",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Halococcus_morrhuae_DSM1307.xml"
+ },
+ {
+  "organism": "Helicobacter bilis ATCC 43879",
+  "model": "Helicobacter_bilis_ATCC_43879",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Helicobacter_bilis_ATCC_43879.xml"
+ },
+ {
+  "organism": "Helicobacter canadensis MIT 98-5491",
+  "model": "Helicobacter_canadensis_MIT_98_5491",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Helicobacter_canadensis_MIT_98_5491.xml"
+ },
+ {
+  "organism": "Helicobacter cinaedi CCUG 18818",
+  "model": "Helicobacter_cinaedi_CCUG_18818",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Helicobacter_cinaedi_CCUG_18818.xml"
+ },
+ {
+  "organism": "Helicobacter pullorum MIT 98-5489",
+  "model": "Helicobacter_pullorum_MIT_98_5489",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Helicobacter_pullorum_MIT_98_5489.xml"
+ },
+ {
+  "organism": "Helicobacter pylori 26695",
+  "model": "Helicobacter_pylori_26695",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Helicobacter_pylori_26695.xml"
+ },
+ {
+  "organism": "Helicobacter winghamensis ATCC BAA-430",
+  "model": "Helicobacter_winghamensis_ATCC_BAA_430",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Helicobacter_winghamensis_ATCC_BAA_430.xml"
+ },
+ {
+  "organism": "Holdemania filiformis VPI J1-31B-1, DSM 12042",
+  "model": "Holdemania_filiformis_VPI_J1_31B_1_DSM_12042",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Holdemania_filiformis_VPI_J1_31B_1_DSM_12042.xml"
+ },
+ {
+  "organism": "Kallipyga massiliensis ph2",
+  "model": "Kallipyga_massiliensis_ph2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Kallipyga_massiliensis_ph2.xml"
+ },
+ {
+  "organism": "Kandleria vitulina DSM 20405",
+  "model": "Kandleria_vitulina_DSM_20405",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Kandleria_vitulina_DSM_20405.xml"
+ },
+ {
+  "organism": "Kingella oralis ATCC 51147",
+  "model": "Kingella_oralis_ATCC_51147",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Kingella_oralis_ATCC_51147.xml"
+ },
+ {
+  "organism": "Klebsiella oxytoca KCTC 1686",
+  "model": "Klebsiella_oxytoca_KCTC_1686",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Klebsiella_oxytoca_KCTC_1686.xml"
+ },
+ {
+  "organism": "Klebsiella pneumoniae pneumoniae MGH78578",
+  "model": "Klebsiella_pneumoniae_pneumoniae_MGH78578",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Klebsiella_pneumoniae_pneumoniae_MGH78578.xml"
+ },
+ {
+  "organism": "Klebsiella sp. 1_1_55",
+  "model": "Klebsiella_sp_1_1_55",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Klebsiella_sp_1_1_55.xml"
+ },
+ {
+  "organism": "Kluyvera ascorbata  ATCC 33433",
+  "model": "Kluyvera_ascorbata_ATCC_33433",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Kluyvera_ascorbata_ATCC_33433.xml"
+ },
+ {
+  "organism": "Kocuria palustris PEL",
+  "model": "Kocuria_palustris_PEL",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Kocuria_palustris_PEL.xml"
+ },
+ {
+  "organism": "Kocuria rhizophila DC2201",
+  "model": "Kocuria_rhizophila_DC2201",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Kocuria_rhizophila_DC2201.xml"
+ },
+ {
+  "organism": "Kurthia massiliensis  JC30",
+  "model": "Kurthia_massiliensis_JC30",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Kurthia_massiliensis_JC30.xml"
+ },
+ {
+  "organism": "Kytococcus sedentarius DSM 20547",
+  "model": "Kytococcus_sedentarius_DSM_20547",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Kytococcus_sedentarius_DSM_20547.xml"
+ },
+ {
+  "organism": "Lachnospira multipara ATCC 19207",
+  "model": "Lachnospira_multipara_ATCC_19207",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lachnospira_multipara_ATCC_19207.xml"
+ },
+ {
+  "organism": "Lachnospiraceae bacterium sp. 5_1_63FAA",
+  "model": "Lachnospiraceae_bacterium_sp_5_1_63FAA",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lachnospiraceae_bacterium_sp_5_1_63FAA.xml"
+ },
+ {
+  "organism": "Lachnospiraceae bacterium sp. 8_1_57FAA",
+  "model": "Lachnospiraceae_bacterium_sp_8_1_57FAA",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lachnospiraceae_bacterium_sp_8_1_57FAA.xml"
+ },
+ {
+  "organism": "Lactobacillus acidophilus ATCC 4796",
+  "model": "Lactobacillus_acidophilus_ATCC_4796",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_acidophilus_ATCC_4796.xml"
+ },
+ {
+  "organism": "Lactobacillus acidophilus NCFM",
+  "model": "Lactobacillus_acidophilus_NCFM",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_acidophilus_NCFM.xml"
+ },
+ {
+  "organism": "Lactobacillus amylolyticus DSM 11664",
+  "model": "Lactobacillus_amylolyticus_DSM_11664",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_amylolyticus_DSM_11664.xml"
+ },
+ {
+  "organism": "Lactobacillus amylovorus GRL 1112",
+  "model": "Lactobacillus_amylovorus_GRL_1112",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_amylovorus_GRL_1112.xml"
+ },
+ {
+  "organism": "Lactobacillus animalis KCTC 3501",
+  "model": "Lactobacillus_animalis_KCTC_3501",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_animalis_KCTC_3501.xml"
+ },
+ {
+  "organism": "Lactobacillus antri DSM 16041",
+  "model": "Lactobacillus_antri_DSM_16041",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_antri_DSM_16041.xml"
+ },
+ {
+  "organism": "Lactobacillus oris F0423",
+  "model": "Lactobacillus_oris_F0423",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_oris_F0423.xml"
+ },
+ {
+  "organism": "Lactobacillus brevis ATCC 367",
+  "model": "Lactobacillus_brevis_ATCC_367",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_brevis_ATCC_367.xml"
+ },
+ {
+  "organism": "Lactobacillus brevis subsp. gravesensis ATCC 27305",
+  "model": "Lactobacillus_brevis_subsp_gravesensis_ATCC_27305",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_brevis_subsp_gravesensis_ATCC_27305.xml"
+ },
+ {
+  "organism": "Lactobacillus buchneri ATCC 11577",
+  "model": "Lactobacillus_buchneri_ATCC_11577",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_buchneri_ATCC_11577.xml"
+ },
+ {
+  "organism": "Lactobacillus casei ATCC 334",
+  "model": "Lactobacillus_casei_ATCC_334",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_casei_ATCC_334.xml"
+ },
+ {
+  "organism": "Lactobacillus casei casei BL23",
+  "model": "Lactobacillus_casei_casei_BL23",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_casei_casei_BL23.xml"
+ },
+ {
+  "organism": "Lactobacillus coleohominis 101-4-CHN",
+  "model": "Lactobacillus_coleohominis_101_4_CHN",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_coleohominis_101_4_CHN.xml"
+ },
+ {
+  "organism": "Lactobacillus coryniformis subsp. coryniformis CECT 5711",
+  "model": "Lactobacillus_coryniformis_subsp_coryniformis_CECT_5711",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_coryniformis_subsp_coryniformis_CECT_5711.xml"
+ },
+ {
+  "organism": "Lactobacillus crispatus 125-2-CHN",
+  "model": "Lactobacillus_crispatus_125_2_CHN",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_crispatus_125_2_CHN.xml"
+ },
+ {
+  "organism": "Lactobacillus curvatus CRL 705",
+  "model": "Lactobacillus_curvatus_CRL_705",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_curvatus_CRL_705.xml"
+ },
+ {
+  "organism": "Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842",
+  "model": "Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_11842.xml"
+ },
+ {
+  "organism": "Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365",
+  "model": "Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_BAA_365",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_delbrueckii_subsp_bulgaricus_ATCC_BAA_365.xml"
+ },
+ {
+  "organism": "Lactobacillus fermentum ATCC 14931",
+  "model": "Lactobacillus_fermentum_ATCC_14931",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_fermentum_ATCC_14931.xml"
+ },
+ {
+  "organism": "Lactobacillus fermentum IFO 3956",
+  "model": "Lactobacillus_fermentum_IFO_3956",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_fermentum_IFO_3956.xml"
+ },
+ {
+  "organism": "Lactobacillus gasseri ATCC 33323",
+  "model": "Lactobacillus_gasseri_ATCC_33323",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_gasseri_ATCC_33323.xml"
+ },
+ {
+  "organism": "Lactobacillus gastricus PS3",
+  "model": "Lactobacillus_gastricus_PS3",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_gastricus_PS3.xml"
+ },
+ {
+  "organism": "Lactobacillus helveticus DPC 4571",
+  "model": "Lactobacillus_helveticus_DPC_4571",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_helveticus_DPC_4571.xml"
+ },
+ {
+  "organism": "Lactobacillus helveticus DSM 20075",
+  "model": "Lactobacillus_helveticus_DSM_20075",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_helveticus_DSM_20075.xml"
+ },
+ {
+  "organism": "Lactobacillus hilgardii ATCC 8290",
+  "model": "Lactobacillus_hilgardii_ATCC_8290",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_hilgardii_ATCC_8290.xml"
+ },
+ {
+  "organism": "Lactobacillus iners DSM 13335",
+  "model": "Lactobacillus_iners_DSM_13335",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_iners_DSM_13335.xml"
+ },
+ {
+  "organism": "Lactobacillus jensenii 1153",
+  "model": "Lactobacillus_jensenii_1153",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_jensenii_1153.xml"
+ },
+ {
+  "organism": "Lactobacillus johnsonii DPC 6026",
+  "model": "Lactobacillus_johnsonii_DPC_6026",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_johnsonii_DPC_6026.xml"
+ },
+ {
+  "organism": "Lactobacillus johnsonii NCC 533",
+  "model": "Lactobacillus_johnsonii_NCC_533",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_johnsonii_NCC_533.xml"
+ },
+ {
+  "organism": "Lactobacillus mucosae LM1",
+  "model": "Lactobacillus_mucosae_LM1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_mucosae_LM1.xml"
+ },
+ {
+  "organism": "Lactobacillus paracasei subsp. paracasei 8700:2",
+  "model": "Lactobacillus_paracasei_subsp_paracasei_8700_2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_paracasei_subsp_paracasei_8700_2.xml"
+ },
+ {
+  "organism": "Lactobacillus paracasei subsp. paracasei ATCC 25302",
+  "model": "Lactobacillus_paracasei_subsp_paracasei_ATCC_25302",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_paracasei_subsp_paracasei_ATCC_25302.xml"
+ },
+ {
+  "organism": "Lactobacillus pentosus KCA1",
+  "model": "Lactobacillus_pentosus_KCA1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_pentosus_KCA1.xml"
+ },
+ {
+  "organism": "Lactobacillus plantarum JDM1",
+  "model": "Lactobacillus_plantarum_JDM1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_plantarum_JDM1.xml"
+ },
+ {
+  "organism": "Lactobacillus plantarum WCFS1",
+  "model": "Lactobacillus_plantarum_WCFS1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_plantarum_WCFS1.xml"
+ },
+ {
+  "organism": "Lactobacillus plantarum subsp. plantarum ATCC 14917",
+  "model": "Lactobacillus_plantarum_subsp_plantarum_ATCC_14917",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_plantarum_subsp_plantarum_ATCC_14917.xml"
+ },
+ {
+  "organism": "Lactobacillus reuteri CF48-3A ",
+  "model": "Lactobacillus_reuteri_CF48_3A_",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_reuteri_CF48_3A_.xml"
+ },
+ {
+  "organism": "Lactobacillus reuteri F275, JCM 1112",
+  "model": "Lactobacillus_reuteri_F275_JCM_1112",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_reuteri_F275_JCM_1112.xml"
+ },
+ {
+  "organism": "Lactobacillus reuteri MM2-3 ",
+  "model": "Lactobacillus_reuteri_MM2_3_",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_reuteri_MM2_3_.xml"
+ },
+ {
+  "organism": "Lactobacillus reuteri MM4-1A ",
+  "model": "Lactobacillus_reuteri_MM4_1A_",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_reuteri_MM4_1A_.xml"
+ },
+ {
+  "organism": "Lactobacillus reuteri SD2112, ATCC 55730",
+  "model": "Lactobacillus_reuteri_SD2112_ATCC_55730",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_reuteri_SD2112_ATCC_55730.xml"
+ },
+ {
+  "organism": "Lactobacillus rhamnosus GG, ATCC 53103",
+  "model": "Lactobacillus_rhamnosus_GG_ATCC_53103",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_rhamnosus_GG_ATCC_53103.xml"
+ },
+ {
+  "organism": "Lactobacillus rhamnosus LMS2-1",
+  "model": "Lactobacillus_rhamnosus_LMS2_1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_rhamnosus_LMS2_1.xml"
+ },
+ {
+  "organism": "Lactobacillus ruminis ATCC 25644",
+  "model": "Lactobacillus_ruminis_ATCC_25644",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_ruminis_ATCC_25644.xml"
+ },
+ {
+  "organism": "Lactobacillus sakei subsp. sakei 23K",
+  "model": "Lactobacillus_sakei_subsp_sakei_23K",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_sakei_subsp_sakei_23K.xml"
+ },
+ {
+  "organism": "Lactobacillus salivarius HO66, ATCC 11741",
+  "model": "Lactobacillus_salivarius_HO66_ATCC_11741",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_salivarius_HO66_ATCC_11741.xml"
+ },
+ {
+  "organism": "Lactobacillus salivarius salivarius UCC118",
+  "model": "Lactobacillus_salivarius_salivarius_UCC118",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_salivarius_salivarius_UCC118.xml"
+ },
+ {
+  "organism": "Lactobacillus ultunensis DSM 16047",
+  "model": "Lactobacillus_ultunensis_DSM_16047",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_ultunensis_DSM_16047.xml"
+ },
+ {
+  "organism": "Lactobacillus vaginalis ATCC 49540",
+  "model": "Lactobacillus_vaginalis_ATCC_49540",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactobacillus_vaginalis_ATCC_49540.xml"
+ },
+ {
+  "organism": "Lactococcus garvieae ATCC 49156",
+  "model": "Lactococcus_garvieae_ATCC_49156",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactococcus_garvieae_ATCC_49156.xml"
+ },
+ {
+  "organism": "Lactococcus lactis subsp. lactis Il1403",
+  "model": "Lactococcus_lactis_subsp_lactis_Il1403",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactococcus_lactis_subsp_lactis_Il1403.xml"
+ },
+ {
+  "organism": "Lactococcus raffinolactis 4877",
+  "model": "Lactococcus_raffinolactis_4877",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lactococcus_raffinolactis_4877.xml"
+ },
+ {
+  "organism": "Laribacter hongkongensis HLHK9",
+  "model": "Laribacter_hongkongensis_HLHK9",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Laribacter_hongkongensis_HLHK9.xml"
+ },
+ {
+  "organism": "Lautropia mirabilis ATCC 51599",
+  "model": "Lautropia_mirabilis_ATCC_51599",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lautropia_mirabilis_ATCC_51599.xml"
+ },
+ {
+  "organism": "Leminorella grimontii ATCC 33999 = DSM 5078",
+  "model": "Leminorella_grimontii_ATCC_33999",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Leminorella_grimontii_ATCC_33999.xml"
+ },
+ {
+  "organism": "Leptotrichia buccalis C-1013-b",
+  "model": "Leptotrichia_buccalis_C_1013_b",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Leptotrichia_buccalis_C_1013_b.xml"
+ },
+ {
+  "organism": "Leuconostoc argentinum KCTC 3773",
+  "model": "Leuconostoc_argentinum_KCTC_3773",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Leuconostoc_argentinum_KCTC_3773.xml"
+ },
+ {
+  "organism": "Leuconostoc gelidum JB7",
+  "model": "Leuconostoc_gelidum_JB7",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Leuconostoc_gelidum_JB7.xml"
+ },
+ {
+  "organism": "Leuconostoc lactis KACC 91922",
+  "model": "Leuconostoc_lactis_KACC_91922",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Leuconostoc_lactis_KACC_91922.xml"
+ },
+ {
+  "organism": "Leuconostoc mesenteroides subsp. cremoris ATCC 19254",
+  "model": "Leuconostoc_mesenteroides_subsp_cremoris_ATCC_19254",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Leuconostoc_mesenteroides_subsp_cremoris_ATCC_19254.xml"
+ },
+ {
+  "organism": "Listeria grayi DSM 20601",
+  "model": "Listeria_grayi_DSM_20601",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Listeria_grayi_DSM_20601.xml"
+ },
+ {
+  "organism": "Listeria monocytogenes 4a L99",
+  "model": "Listeria_monocytogenes_4a_L99",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Listeria_monocytogenes_4a_L99.xml"
+ },
+ {
+  "organism": "Listeria monocytogenes 4b F2365",
+  "model": "Listeria_monocytogenes_4b_F2365",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Listeria_monocytogenes_4b_F2365.xml"
+ },
+ {
+  "organism": "Listeria monocytogenes FSL R2-561",
+  "model": "Listeria_monocytogenes_FSL_R2_561",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Listeria_monocytogenes_FSL_R2_561.xml"
+ },
+ {
+  "organism": "Listeria monocytogenes Finland 1988",
+  "model": "Listeria_monocytogenes_Finland_1988",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Listeria_monocytogenes_Finland_1988.xml"
+ },
+ {
+  "organism": "Listeria monocytogenes J0161, FSL R2-499",
+  "model": "Listeria_monocytogenes_J0161_FSL_R2_499",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Listeria_monocytogenes_J0161_FSL_R2_499.xml"
+ },
+ {
+  "organism": "Listeria monocytogenes SLCC 2378",
+  "model": "Listeria_monocytogenes_SLCC_2378",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Listeria_monocytogenes_SLCC_2378.xml"
+ },
+ {
+  "organism": "Listeria monocytogenes SLCC 2540",
+  "model": "Listeria_monocytogenes_SLCC_2540",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Listeria_monocytogenes_SLCC_2540.xml"
+ },
+ {
+  "organism": "Listeria monocytogenes SLCC 7179",
+  "model": "Listeria_monocytogenes_SLCC_7179",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Listeria_monocytogenes_SLCC_7179.xml"
+ },
+ {
+  "organism": "Listeria monocytogenes serotype 7 SLCC 2482",
+  "model": "Listeria_monocytogenes_serotype_7_SLCC_2482",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Listeria_monocytogenes_serotype_7_SLCC_2482.xml"
+ },
+ {
+  "organism": "Lysinibacillus fusiformis ZB2",
+  "model": "Lysinibacillus_fusiformis_ZB2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lysinibacillus_fusiformis_ZB2.xml"
+ },
+ {
+  "organism": "Lysinibacillus sphaericus C3-41",
+  "model": "Lysinibacillus_sphaericus_C3_41",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Lysinibacillus_sphaericus_C3_41.xml"
+ },
+ {
+  "organism": "Marvinbryantia formatexigens I-52, DSM 14469",
+  "model": "Marvinbryantia_formatexigens_I_52_DSM_14469",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Marvinbryantia_formatexigens_I_52_DSM_14469.xml"
+ },
+ {
+  "organism": "Megamonas funiformis YIT 11815",
+  "model": "Megamonas_funiformis_YIT_11815",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Megamonas_funiformis_YIT_11815.xml"
+ },
+ {
+  "organism": "Megamonas hypermegale ART12/1",
+  "model": "Megamonas_hypermegale_ART12_1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Megamonas_hypermegale_ART12_1.xml"
+ },
+ {
+  "organism": "Megasphaera elsdenii DSM 20460",
+  "model": "Megasphaera_elsdenii_DSM_20460",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Megasphaera_elsdenii_DSM_20460.xml"
+ },
+ {
+  "organism": "Melainabacterium MEL.A1",
+  "model": "Melainabacterium_MEL_A1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Melainabacterium_MEL_A1.xml"
+ },
+ {
+  "organism": "Mesorhizobium loti MAFF303099",
+  "model": "Mesorhizobium_loti_MAFF303099",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Mesorhizobium_loti_MAFF303099.xml"
+ },
+ {
+  "organism": "Methanobrevibacter ruminantium M1",
+  "model": "Methanobrevibacter_ruminantium_M1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Methanobrevibacter_ruminantium_M1.xml"
+ },
+ {
+  "organism": "Methanobrevibacter smithii ATCC 35061",
+  "model": "Methanobrevibacter_smithii_ATCC_35061",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Methanobrevibacter_smithii_ATCC_35061.xml"
+ },
+ {
+  "organism": "Methanomassiliicoccus luminyensis B10",
+  "model": "Methanomassiliicoccus_luminyensis_B10",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Methanomassiliicoccus_luminyensis_B10.xml"
+ },
+ {
+  "organism": "Methanosphaera stadtmanae DSM 3091",
+  "model": "Methanosphaera_stadtmanae_DSM_3091",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Methanosphaera_stadtmanae_DSM_3091.xml"
+ },
+ {
+  "organism": "Prevotella copri CB7, DSM 18205",
+  "model": "Prevotella_copri_CB7_DSM_18205",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_copri_CB7_DSM_18205.xml"
+ },
+ {
+  "organism": "Methylobacterium mesophilicum SR1.6/6",
+  "model": "Methylobacterium_mesophilicum_SR1_6_6",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Methylobacterium_mesophilicum_SR1_6_6.xml"
+ },
+ {
+  "organism": "Methylobacterium populi BJ001",
+  "model": "Methylobacterium_populi_BJ001",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Methylobacterium_populi_BJ001.xml"
+ },
+ {
+  "organism": "Methylobacterium radiotolerans JCM 2831",
+  "model": "Methylobacterium_radiotolerans_JCM_2831",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Methylobacterium_radiotolerans_JCM_2831.xml"
+ },
+ {
+  "organism": "Methyloversatilis universalis FAM5",
+  "model": "Methyloversatilis_universalis_FAM5",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Methyloversatilis_universalis_FAM5.xml"
+ },
+ {
+  "organism": "Methyloversatilis universalis Fam50001",
+  "model": "Methyloversatilis_universalis_Fam50001",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Methyloversatilis_universalis_Fam50001.xml"
+ },
+ {
+  "organism": "Microbacterium gubbeenense  DSM 15944",
+  "model": "Microbacterium_gubbeenense_DSM_15944",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Microbacterium_gubbeenense_DSM_15944.xml"
+ },
+ {
+  "organism": "Microbacterium oleivorans NBRC 103075",
+  "model": "Microbacterium_oleivorans_NBRC_103075",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Microbacterium_oleivorans_NBRC_103075.xml"
+ },
+ {
+  "organism": "Microbacterium paraoxydans 77MFTsu3.2",
+  "model": "Microbacterium_paraoxydans_77MFTsu3_2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Microbacterium_paraoxydans_77MFTsu3_2.xml"
+ },
+ {
+  "organism": "Micrococcus luteus NCTC 2665",
+  "model": "Micrococcus_luteus_NCTC_2665",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Micrococcus_luteus_NCTC_2665.xml"
+ },
+ {
+  "organism": "Micromonospora aurantiaca ATCC 27029",
+  "model": "Micromonospora_aurantiaca_ATCC_27029",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Micromonospora_aurantiaca_ATCC_27029.xml"
+ },
+ {
+  "organism": "Mitsuokella jalaludinii DSM 13811",
+  "model": "Mitsuokella_jalaludinii_DSM_13811",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Mitsuokella_jalaludinii_DSM_13811.xml"
+ },
+ {
+  "organism": "Mitsuokella multacida DSM 20544",
+  "model": "Mitsuokella_multacida_DSM_20544",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Mitsuokella_multacida_DSM_20544.xml"
+ },
+ {
+  "organism": "Mobiluncus curtisii ATCC 43063",
+  "model": "Mobiluncus_curtisii_ATCC_43063",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Mobiluncus_curtisii_ATCC_43063.xml"
+ },
+ {
+  "organism": "Mogibacterium timidum ATCC 33093",
+  "model": "Mogibacterium_timidum_ATCC_33093",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Mogibacterium_timidum_ATCC_33093.xml"
+ },
+ {
+  "organism": "Moraxella catarrhalis RH4",
+  "model": "Moraxella_catarrhalis_RH4",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Moraxella_catarrhalis_RH4.xml"
+ },
+ {
+  "organism": "Morganella morganii subsp. morganii KT",
+  "model": "Morganella_morganii_subsp_morganii_KT",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Morganella_morganii_subsp_morganii_KT.xml"
+ },
+ {
+  "organism": "Mycobacterium avium subsp. avium ATCC 25291",
+  "model": "Mycobacterium_avium_subsp_avium_ATCC_25291",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Mycobacterium_avium_subsp_avium_ATCC_25291.xml"
+ },
+ {
+  "organism": "Mycobacterium fortuitum subsp. fortuitum DSM 46621",
+  "model": "Mycobacterium_fortuitum_subsp_fortuitum_DSM_46621",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Mycobacterium_fortuitum_subsp_fortuitum_DSM_46621.xml"
+ },
+ {
+  "organism": "Mycoplasma hominis ATCC 23114",
+  "model": "Mycoplasma_hominis_ATCC_23114",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Mycoplasma_hominis_ATCC_23114.xml"
+ },
+ {
+  "organism": "Mycoplasma pneumoniae 309",
+  "model": "Mycoplasma_pneumoniae_309",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Mycoplasma_pneumoniae_309.xml"
+ },
+ {
+  "organism": "Neisseria cinerea ATCC 14685",
+  "model": "Neisseria_cinerea_ATCC_14685",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Neisseria_cinerea_ATCC_14685.xml"
+ },
+ {
+  "organism": "Neisseria elongata subsp. glycolytica ATCC 29315",
+  "model": "Neisseria_elongata_subsp_glycolytica_ATCC_29315",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Neisseria_elongata_subsp_glycolytica_ATCC_29315.xml"
+ },
+ {
+  "organism": "Neisseria flavescens SK114",
+  "model": "Neisseria_flavescens_SK114",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Neisseria_flavescens_SK114.xml"
+ },
+ {
+  "organism": "Neisseria macacae ATCC 33926",
+  "model": "Neisseria_macacae_ATCC_33926",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Neisseria_macacae_ATCC_33926.xml"
+ },
+ {
+  "organism": "Neisseria mucosa ATCC 25996",
+  "model": "Neisseria_mucosa_ATCC_25996",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Neisseria_mucosa_ATCC_25996.xml"
+ },
+ {
+  "organism": "Neisseria subflava NJ9703",
+  "model": "Neisseria_subflava_NJ9703",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Neisseria_subflava_NJ9703.xml"
+ },
+ {
+  "organism": "Nevskia ramosa DSM 11499",
+  "model": "Nevskia_ramosa_DSM_11499",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Nevskia_ramosa_DSM_11499.xml"
+ },
+ {
+  "organism": "Oceanobacillus picturae strain S1",
+  "model": "Oceanobacillus_picturae_strain_S1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Oceanobacillus_picturae_strain_S1.xml"
+ },
+ {
+  "organism": "Ochrobactrum anthropi ATCC 49188",
+  "model": "Ochrobactrum_anthropi_ATCC_49188",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ochrobactrum_anthropi_ATCC_49188.xml"
+ },
+ {
+  "organism": "Ochrobactrum intermedium LMG 3301",
+  "model": "Ochrobactrum_intermedium_LMG_3301",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ochrobactrum_intermedium_LMG_3301.xml"
+ },
+ {
+  "organism": "Odoribacter laneus YIT 12061",
+  "model": "Odoribacter_laneus_YIT_12061",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Odoribacter_laneus_YIT_12061.xml"
+ },
+ {
+  "organism": "Odoribacter splanchnicus 1651/6, DSM 20712",
+  "model": "Odoribacter_splanchnicus_1651_6_DSM_20712",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Odoribacter_splanchnicus_1651_6_DSM_20712.xml"
+ },
+ {
+  "organism": "Olsenella profusa F019501",
+  "model": "Olsenella_profusa_F019501",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Olsenella_profusa_F019501.xml"
+ },
+ {
+  "organism": "Olsenella uli DSM 7084",
+  "model": "Olsenella_uli_DSM_7084",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Olsenella_uli_DSM_7084.xml"
+ },
+ {
+  "organism": "Oribacterium sinus F0268",
+  "model": "Oribacterium_sinus_F0268",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Oribacterium_sinus_F0268.xml"
+ },
+ {
+  "organism": "Oxalobacter formigenes HOxBLS",
+  "model": "Oxalobacter_formigenes_HOxBLS",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Oxalobacter_formigenes_HOxBLS.xml"
+ },
+ {
+  "organism": "Oxalobacter formigenes OXCC13",
+  "model": "Oxalobacter_formigenes_OXCC13",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Oxalobacter_formigenes_OXCC13.xml"
+ },
+ {
+  "organism": "Paenibacillus alvei DSM 29",
+  "model": "Paenibacillus_alvei_DSM_29",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Paenibacillus_alvei_DSM_29.xml"
+ },
+ {
+  "organism": "Paenibacillus barengoltzii G22",
+  "model": "Paenibacillus_barengoltzii_G22",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Paenibacillus_barengoltzii_G22.xml"
+ },
+ {
+  "organism": "Paenibacillus daejeonensis DSM 15491",
+  "model": "Paenibacillus_daejeonensis_DSM_15491",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Paenibacillus_daejeonensis_DSM_15491.xml"
+ },
+ {
+  "organism": "Paenibacillus graminis C4D1M",
+  "model": "Paenibacillus_graminis_C4D1M",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Paenibacillus_graminis_C4D1M.xml"
+ },
+ {
+  "organism": "Paenibacillus lactis 154",
+  "model": "Paenibacillus_lactis_154",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Paenibacillus_lactis_154.xml"
+ },
+ {
+  "organism": "Pantoea agglomerans IG1",
+  "model": "Pantoea_agglomerans_IG1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Pantoea_agglomerans_IG1.xml"
+ },
+ {
+  "organism": "Parabacteroides distasonis ATCC 8503",
+  "model": "Parabacteroides_distasonis_ATCC_8503",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Parabacteroides_distasonis_ATCC_8503.xml"
+ },
+ {
+  "organism": "Parabacteroides goldsteinii dnLKV18",
+  "model": "Parabacteroides_goldsteinii_dnLKV18",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Parabacteroides_goldsteinii_dnLKV18.xml"
+ },
+ {
+  "organism": "Parabacteroides gordonii DSM 23371",
+  "model": "Parabacteroides_gordonii_DSM_23371",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Parabacteroides_gordonii_DSM_23371.xml"
+ },
+ {
+  "organism": "Parabacteroides johnsonii DSM 18315",
+  "model": "Parabacteroides_johnsonii_DSM_18315",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Parabacteroides_johnsonii_DSM_18315.xml"
+ },
+ {
+  "organism": "Parabacteroides merdae ATCC 43184",
+  "model": "Parabacteroides_merdae_ATCC_43184",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Parabacteroides_merdae_ATCC_43184.xml"
+ },
+ {
+  "organism": "Parabacteroides sp. D13",
+  "model": "Parabacteroides_sp_D13",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Parabacteroides_sp_D13.xml"
+ },
+ {
+  "organism": "Paracoccus yeei ATCC BAA-599",
+  "model": "Paracoccus_yeei_ATCC_BAA_599",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Paracoccus_yeei_ATCC_BAA_599.xml"
+ },
+ {
+  "organism": "Paraprevotella clara YIT 11840",
+  "model": "Paraprevotella_clara_YIT_11840",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Paraprevotella_clara_YIT_11840.xml"
+ },
+ {
+  "organism": "Paraprevotella xylaniphila YIT 11841",
+  "model": "Paraprevotella_xylaniphila_YIT_11841",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Paraprevotella_xylaniphila_YIT_11841.xml"
+ },
+ {
+  "organism": "Parasutterella excrementihominis YIT 11859",
+  "model": "Parasutterella_excrementihominis_YIT_11859",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Parasutterella_excrementihominis_YIT_11859.xml"
+ },
+ {
+  "organism": "Parvimonas micra ATCC 33270",
+  "model": "Parvimonas_micra_ATCC_33270",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Parvimonas_micra_ATCC_33270.xml"
+ },
+ {
+  "organism": "Pediococcus acidilactici 7_4",
+  "model": "Pediococcus_acidilactici_7_4",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Pediococcus_acidilactici_7_4.xml"
+ },
+ {
+  "organism": "Pediococcus acidilactici DSM 20284",
+  "model": "Pediococcus_acidilactici_DSM_20284",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Pediococcus_acidilactici_DSM_20284.xml"
+ },
+ {
+  "organism": "Pediococcus pentosaceus ATCC 25745",
+  "model": "Pediococcus_pentosaceus_ATCC_25745",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Pediococcus_pentosaceus_ATCC_25745.xml"
+ },
+ {
+  "organism": "Peptoniphilus harei ACS-146-V-Sch2b",
+  "model": "Peptoniphilus_harei_ACS_146_V_Sch2b",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Peptoniphilus_harei_ACS_146_V_Sch2b.xml"
+ },
+ {
+  "organism": "Peptoniphilus indolicus ATCC 29427",
+  "model": "Peptoniphilus_indolicus_ATCC_29427",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Peptoniphilus_indolicus_ATCC_29427.xml"
+ },
+ {
+  "organism": "Peptoniphilus lacrimalis DSM 7455",
+  "model": "Peptoniphilus_lacrimalis_DSM_7455",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Peptoniphilus_lacrimalis_DSM_7455.xml"
+ },
+ {
+  "organism": "Peptoniphilus timonensis JC401",
+  "model": "Peptoniphilus_timonensis_JC401",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Peptoniphilus_timonensis_JC401.xml"
+ },
+ {
+  "organism": "Peptostreptococcus anaerobius DSM 2949",
+  "model": "Peptostreptococcus_anaerobius_DSM_2949",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Peptostreptococcus_anaerobius_DSM_2949.xml"
+ },
+ {
+  "organism": "Peptostreptococcus stomatis DSM 17678",
+  "model": "Peptostreptococcus_stomatis_DSM_17678",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Peptostreptococcus_stomatis_DSM_17678.xml"
+ },
+ {
+  "organism": "Phascolarctobacterium succinatutens YIT 12067",
+  "model": "Phascolarctobacterium_succinatutens_YIT_12067",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Phascolarctobacterium_succinatutens_YIT_12067.xml"
+ },
+ {
+  "organism": "Plesiomonas shigelloides 302-73",
+  "model": "Plesiomonas_shigelloides_302_73",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Plesiomonas_shigelloides_302_73.xml"
+ },
+ {
+  "organism": "Porphyromonas asaccharolytica DSM 20707",
+  "model": "Porphyromonas_asaccharolytica_DSM_20707",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Porphyromonas_asaccharolytica_DSM_20707.xml"
+ },
+ {
+  "organism": "Porphyromonas endodontalis ATCC 35406",
+  "model": "Porphyromonas_endodontalis_ATCC_35406",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Porphyromonas_endodontalis_ATCC_35406.xml"
+ },
+ {
+  "organism": "Porphyromonas gingivalis W83",
+  "model": "Porphyromonas_gingivalis_W83",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Porphyromonas_gingivalis_W83.xml"
+ },
+ {
+  "organism": "Porphyromonas somerae DSM 23386",
+  "model": "Porphyromonas_somerae_DSM_23386",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Porphyromonas_somerae_DSM_23386.xml"
+ },
+ {
+  "organism": "Porphyromonas uenonis 60-3",
+  "model": "Porphyromonas_uenonis_60_3",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Porphyromonas_uenonis_60_3.xml"
+ },
+ {
+  "organism": "Porphyromonas uenonis DSM 23387 ",
+  "model": "Porphyromonas_uenonis_DSM_23387",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Porphyromonas_uenonis_DSM_23387.xml"
+ },
+ {
+  "organism": "Prevotella albensis DSM 11370 ",
+  "model": "Prevotella_albensis_DSM_11370",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_albensis_DSM_11370.xml"
+ },
+ {
+  "organism": "Prevotella bivia DSM 20514",
+  "model": "Prevotella_bivia_DSM_20514",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_bivia_DSM_20514.xml"
+ },
+ {
+  "organism": "Prevotella brevis ATCC 19188",
+  "model": "Prevotella_brevis_ATCC_19188",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_brevis_ATCC_19188.xml"
+ },
+ {
+  "organism": "Prevotella bryantii B14",
+  "model": "Prevotella_bryantii_B14",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_bryantii_B14.xml"
+ },
+ {
+  "organism": "Prevotella bryantii  C21a ",
+  "model": "Prevotella_bryantii_C21a",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_bryantii_C21a.xml"
+ },
+ {
+  "organism": "Prevotella buccae ATCC 33574",
+  "model": "Prevotella_buccae_ATCC_33574",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_buccae_ATCC_33574.xml"
+ },
+ {
+  "organism": "Prevotella conceptionensis  9403948",
+  "model": "Prevotella_conceptionensis_9403948",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_conceptionensis_9403948.xml"
+ },
+ {
+  "organism": "Prevotella corporis DSM 18810",
+  "model": "Prevotella_corporis_DSM_18810",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_corporis_DSM_18810.xml"
+ },
+ {
+  "organism": "Prevotella denticola DSM20614",
+  "model": "Prevotella_denticola_DSM20614",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_denticola_DSM20614.xml"
+ },
+ {
+  "organism": "Prevotella denticola F0289",
+  "model": "Prevotella_denticola_F0289",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_denticola_F0289.xml"
+ },
+ {
+  "organism": "Prevotella disiens FB035-09AN",
+  "model": "Prevotella_disiens_FB035_09AN",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_disiens_FB035_09AN.xml"
+ },
+ {
+  "organism": "Prevotella disiens JCM 6334 = ATCC 29426",
+  "model": "Prevotella_disiens_JCM_6334",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_disiens_JCM_6334.xml"
+ },
+ {
+  "organism": "Prevotella enoeca  JCM 12259",
+  "model": "Prevotella_enoeca_JCM_12259",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_enoeca_JCM_12259.xml"
+ },
+ {
+  "organism": "Prevotella intermedia 17",
+  "model": "Prevotella_intermedia_17",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_intermedia_17.xml"
+ },
+ {
+  "organism": "Prevotella intermedia ATCC 25611 = DSM 20706 ",
+  "model": "Prevotella_intermedia_ATCC_25611",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_intermedia_ATCC_25611.xml"
+ },
+ {
+  "organism": "Prevotella loescheii DSM 19665 = JCM 12249 = ATCC 15930",
+  "model": "Prevotella_loescheii_DSM_19665",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_loescheii_DSM_19665.xml"
+ },
+ {
+  "organism": "Prevotella melaninogenica ATCC 25845",
+  "model": "Prevotella_melaninogenica_ATCC_25845",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_melaninogenica_ATCC_25845.xml"
+ },
+ {
+  "organism": "Prevotella nanceiensis DSM 19126",
+  "model": "Prevotella_nanceiensis_DSM_19126",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_nanceiensis_DSM_19126.xml"
+ },
+ {
+  "organism": "Prevotella nigrescens ATCC 33563",
+  "model": "Prevotella_nigrescens_ATCC_33563",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_nigrescens_ATCC_33563.xml"
+ },
+ {
+  "organism": "Prevotella oralis ATCC 33269",
+  "model": "Prevotella_oralis_ATCC_33269",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_oralis_ATCC_33269.xml"
+ },
+ {
+  "organism": "Prevotella pallens ATCC 700821",
+  "model": "Prevotella_pallens_ATCC_700821",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_pallens_ATCC_700821.xml"
+ },
+ {
+  "organism": "Prevotella ruminicola 23",
+  "model": "Prevotella_ruminicola_23",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_ruminicola_23.xml"
+ },
+ {
+  "organism": "Prevotella salivae DSM 15606",
+  "model": "Prevotella_salivae_DSM_15606",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_salivae_DSM_15606.xml"
+ },
+ {
+  "organism": "Prevotella shahii JCM 12083",
+  "model": "Prevotella_shahii_JCM_12083",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_shahii_JCM_12083.xml"
+ },
+ {
+  "organism": "Prevotella stercorea DSM 18206",
+  "model": "Prevotella_stercorea_DSM_18206",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_stercorea_DSM_18206.xml"
+ },
+ {
+  "organism": "Prevotella timonensis 4401737 = DSM 22865 = JCM 15640",
+  "model": "Prevotella_timonensis_4401737",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_timonensis_4401737.xml"
+ },
+ {
+  "organism": "Prevotella timonensis CRIS 5C-B1",
+  "model": "Prevotella_timonensis_CRIS_5C_B1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_timonensis_CRIS_5C_B1.xml"
+ },
+ {
+  "organism": "Prevotella veroralis DSM 19559",
+  "model": "Prevotella_veroralis_DSM_19559",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Prevotella_veroralis_DSM_19559.xml"
+ },
+ {
+  "organism": "Propionibacterium acidipropionici ATCC 4875",
+  "model": "Propionibacterium_acidipropionici_ATCC_4875",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Propionibacterium_acidipropionici_ATCC_4875.xml"
+ },
+ {
+  "organism": "Propionibacterium acnes KPA171202",
+  "model": "Propionibacterium_acnes_KPA171202",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Propionibacterium_acnes_KPA171202.xml"
+ },
+ {
+  "organism": "Propionibacterium avidum 44067",
+  "model": "Propionibacterium_avidum_44067",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Propionibacterium_avidum_44067.xml"
+ },
+ {
+  "organism": "Propionibacterium freudenreichii subsp. shermanii CIRM-BIA1",
+  "model": "Propionibacterium_freudenreichii_subsp_shermanii_CIRM_BIA1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Propionibacterium_freudenreichii_subsp_shermanii_CIRM_BIA1.xml"
+ },
+ {
+  "organism": "Propionibacterium granulosum DSM 20700 ",
+  "model": "Propionibacterium_granulosum_DSM_20700",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Propionibacterium_granulosum_DSM_20700.xml"
+ },
+ {
+  "organism": "Propionibacterium jensenii DSM 20535",
+  "model": "Propionibacterium_jensenii_DSM_20535",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Propionibacterium_jensenii_DSM_20535.xml"
+ },
+ {
+  "organism": "Propionibacterium propionicum F0230a",
+  "model": "Propionibacterium_propionicum_F0230a",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Propionibacterium_propionicum_F0230a.xml"
+ },
+ {
+  "organism": "Proteus mirabilis ATCC 29906",
+  "model": "Proteus_mirabilis_ATCC_29906",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Proteus_mirabilis_ATCC_29906.xml"
+ },
+ {
+  "organism": "Proteus penneri ATCC 35198",
+  "model": "Proteus_penneri_ATCC_35198",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Proteus_penneri_ATCC_35198.xml"
+ },
+ {
+  "organism": "Providencia alcalifaciens DSM 30120",
+  "model": "Providencia_alcalifaciens_DSM_30120",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Providencia_alcalifaciens_DSM_30120.xml"
+ },
+ {
+  "organism": "Providencia rettgeri DSM 1131",
+  "model": "Providencia_rettgeri_DSM_1131",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Providencia_rettgeri_DSM_1131.xml"
+ },
+ {
+  "organism": "Providencia rustigianii DSM 4541",
+  "model": "Providencia_rustigianii_DSM_4541",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Providencia_rustigianii_DSM_4541.xml"
+ },
+ {
+  "organism": "Providencia stuartii ATCC 25827",
+  "model": "Providencia_stuartii_ATCC_25827",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Providencia_stuartii_ATCC_25827.xml"
+ },
+ {
+  "organism": "Pseudobutyrivibrio ruminis AD2017",
+  "model": "Pseudobutyrivibrio_ruminis_AD2017",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Pseudobutyrivibrio_ruminis_AD2017.xml"
+ },
+ {
+  "organism": "Pseudoflavonifractor capillosus strain ATCC 29799",
+  "model": "Pseudoflavonifractor_capillosus_strain_ATCC_29799",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Pseudoflavonifractor_capillosus_strain_ATCC_29799.xml"
+ },
+ {
+  "organism": "Pseudomonas aeruginosa NCGM2.S1",
+  "model": "Pseudomonas_aeruginosa_NCGM2_S1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Pseudomonas_aeruginosa_NCGM2_S1.xml"
+ },
+ {
+  "organism": "Pseudomonas alcaliphila 34",
+  "model": "Pseudomonas_alcaliphila_34",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Pseudomonas_alcaliphila_34.xml"
+ },
+ {
+  "organism": "Pseudomonas fluorescens PfO-1",
+  "model": "Pseudomonas_fluorescens_PfO_1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Pseudomonas_fluorescens_PfO_1.xml"
+ },
+ {
+  "organism": "Pseudomonas monteilii NBRC 103158 = DSM 14164",
+  "model": "Pseudomonas_monteilii_NBRC_103158",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Pseudomonas_monteilii_NBRC_103158.xml"
+ },
+ {
+  "organism": "Pseudomonas monteilii QM",
+  "model": "Pseudomonas_monteilii_QM",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Pseudomonas_monteilii_QM.xml"
+ },
+ {
+  "organism": "Pseudomonas nitroreducens HBP1",
+  "model": "Pseudomonas_nitroreducens_HBP1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Pseudomonas_nitroreducens_HBP1.xml"
+ },
+ {
+  "organism": "Pseudomonas oleovorans MOIL14HWK12",
+  "model": "Pseudomonas_oleovorans_MOIL14HWK12",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Pseudomonas_oleovorans_MOIL14HWK12.xml"
+ },
+ {
+  "organism": "Pseudomonas putida F1",
+  "model": "Pseudomonas_putida_F1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Pseudomonas_putida_F1.xml"
+ },
+ {
+  "organism": "Pseudomonas stutzeri DSM 4166",
+  "model": "Pseudomonas_stutzeri_DSM_4166",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Pseudomonas_stutzeri_DSM_4166.xml"
+ },
+ {
+  "organism": "Pseudoramibacter alactolyticus ATCC 23263",
+  "model": "Pseudoramibacter_alactolyticus_ATCC_23263",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Pseudoramibacter_alactolyticus_ATCC_23263.xml"
+ },
+ {
+  "organism": "Pyramidobacter piscolens W5455",
+  "model": "Pyramidobacter_piscolens_W5455",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Pyramidobacter_piscolens_W5455.xml"
+ },
+ {
+  "organism": "Ralstonia sp. 5_7_47FAA",
+  "model": "Ralstonia_sp_5_7_47FAA",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ralstonia_sp_5_7_47FAA.xml"
+ },
+ {
+  "organism": "Raoultella planticola ATCC 33531",
+  "model": "Raoultella_planticola_ATCC_33531",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Raoultella_planticola_ATCC_33531.xml"
+ },
+ {
+  "organism": "Rhodococcus equi ATCC 33707",
+  "model": "Rhodococcus_equi_ATCC_33707",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Rhodococcus_equi_ATCC_33707.xml"
+ },
+ {
+  "organism": "Rhodococcus equi  NBRC 101255 = C 701",
+  "model": "Rhodococcus_equi_NBRC_101255",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Rhodococcus_equi_NBRC_101255.xml"
+ },
+ {
+  "organism": "Rhodococcus erythropolis PR4",
+  "model": "Rhodococcus_erythropolis_PR4",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Rhodococcus_erythropolis_PR4.xml"
+ },
+ {
+  "organism": "Rhodococcus rhodochrous ATCC 21198",
+  "model": "Rhodococcus_rhodochrous_ATCC_21198",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Rhodococcus_rhodochrous_ATCC_21198.xml"
+ },
+ {
+  "organism": "Roseburia hominis A2-183",
+  "model": "Roseburia_hominis_A2_183",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Roseburia_hominis_A2_183.xml"
+ },
+ {
+  "organism": "Roseburia intestinalis L1-82",
+  "model": "Roseburia_intestinalis_L1_82",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Roseburia_intestinalis_L1_82.xml"
+ },
+ {
+  "organism": "Roseburia inulinivorans DSM 16841",
+  "model": "Roseburia_inulinivorans_DSM_16841",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Roseburia_inulinivorans_DSM_16841.xml"
+ },
+ {
+  "organism": "Roseomonas mucosa ATCC BAA-692",
+  "model": "Roseomonas_mucosa_ATCC_BAA_692",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Roseomonas_mucosa_ATCC_BAA_692.xml"
+ },
+ {
+  "organism": "Rothia aeria F0474",
+  "model": "Rothia_aeria_F0474",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Rothia_aeria_F0474.xml"
+ },
+ {
+  "organism": "Rothia dentocariosa ATCC 17931",
+  "model": "Rothia_dentocariosa_ATCC_17931",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Rothia_dentocariosa_ATCC_17931.xml"
+ },
+ {
+  "organism": "Rothia mucilaginosa DY-18",
+  "model": "Rothia_mucilaginosa_DY_18",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Rothia_mucilaginosa_DY_18.xml"
+ },
+ {
+  "organism": "Rudanella lutea DSM 19387",
+  "model": "Rudanella_lutea_DSM_19387",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Rudanella_lutea_DSM_19387.xml"
+ },
+ {
+  "organism": "Ruminococcaceae bacterium D16",
+  "model": "Ruminococcaceae_bacterium_D16",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ruminococcaceae_bacterium_D16.xml"
+ },
+ {
+  "organism": "Ruminococcus albus 7 = DSM 20455",
+  "model": "Ruminococcus_albus_7",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ruminococcus_albus_7.xml"
+ },
+ {
+  "organism": "Ruminococcus bicirculans 80/3",
+  "model": "Ruminococcus_bicirculans_80_3",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ruminococcus_bicirculans_80_3.xml"
+ },
+ {
+  "organism": "Ruminococcus bromii L2-63",
+  "model": "Ruminococcus_bromii_L2_63",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ruminococcus_bromii_L2_63.xml"
+ },
+ {
+  "organism": "Ruminococcus callidus ATCC 2776001",
+  "model": "Ruminococcus_callidus_ATCC_2776001",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ruminococcus_callidus_ATCC_2776001.xml"
+ },
+ {
+  "organism": "Ruminococcus champanellensis 18P13",
+  "model": "Ruminococcus_champanellensis_18P13",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ruminococcus_champanellensis_18P13.xml"
+ },
+ {
+  "organism": "Ruminococcus flavefaciens ATCC 19208",
+  "model": "Ruminococcus_flavefaciens_ATCC_19208",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ruminococcus_flavefaciens_ATCC_19208.xml"
+ },
+ {
+  "organism": "Ruminococcus flavefaciens FD-1",
+  "model": "Ruminococcus_flavefaciens_FD_1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ruminococcus_flavefaciens_FD_1.xml"
+ },
+ {
+  "organism": "Ruminococcus gauvreauii DSM 19829",
+  "model": "Ruminococcus_gauvreauii_DSM_19829",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ruminococcus_gauvreauii_DSM_19829.xml"
+ },
+ {
+  "organism": "Ruminococcus gnavus ATCC 29149",
+  "model": "Ruminococcus_gnavus_ATCC_29149",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ruminococcus_gnavus_ATCC_29149.xml"
+ },
+ {
+  "organism": "Ruminococcus lactaris ATCC 29176",
+  "model": "Ruminococcus_lactaris_ATCC_29176",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ruminococcus_lactaris_ATCC_29176.xml"
+ },
+ {
+  "organism": "Ruminococcus obeum A2-162",
+  "model": "Ruminococcus_obeum_A2_162",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ruminococcus_obeum_A2_162.xml"
+ },
+ {
+  "organism": "Ruminococcus sp. 5_1_39BFAA",
+  "model": "Ruminococcus_sp_5_1_39BFAA",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ruminococcus_sp_5_1_39BFAA.xml"
+ },
+ {
+  "organism": "Ruminococcus sp. SR1/5",
+  "model": "Ruminococcus_sp_SR1_5",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ruminococcus_sp_SR1_5.xml"
+ },
+ {
+  "organism": "Ruminococcus torques ATCC 27756",
+  "model": "Ruminococcus_torques_ATCC_27756",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ruminococcus_torques_ATCC_27756.xml"
+ },
+ {
+  "organism": "Ruminococcus torques L2-14",
+  "model": "Ruminococcus_torques_L2_14",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ruminococcus_torques_L2_14.xml"
+ },
+ {
+  "organism": "Salmonella enterica enterica sv Typhimurium LT2",
+  "model": "Salmonella_enterica_enterica_sv_Typhimurium_LT2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Salmonella_enterica_enterica_sv_Typhimurium_LT2.xml"
+ },
+ {
+  "organism": "Scardovia inopinata F0304",
+  "model": "Scardovia_inopinata_F0304",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Scardovia_inopinata_F0304.xml"
+ },
+ {
+  "organism": "Schlesneria paludicola DSM 18645",
+  "model": "Schlesneria_paludicola_DSM_18645",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Schlesneria_paludicola_DSM_18645.xml"
+ },
+ {
+  "organism": "Selenomonas ruminantium AC2024",
+  "model": "Selenomonas_ruminantium_AC2024",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Selenomonas_ruminantium_AC2024.xml"
+ },
+ {
+  "organism": "Serratia fonticola RB-25",
+  "model": "Serratia_fonticola_RB_25",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Serratia_fonticola_RB_25.xml"
+ },
+ {
+  "organism": "Serratia liquefaciens ATCC 27592",
+  "model": "Serratia_liquefaciens_ATCC_27592",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Serratia_liquefaciens_ATCC_27592.xml"
+ },
+ {
+  "organism": "Serratia marcescens Db11",
+  "model": "Serratia_marcescens_subsp_marcescens_Db11",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Serratia_marcescens_subsp_marcescens_Db11.xml"
+ },
+ {
+  "organism": "Shigella dysenteriae Sd197",
+  "model": "Shigella_dysenteriae_Sd197",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Shigella_dysenteriae_Sd197.xml"
+ },
+ {
+  "organism": "Shigella flexneri 2002017",
+  "model": "Shigella_flexneri_2002017",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Shigella_flexneri_2002017.xml"
+ },
+ {
+  "organism": "Shigella sonnei Ss046",
+  "model": "Shigella_sonnei_Ss046",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Shigella_sonnei_Ss046.xml"
+ },
+ {
+  "organism": "Silanimonas lenta DSM 16282",
+  "model": "Silanimonas_lenta_DSM_16282",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Silanimonas_lenta_DSM_16282.xml"
+ },
+ {
+  "organism": "Slackia exigua ATCC 700122",
+  "model": "Slackia_exigua_ATCC_700122",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Slackia_exigua_ATCC_700122.xml"
+ },
+ {
+  "organism": "Slackia piriformis YIT 12062",
+  "model": "Slackia_piriformis_YIT_12062",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Slackia_piriformis_YIT_12062.xml"
+ },
+ {
+  "organism": "Solobacterium moorei DSM 22971",
+  "model": "Solobacterium_moorei_DSM_22971",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Solobacterium_moorei_DSM_22971.xml"
+ },
+ {
+  "organism": "Solobacterium moorei F0204",
+  "model": "Solobacterium_moorei_F0204",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Solobacterium_moorei_F0204.xml"
+ },
+ {
+  "organism": "Sphingomonas paucimobilis HER1398",
+  "model": "Sphingomonas_paucimobilis_HER1398",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Sphingomonas_paucimobilis_HER1398.xml"
+ },
+ {
+  "organism": "Spirosoma linguale DSM 74",
+  "model": "Spirosoma_linguale_DSM_74",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Spirosoma_linguale_DSM_74.xml"
+ },
+ {
+  "organism": "Staphylococcus arlettae CVD059",
+  "model": "Staphylococcus_arlettae_CVD059",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_arlettae_CVD059.xml"
+ },
+ {
+  "organism": "Staphylococcus aureus subsp. aureus USA300_FPR3757",
+  "model": "Staphylococcus_aureus_subsp_aureus_USA300_FPR3757",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_aureus_subsp_aureus_USA300_FPR3757.xml"
+ },
+ {
+  "organism": "Staphylococcus capitis CR0101",
+  "model": "Staphylococcus_capitis_CR0101",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_capitis_CR0101.xml"
+ },
+ {
+  "organism": "Staphylococcus capitis QN1",
+  "model": "Staphylococcus_capitis_QN1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_capitis_QN1.xml"
+ },
+ {
+  "organism": "Staphylococcus caprae C87",
+  "model": "Staphylococcus_caprae_C87",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_caprae_C87.xml"
+ },
+ {
+  "organism": "Staphylococcus cohnii hu-01",
+  "model": "Staphylococcus_cohnii_hu_01",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_cohnii_hu_01.xml"
+ },
+ {
+  "organism": "Staphylococcus epidermidis ATCC 12228",
+  "model": "Staphylococcus_epidermidis_ATCC_12228",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_epidermidis_ATCC_12228.xml"
+ },
+ {
+  "organism": "Staphylococcus equorum subsp. equorum Mu2",
+  "model": "Staphylococcus_equorum_subsp_equorum_Mu2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_equorum_subsp_equorum_Mu2.xml"
+ },
+ {
+  "organism": "Staphylococcus haemolyticus JCSC1435",
+  "model": "Staphylococcus_haemolyticus_JCSC1435",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_haemolyticus_JCSC1435.xml"
+ },
+ {
+  "organism": "Staphylococcus hominis subsp. hominis C80",
+  "model": "Staphylococcus_hominis_subsp_hominis_C80",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_hominis_subsp_hominis_C80.xml"
+ },
+ {
+  "organism": "Staphylococcus intermedius ATCC 27335",
+  "model": "Staphylococcus_intermedius_ATCC_27335",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_intermedius_ATCC_27335.xml"
+ },
+ {
+  "organism": "Staphylococcus lugdunensis HKU09-01",
+  "model": "Staphylococcus_lugdunensis_HKU09_01",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_lugdunensis_HKU09_01.xml"
+ },
+ {
+  "organism": "Staphylococcus pasteuri SP1",
+  "model": "Staphylococcus_pasteuri_SP1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_pasteuri_SP1.xml"
+ },
+ {
+  "organism": "Staphylococcus pettenkoferi VCU012",
+  "model": "Staphylococcus_pettenkoferi_VCU012",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_pettenkoferi_VCU012.xml"
+ },
+ {
+  "organism": "Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305",
+  "model": "Staphylococcus_saprophyticus_subsp_saprophyticus_ATCC_15305",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_saprophyticus_subsp_saprophyticus_ATCC_15305.xml"
+ },
+ {
+  "organism": "Staphylococcus sciuri subsp. sciuri Z8",
+  "model": "Staphylococcus_sciuri_subsp_sciuri_Z8",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_sciuri_subsp_sciuri_Z8.xml"
+ },
+ {
+  "organism": "Staphylococcus simulans ACS-120-V-Sch1",
+  "model": "Staphylococcus_simulans_ACS_120_V_Sch1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_simulans_ACS_120_V_Sch1.xml"
+ },
+ {
+  "organism": "Staphylococcus vitulinus F1028",
+  "model": "Staphylococcus_vitulinus_F1028",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_vitulinus_F1028.xml"
+ },
+ {
+  "organism": "Staphylococcus warneri SG1",
+  "model": "Staphylococcus_warneri_SG1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_warneri_SG1.xml"
+ },
+ {
+  "organism": "Staphylococcus xylosus DMB3-Bh1",
+  "model": "Staphylococcus_xylosus_DMB3_Bh1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_xylosus_DMB3_Bh1.xml"
+ },
+ {
+  "organism": "Staphylococcus xylosus NJ",
+  "model": "Staphylococcus_xylosus_NJ",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Staphylococcus_xylosus_NJ.xml"
+ },
+ {
+  "organism": "Stenotrophomonas maltophilia D457",
+  "model": "Stenotrophomonas_maltophilia_D457",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Stenotrophomonas_maltophilia_D457.xml"
+ },
+ {
+  "organism": "Stenotrophomonas rhizophila PCA13",
+  "model": "Stenotrophomonas_rhizophila_PCA13",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Stenotrophomonas_rhizophila_PCA13.xml"
+ },
+ {
+  "organism": "Stoquefichus massiliensis AP9",
+  "model": "Stoquefichus_massiliensis_AP9",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Stoquefichus_massiliensis_AP9.xml"
+ },
+ {
+  "organism": "Streptococcus agalactiae A909",
+  "model": "Streptococcus_agalactiae_A909",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_agalactiae_A909.xml"
+ },
+ {
+  "organism": "Streptococcus anginosus 1_2_62CV",
+  "model": "Streptococcus_anginosus_1_2_62CV",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_anginosus_1_2_62CV.xml"
+ },
+ {
+  "organism": "Streptococcus australis ATCC 700641",
+  "model": "Streptococcus_australis_ATCC_700641",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_australis_ATCC_700641.xml"
+ },
+ {
+  "organism": "Streptococcus constellatus subsp. constellatus SK53",
+  "model": "Streptococcus_constellatus_subsp_constellatus_SK53",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_constellatus_subsp_constellatus_SK53.xml"
+ },
+ {
+  "organism": "Streptococcus constellatus subsp. pharyngis SK1060",
+  "model": "Streptococcus_constellatus_subsp_pharyngis_SK1060",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_constellatus_subsp_pharyngis_SK1060.xml"
+ },
+ {
+  "organism": "Streptococcus cristatus ATCC 51100",
+  "model": "Streptococcus_cristatus_ATCC_51100",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_cristatus_ATCC_51100.xml"
+ },
+ {
+  "organism": "Streptococcus dysgalactiae subsp. dysgalactiae ATCC 27957",
+  "model": "Streptococcus_dysgalactiae_subsp_dysgalactiae_ATCC_27957",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_dysgalactiae_subsp_dysgalactiae_ATCC_27957.xml"
+ },
+ {
+  "organism": "Streptococcus equi subsp. equi 4047",
+  "model": "Streptococcus_equi_subsp_equi_4047",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_equi_subsp_equi_4047.xml"
+ },
+ {
+  "organism": "Streptococcus equinus ATCC 9812",
+  "model": "Streptococcus_equinus_ATCC_9812",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_equinus_ATCC_9812.xml"
+ },
+ {
+  "organism": "Streptococcus gallolyticus subsp. gallolyticus ATCC 43143",
+  "model": "Streptococcus_gallolyticus_subsp_gallolyticus_ATCC_43143",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_gallolyticus_subsp_gallolyticus_ATCC_43143.xml"
+ },
+ {
+  "organism": "Streptococcus gordonii str. Challis substr. CH1",
+  "model": "Streptococcus_gordonii_str_Challis_substr_CH1",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_gordonii_str_Challis_substr_CH1.xml"
+ },
+ {
+  "organism": "Streptococcus infantarius subsp. infantarius ATCC BAA-102",
+  "model": "Streptococcus_infantarius_subsp_infantarius_ATCC_BAA_102",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_infantarius_subsp_infantarius_ATCC_BAA_102.xml"
+ },
+ {
+  "organism": "Streptococcus infantis ATCC 700779",
+  "model": "Streptococcus_infantis_ATCC_700779",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_infantis_ATCC_700779.xml"
+ },
+ {
+  "organism": "Streptococcus intermedius JTH08",
+  "model": "Streptococcus_intermedius_JTH08",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_intermedius_JTH08.xml"
+ },
+ {
+  "organism": "Streptococcus lutetiensis 033",
+  "model": "Streptococcus_lutetiensis_033",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_lutetiensis_033.xml"
+ },
+ {
+  "organism": "Streptococcus mitis NCTC 12261",
+  "model": "Streptococcus_mitis_NCTC_12261",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_mitis_NCTC_12261.xml"
+ },
+ {
+  "organism": "Streptococcus mutans ATCC 25175",
+  "model": "Streptococcus_mutans_ATCC_25175",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_mutans_ATCC_25175.xml"
+ },
+ {
+  "organism": "Streptococcus oralis Uo5",
+  "model": "Streptococcus_oralis_Uo5",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_oralis_Uo5.xml"
+ },
+ {
+  "organism": "Streptococcus parasanguinis ATCC 903",
+  "model": "Streptococcus_parasanguinis_ATCC_903",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_parasanguinis_ATCC_903.xml"
+ },
+ {
+  "organism": "Streptococcus parauberis KCTC 11537",
+  "model": "Streptococcus_parauberis_KCTC_11537",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_parauberis_KCTC_11537.xml"
+ },
+ {
+  "organism": "Streptococcus peroris ATCC 700780",
+  "model": "Streptococcus_peroris_ATCC_700780",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_peroris_ATCC_700780.xml"
+ },
+ {
+  "organism": "Streptococcus pleomorphus DSM 20574",
+  "model": "Streptococcus_pleomorphus_DSM_20574",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_pleomorphus_DSM_20574.xml"
+ },
+ {
+  "organism": "Streptococcus pneumoniae G54",
+  "model": "Streptococcus_pneumoniae_G54",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_pneumoniae_G54.xml"
+ },
+ {
+  "organism": "Streptococcus pseudopneumoniae IS7493",
+  "model": "Streptococcus_pseudopneumoniae_IS7493",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_pseudopneumoniae_IS7493.xml"
+ },
+ {
+  "organism": "Streptococcus pyogenes MGAS9429",
+  "model": "Streptococcus_pyogenes_MGAS9429",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_pyogenes_MGAS9429.xml"
+ },
+ {
+  "organism": "Streptococcus salivarius JIM8777",
+  "model": "Streptococcus_salivarius_JIM8777",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_salivarius_JIM8777.xml"
+ },
+ {
+  "organism": "Streptococcus sanguinis SK36",
+  "model": "Streptococcus_sanguinis_SK36",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_sanguinis_SK36.xml"
+ },
+ {
+  "organism": "Streptococcus sp. 2_1_36FAA",
+  "model": "Streptococcus_sp_2_1_36FAA",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_sp_2_1_36FAA.xml"
+ },
+ {
+  "organism": "Streptococcus sp. I-G2",
+  "model": "Streptococcus_sp_I_G2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_sp_I_G2.xml"
+ },
+ {
+  "organism": "Streptococcus sp. I-P16",
+  "model": "Streptococcus_sp_I_P16",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_sp_I_P16.xml"
+ },
+ {
+  "organism": "Streptococcus thermophilus LMG 18311",
+  "model": "Streptococcus_thermophilus_LMG_18311",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_thermophilus_LMG_18311.xml"
+ },
+ {
+  "organism": "Streptococcus thoraltensis DSM 12221",
+  "model": "Streptococcus_thoraltensis_DSM_12221",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_thoraltensis_DSM_12221.xml"
+ },
+ {
+  "organism": "Streptococcus uberis 0140J",
+  "model": "Streptococcus_uberis_0140J",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_uberis_0140J.xml"
+ },
+ {
+  "organism": "Streptococcus vestibularis F0396",
+  "model": "Streptococcus_vestibularis_F0396",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Streptococcus_vestibularis_F0396.xml"
+ },
+ {
+  "organism": "Subdoligranulum variabile DSM 15176",
+  "model": "Subdoligranulum_variabile_DSM_15176",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Subdoligranulum_variabile_DSM_15176.xml"
+ },
+ {
+  "organism": "Succinatimonas hippei YIT 12066",
+  "model": "Succinatimonas_hippei_YIT_12066",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Succinatimonas_hippei_YIT_12066.xml"
+ },
+ {
+  "organism": "Succinivibrio dextrinosolvens H5",
+  "model": "Succinivibrio_dextrinosolvens_H5",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Succinivibrio_dextrinosolvens_H5.xml"
+ },
+ {
+  "organism": "Sulfolobus solfataricus P2",
+  "model": "Sulfolobus_solfataricus_P2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Sulfolobus_solfataricus_P2.xml"
+ },
+ {
+  "organism": "Sutterella parvirubra YIT 11816",
+  "model": "Sutterella_parvirubra_YIT_11816",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Sutterella_parvirubra_YIT_11816.xml"
+ },
+ {
+  "organism": "Sutterella wadsworthensis 3_1_45B",
+  "model": "Sutterella_wadsworthensis_3_1_45B",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Sutterella_wadsworthensis_3_1_45B.xml"
+ },
+ {
+  "organism": "Tannerella forsythia ATCC 43037",
+  "model": "Tannerella_forsythia_ATCC_43037",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Tannerella_forsythia_ATCC_43037.xml"
+ },
+ {
+  "organism": "Tatumella ptyseos ATCC 33301",
+  "model": "Tatumella_ptyseos_ATCC_33301",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Tatumella_ptyseos_ATCC_33301.xml"
+ },
+ {
+  "organism": "Trabulsiella guamensis ATCC 49490",
+  "model": "Trabulsiella_guamensis_ATCC_49490",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Trabulsiella_guamensis_ATCC_49490.xml"
+ },
+ {
+  "organism": "Tropheryma whipplei str. Twist",
+  "model": "Tropheryma_whipplei_str_Twist",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Tropheryma_whipplei_str_Twist.xml"
+ },
+ {
+  "organism": "Trueperella pyogenes MS249",
+  "model": "Trueperella_pyogenes_MS249",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Trueperella_pyogenes_MS249.xml"
+ },
+ {
+  "organism": "Ureaplasma parvum serovar 1 str. ATCC 27813",
+  "model": "Ureaplasma_parvum_serovar_1_str_ATCC_27813",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ureaplasma_parvum_serovar_1_str_ATCC_27813.xml"
+ },
+ {
+  "organism": "Ureaplasma urealyticum serovar 8 str. ATCC 27618",
+  "model": "Ureaplasma_urealyticum_serovar_8_str_ATCC_27618",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ureaplasma_urealyticum_serovar_8_str_ATCC_27618.xml"
+ },
+ {
+  "organism": "Ureibacillus thermosphaericus str. Thermo-BF",
+  "model": "Ureibacillus_thermosphaericus_str_Thermo_BF",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Ureibacillus_thermosphaericus_str_Thermo_BF.xml"
+ },
+ {
+  "organism": "Varibaculum cambriense DSM 15806",
+  "model": "Varibaculum_cambriense_DSM_15806",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Varibaculum_cambriense_DSM_15806.xml"
+ },
+ {
+  "organism": "Veillonella atypica ACS-049-V-Sch6",
+  "model": "Veillonella_atypica_ACS_049_V_Sch6",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Veillonella_atypica_ACS_049_V_Sch6.xml"
+ },
+ {
+  "organism": "Veillonella dispar ATCC 17748",
+  "model": "Veillonella_dispar_ATCC_17748",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Veillonella_dispar_ATCC_17748.xml"
+ },
+ {
+  "organism": "Veillonella parvula Te3, DSM 2008",
+  "model": "Veillonella_parvula_Te3_DSM_2008",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Veillonella_parvula_Te3_DSM_2008.xml"
+ },
+ {
+  "organism": "Veillonella ratti ACS-216-V-Col6b",
+  "model": "Veillonella_ratti_ACS_216_V_Col6b",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Veillonella_ratti_ACS_216_V_Col6b.xml"
+ },
+ {
+  "organism": "Veillonella sp. 3_1_44",
+  "model": "Veillonella_sp_3_1_44",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Veillonella_sp_3_1_44.xml"
+ },
+ {
+  "organism": "Veillonella sp. 6_1_27",
+  "model": "Veillonella_sp_6_1_27",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Veillonella_sp_6_1_27.xml"
+ },
+ {
+  "organism": "Vibrio fluvialis 560",
+  "model": "Vibrio_fluvialis_560",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Vibrio_fluvialis_560.xml"
+ },
+ {
+  "organism": "Vibrio fluvialis I21563",
+  "model": "Vibrio_fluvialis_I21563",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Vibrio_fluvialis_I21563.xml"
+ },
+ {
+  "organism": "Vibrio fluvialis PG41",
+  "model": "Vibrio_fluvialis_PG41",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Vibrio_fluvialis_PG41.xml"
+ },
+ {
+  "organism": "Vibrio furnissii NCTC 11218",
+  "model": "Vibrio_furnissii_NCTC_11218",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Vibrio_furnissii_NCTC_11218.xml"
+ },
+ {
+  "organism": "Vibrio mimicus MB-451",
+  "model": "Vibrio_mimicus_MB_451",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Vibrio_mimicus_MB_451.xml"
+ },
+ {
+  "organism": "Vibrio parahaemolyticus RIMD 2210633",
+  "model": "Vibrio_parahaemolyticus_RIMD_2210633",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Vibrio_parahaemolyticus_RIMD_2210633.xml"
+ },
+ {
+  "organism": "Weissella cibaria KACC 11862",
+  "model": "Weissella_cibaria_KACC_11862",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Weissella_cibaria_KACC_11862.xml"
+ },
+ {
+  "organism": "Weissella confusa LBAE C39-2",
+  "model": "Weissella_confusa_LBAE_C39_2",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Weissella_confusa_LBAE_C39_2.xml"
+ },
+ {
+  "organism": "Weissella paramesenteroides ATCC 33313",
+  "model": "Weissella_paramesenteroides_ATCC_33313",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Weissella_paramesenteroides_ATCC_33313.xml"
+ },
+ {
+  "organism": "Yersinia bercovieri ATCC 43970",
+  "model": "Yersinia_bercovieri_ATCC_43970",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Yersinia_bercovieri_ATCC_43970.xml"
+ },
+ {
+  "organism": "Yersinia enterocolitica subsp. enterocolitica 8081",
+  "model": "Yersinia_enterocolitica_subsp_enterocolitica_8081",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Yersinia_enterocolitica_subsp_enterocolitica_8081.xml"
+ },
+ {
+  "organism": "Yersinia frederiksenii ATCC 33641",
+  "model": "Yersinia_frederiksenii_ATCC_33641",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Yersinia_frederiksenii_ATCC_33641.xml"
+ },
+ {
+  "organism": "Yersinia kristensenii ATCC 33638",
+  "model": "Yersinia_kristensenii_ATCC_33638",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Yersinia_kristensenii_ATCC_33638.xml"
+ },
+ {
+  "organism": "Yersinia pseudotuberculosis YPIII",
+  "model": "Yersinia_pseudotuberculosis_YPIII",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Yersinia_pseudotuberculosis_YPIII.xml"
+ },
+ {
+  "organism": "Yersinia rohdei ATCC 43380",
+  "model": "Yersinia_rohdei_ATCC_43380",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Yersinia_rohdei_ATCC_43380.xml"
+ },
+ {
+  "organism": "Yokenella regensburgei ATCC 43003",
+  "model": "Yokenella_regensburgei_ATCC_43003",
+  "year": "",
+  "path": "data/virtual_metabolic_human/Yokenella_regensburgei_ATCC_43003.xml"
+ }
+]

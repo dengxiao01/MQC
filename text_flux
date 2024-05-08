@@ -1,0 +1,2 @@
+rxn13784_c0	1000.0	 --> cpd17043_c0	 --> RNA transcription		(0, 1000)	{}
+DM_cpd17043_c0	1000.0	cpd17043_c0 --> 	RNA transcription --> 		(0, 1000.0)	{}

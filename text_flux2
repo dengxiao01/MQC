@@ -1,0 +1,31 @@
+rxn00616_c0	437.5	cpd00015_c0 + cpd00067_c0 + cpd00080_c0 <=> cpd00095_c0 + cpd00982_c0	FAD + H+ + Glycerol-3-phosphate <=> Glycerone-phosphate + FADH2	(-1000.0, 1000.0)	{}
+rxn08173_c0	-125.0	cpd00008_c0 + cpd00009_c0 + 4.0 cpd00067_e0 <=> cpd00001_c0 + cpd00002_c0 + 3.0 cpd00067_c0	ADP + Phosphate + 4.0 H+ <=> H2O + ATP + 3.0 H+	(-1000.0, 1000.0)	{}
+rxn08975_c0	100.0	cpd00004_c0 + cpd00067_c0 + cpd15560_c0 --> cpd00003_c0 + cpd15561_c0	NADH + H+ + Ubiquinone-8 --> NAD + Ubiquinol-8	(0.0, 1000.0)	{}
+rxn09001_c0	100.0	2.0 cpd00067_c0 + cpd00209_c0 + cpd15561_c0 --> cpd00001_c0 + 2.0 cpd00067_e0 + cpd00075_c0 + cpd15560_c0	2.0 H+ + Nitrate + Ubiquinol-8 --> H2O + 2.0 H+ + Nitrite + Ubiquinone-8	(0.0, 1000.0)	{}
+rxn01241_c0	175.0	cpd00003_c0 + cpd00449_c0 <=> cpd00004_c0 + cpd00067_c0 + cpd00213_c0	NAD + Dihydrolipoamide <=> NADH + H+ + Lipoamide	(-1000.0, 1000.0)	{}
+rxn05468_c0	100.0	cpd00007_e0 --> cpd00007_c0	O2 --> O2	(0.0, 1000.0)	{}
+rxn05937_c0	1000.0	cpd00006_c0 + cpd00067_c0 + cpd11620_c0 --> cpd00005_c0 + cpd11621_c0	NADP + H+ + Reducedferredoxin --> NADPH + Oxidizedferredoxin	(0.0, 1000.0)	{}
+rxn07431_c0	175.0	cpd00213_c0 + cpd14700_c0 <=> cpd00056_c0 + cpd02700_c0	Lipoamide + 2-Methyl-1-hydroxypropyl-TPP <=> TPP + S-(2-Methylpropionyl)-dihydrolipoamide	(-1000.0, 1000.0)	{}
+rxn00612_c0	-362.5	cpd00006_c0 + cpd00080_c0 <=> cpd00005_c0 + cpd00067_c0 + cpd00095_c0	NADP + Glycerol-3-phosphate <=> NADPH + H+ + Glycerone-phosphate	(-1000.0, 1000.0)	{}
+rxn01925_c0	-175.0	cpd00449_c0 + cpd00481_c0 <=> cpd00010_c0 + cpd02700_c0	Dihydrolipoamide + Isobutyryl-CoA <=> CoA + S-(2-Methylpropionyl)-dihydrolipoamide	(-1000.0, 1000.0)	{}
+rxn06022_c0	1000.0	cpd00001_c0 + cpd11493_c0 --> 2.0 cpd00067_c0 + cpd00834_c0 + cpd12370_c0	H2O + ACP --> 2.0 H+ + Phosphopantetheine + apo-ACP	(0.0, 1000.0)	{'charge': 2.0}
+rxn09176_c0	-137.5	cpd00002_c0 + cpd00009_c0 <=> cpd00008_c0 + cpd00012_c0	ATP + Phosphate <=> ADP + PPi	(-1000.0, 1000.0)	{}
+rxn00611_c0	-75.0	cpd00003_c0 + cpd00080_c0 <=> cpd00004_c0 + cpd00067_c0 + cpd00095_c0	NAD + Glycerol-3-phosphate <=> NADH + H+ + Glycerone-phosphate	(-1000.0, 1000.0)	{}
+rxn07430_c0	175.0	cpd00056_c0 + cpd00067_c0 + cpd00123_c0 --> cpd00011_c0 + cpd14700_c0	TPP + H+ + 3-Methyl-2-oxobutanoate --> CO2 + 2-Methyl-1-hydroxypropyl-TPP	(0.0, 1000.0)	{}
+rxn05312_c0	-275.0	cpd00009_e0 + cpd00067_e0 <-- cpd00009_c0 + cpd00067_c0	Phosphate + H+ <-- Phosphate + H+	(-1000.0, 0.0)	{}
+rxn03991_c0	50.0	cpd00005_c0 + 2.0 cpd00007_c0 + 2.0 cpd00418_c0 --> cpd00006_c0 + cpd00067_c0 + 2.0 cpd00209_c0	NADPH + 2.0 O2 + 2.0 NO --> NADP + H+ + 2.0 Nitrate	(0.0, 1000.0)	{}
+rxn05651_c0	-25.0	cpd00048_e0 + cpd00067_e0 <=> cpd00048_c0 + cpd00067_c0	Sulfate + H+ <=> Sulfate + H+	(-1000.0, 1000.0)	{}
+rxn05176_c0	12.5	cpd00001_c0 + cpd00002_c0 + cpd00268_e0 --> cpd00008_c0 + cpd00009_c0 + cpd00067_c0 + cpd00268_c0	H2O + ATP + H2S2O3 --> ADP + Phosphate + H+ + H2S2O3	(0.0, 1000.0)	{}
+rxn00567_c0	-100.0	cpd00001_c0 + cpd00109_c0 + cpd00418_c0 <=> 2.0 cpd00067_c0 + cpd00075_c0 + cpd00110_c0	H2O + Cytochrome c3+ + NO <=> 2.0 H+ + Nitrite + Cytochrome c2+	(-1000.0, 1000.0)	{}
+rxn14159_c0	-587.5	cpd00006_c0 + cpd00067_c0 + 2.0 cpd11620_c0 <-- cpd00005_c0 + 2.0 cpd11621_c0	NADP + H+ + 2.0 Reducedferredoxin <-- NADPH + 2.0 Oxidizedferredoxin	(-1000.0, 0.0)	{'charge': 2.0}
+rxn40040_c0	12.5	5.0 cpd00001_c0 + 8.0 cpd00109_c0 + cpd00268_c0 --> 2.0 cpd00048_c0 + 11.0 cpd00067_c0 + 8.0 cpd00110_c0	5.0 H2O + 8.0 Cytochrome c3+ + H2S2O3 --> 2.0 Sulfate + 11.0 H+ + 8.0 Cytochrome c2+	(0.0, 1000.0)	{}
+EX_cpd00067_e0	1000.0	cpd00067_e0 <=> 	H+ <=> 	(-1000.0, 1000.0)	{'charge': -1.0, 'H': -1.0}
+EX_cpd00048_e0	25.0	cpd00048_e0 <=> 	Sulfate <=> 	(-1000.0, 1000.0)	{'charge': 2.0, 'O': -4.0, 'S': -1.0}
+EX_cpd00268_e0	-12.5	cpd00268_e0 <=> 	H2S2O3 <=> 	(-1000.0, 1000.0)	{'charge': 1.0, 'H': -1.0, 'O': -3.0, 'S': -2.0}
+EX_cpd00009_e0	275.0	cpd00009_e0 <=> 	Phosphate <=> 	(-1000.0, 1000.0)	{'charge': 2.0, 'H': -1.0, 'O': -4.0, 'P': -1.0}
+EX_cpd00007_e0	-100.0	cpd00007_e0 <=> 	O2 <=> 	(-1000.0, 1000.0)	{'O': -2.0}
+ADD_FADH2	437.5	cpd00982_c0 --> cpd00015_c0 + cpd00067_c0	FADH2 --> FAD + H+	(0, 1000)	{'H': -2}
+rxn11197_c0	-1000.0	cpd00001_c0 + cpd11493_c0 <=> cpd00834_c0	H2O + ACP <=> Phosphopantetheine	(-1000.0, 1000.0)	{'H': -3.0, 'O': -1.0, 'R': -1.0}
+rxn07192_c0	-175.0	cpd00010_c0 + cpd00123_c0 + cpd11621_c0 <-- cpd00011_c0 + cpd00067_c0 + cpd00481_c0 + cpd11620_c0	CoA + 3-Methyl-2-oxobutanoate + Oxidizedferredoxin <-- CO2 + H+ + Isobutyryl-CoA + Reducedferredoxin	(-1000.0, 0.0)	{}
+SK_cpd00012_c0	-137.5	cpd00012_c0 <=> 	PPi <=> 	(-1000.0, 1000.0)	{'charge': 3, 'H': -1, 'O': -7, 'P': -2}
+DM_cpd12370_c0	1000.0	cpd12370_c0 --> 	apo-ACP --> 	(0, 1000.0)	{'H': -1, 'O': -1, 'R': -1}

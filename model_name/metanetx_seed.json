@@ -1,0 +1,392 @@
+[
+ {
+  "organism": "Salmonella typhimurium",
+  "model": "maranas_iMA945",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/maranas_iMA945.sbml3.xml"
+ },
+ {
+  "organism": "Arabidopsis thaliana",
+  "model": "maranas_iRS1597",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/maranas_iRS1597.sbml3.xml"
+ },
+ {
+  "organism": "Methanosarcina acetivorans",
+  "model": "maranas_iVS941_09292015",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/maranas_iVS941_09292015.sbml3.xml"
+ },
+ {
+  "organism": "Methanosarcina acetivorans",
+  "model": "maranas_iVS941_2",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/maranas_iVS941_2.sbml3.xml"
+ },
+ {
+  "organism": "Homo sapiens",
+  "model": "metatlas_HumanGEM",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/metatlas_HumanGEM.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Mycobacterium tuberculosis",
+  "model": "misc_iNJ661m",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/misc_iNJ661m.sbml3.xml"
+ },
+ {
+  "organism": "Staphylococcus aureus",
+  "model": "seed_Opt158879_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Opt158879_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Streptococcus pneumoniae",
+  "model": "seed_Opt171101_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Opt171101_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Pseudomonas aeruginosa",
+  "model": "seed_Opt208964_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Opt208964_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Bacillus subtilis",
+  "model": "seed_Opt224308_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Opt224308_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Vibrio cholerae serotype O1",
+  "model": "seed_Opt243277_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Opt243277_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Haemophilus influenzae",
+  "model": "seed_Opt71421_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Opt71421_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Mycobacterium tuberculosis",
+  "model": "seed_Opt83332_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Opt83332_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Escherichia coli",
+  "model": "seed_Opt83333_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Opt83333_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Helicobacter pylori",
+  "model": "seed_Opt85962_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Opt85962_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Salmonella typhimurium",
+  "model": "seed_Opt99287_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Opt99287_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Streptomyces coelicolor",
+  "model": "seed_Seed100226_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed100226_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Buchnera aphidicola subsp. Acyrthosiphon pisum",
+  "model": "seed_Seed107806_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed107806_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Neisseria meningitidis serogroup B",
+  "model": "seed_Seed122586_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed122586_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Staphylococcus aureus",
+  "model": "seed_Seed158879_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed158879_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Pseudomonas putida",
+  "model": "seed_Seed160488_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed160488_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Listeria monocytogenes serovar 1/2a",
+  "model": "seed_Seed169963_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed169963_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Streptococcus pneumoniae",
+  "model": "seed_Seed171101_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed171101_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Agrobacterium fabrum",
+  "model": "seed_Seed176299_10",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed176299_10.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Agrobacterium fabrum",
+  "model": "seed_Seed176299_3",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed176299_3.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Francisella tularensis subsp. tularensis",
+  "model": "seed_Seed177416_3",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed177416_3.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Leptospira interrogans serogroup Icterohaemorrhagiae serovar Lai",
+  "model": "seed_Seed189518_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed189518_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Fusobacterium nucleatum subsp. nucleatum",
+  "model": "seed_Seed190304_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed190304_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Xanthomonas campestris pv. campestris",
+  "model": "seed_Seed190485_4",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed190485_4.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Caulobacter vibrioides",
+  "model": "seed_Seed190650_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed190650_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Campylobacter jejuni subsp. jejuni serotype O",
+  "model": "seed_Seed192222_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed192222_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Corynebacterium glutamicum",
+  "model": "seed_Seed196627_4",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed196627_4.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Bacillus anthracis",
+  "model": "seed_Seed198094_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed198094_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Bifidobacterium longum",
+  "model": "seed_Seed206672_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed206672_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Pseudomonas aeruginosa",
+  "model": "seed_Seed208964_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed208964_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Yersinia pestis",
+  "model": "seed_Seed214092_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed214092_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Lactobacillus plantarum",
+  "model": "seed_Seed220668_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed220668_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Bacillus subtilis",
+  "model": "seed_Seed224308_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed224308_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Aquifex aeolicus",
+  "model": "seed_Seed224324_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed224324_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Borrelia burgdorferi",
+  "model": "seed_Seed224326_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed224326_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Coxiella burnetii",
+  "model": "seed_Seed227377_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed227377_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Neisseria gonorrhoeae",
+  "model": "seed_Seed242231_4",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed242231_4.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Deinococcus radiodurans",
+  "model": "seed_Seed243230_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed243230_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Geobacter sulfurreducens",
+  "model": "seed_Seed243231_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed243231_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Thermotoga maritima",
+  "model": "seed_Seed243274_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed243274_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Vibrio cholerae serotype O1",
+  "model": "seed_Seed243277_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed243277_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Bordetella pertussis",
+  "model": "seed_Seed257313_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed257313_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Bacillus anthracis",
+  "model": "seed_Seed261594_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed261594_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Methanosarcina barkeri",
+  "model": "seed_Seed269797_3",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed269797_3.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Geobacter metallireducens",
+  "model": "seed_Seed269799_3",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed269799_3.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Burkholderia pseudomallei",
+  "model": "seed_Seed272560_3",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed272560_3.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Chlamydia trachomatis",
+  "model": "seed_Seed272561_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed272561_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Clostridium acetobutylicum",
+  "model": "seed_Seed272562_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed272562_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Klebsiella pneumoniae subsp. pneumoniae",
+  "model": "seed_Seed272620_3",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed272620_3.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Lactococcus lactis subsp. lactis",
+  "model": "seed_Seed272623_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed272623_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Mycoplasma pneumoniae",
+  "model": "seed_Seed272634_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed272634_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Rickettsia prowazekii",
+  "model": "seed_Seed272947_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed272947_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Thermus thermophilus",
+  "model": "seed_Seed300852_3",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed300852_3.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Haemophilus influenzae",
+  "model": "seed_Seed71421_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed71421_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Mycobacterium tuberculosis",
+  "model": "seed_Seed83332_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed83332_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Helicobacter pylori",
+  "model": "seed_Seed85962_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed85962_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Staphylococcus aureus",
+  "model": "seed_Seed93061_3",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed93061_3.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Salmonella typhimurium",
+  "model": "seed_Seed99287_1",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed99287_1.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Salmonella typhimurium",
+  "model": "seed_Seed99287_12_796",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/seed_Seed99287_12_796.COBRA-sbml3.xml"
+ },
+ {
+  "organism": "Saccharomyces cerevisiae",
+  "model": "yeastnet_v8_3_4",
+  "year": "",
+  "path": "data/metanetx/metanetx_seed/yeastnet_v8_3_4.COBRA-sbml3.xml"
+ }
+]

@@ -1,0 +1,128 @@
+[
+ {
+  "organism": "Escherichia coli",
+  "model": "bigg_e_coli_core",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_e_coli_core-sbml3.xml"
+ },
+ {
+  "organism": "Escherichia coli",
+  "model": "bigg_iAF1260",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_iAF1260-sbml3.xml"
+ },
+ {
+  "organism": "Methanosarcina barkeri",
+  "model": "bigg_iAF692",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_iAF692-sbml3.xml"
+ },
+ {
+  "organism": "Geobacter metallireducens",
+  "model": "bigg_iAF987",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_iAF987-sbml3.xml"
+ },
+ {
+  "organism": "Plasmodium falciparum",
+  "model": "bigg_iAM_Pf480",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_iAM_Pf480-sbml3.xml"
+ },
+ {
+  "organism": "Cricetulus griseus",
+  "model": "bigg_iCHOv1",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_iCHOv1-sbml3.xml"
+ },
+ {
+  "organism": "Clostridioides difficile",
+  "model": "bigg_iCN900",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_iCN900-sbml3.xml"
+ },
+ {
+  "organism": "Helicobacter pylori",
+  "model": "bigg_iIT341",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_iIT341-sbml3.xml"
+ },
+ {
+  "organism": "Pseudomonas putida",
+  "model": "bigg_iJN1463",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_iJN1463-sbml3.xml"
+ },
+ {
+  "organism": "Synechocystis sp.",
+  "model": "bigg_iJN678",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_iJN678-sbml3.xml"
+ },
+ {
+  "organism": "Pseudomonas putida",
+  "model": "bigg_iJN746",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_iJN746-sbml3.xml"
+ },
+ {
+  "organism": "Escherichia coli",
+  "model": "bigg_iJO1366",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_iJO1366-sbml3.xml"
+ },
+ {
+  "organism": "Escherichia coli",
+  "model": "bigg_iJR904",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_iJR904-sbml3.xml"
+ },
+ {
+  "organism": "Thermotoga maritima",
+  "model": "bigg_iLJ478",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_iLJ478-sbml3.xml"
+ },
+ {
+  "organism": "Escherichia coli",
+  "model": "bigg_iML1515",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_iML1515-sbml3.xml"
+ },
+ {
+  "organism": "Mus musculus",
+  "model": "bigg_iMM1415",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_iMM1415-sbml3.xml"
+ },
+ {
+  "organism": "Yersinia pestis",
+  "model": "bigg_iPC815",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_iPC815-sbml3.xml"
+ },
+ {
+  "organism": "Staphylococcus aureus",
+  "model": "bigg_iSB619",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_iSB619-sbml3.xml"
+ },
+ {
+  "organism": "Shigella dysenteriae serotype 1",
+  "model": "bigg_iSDY_1059",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_iSDY_1059-sbml3.xml"
+ },
+ {
+  "organism": "Klebsiella pneumoniae subsp. pneumoniae",
+  "model": "bigg_iYL1228",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_iYL1228-sbml3.xml"
+ },
+ {
+  "organism": "Bacillus subtilis",
+  "model": "bigg_iYO844",
+  "year": "",
+  "path": "data/metanetx/metanetx_bigg/bigg_iYO844-sbml3.xml"
+ }
+]

@@ -1,0 +1,236 @@
+[
+ {
+  "organism": "Arabidopsis lyrata",
+  "model": "Alyrata_v1_0",
+  "year": "",
+  "path": "data/modelseed/Alyrata-v1.0.sbml"
+ },
+ {
+  "organism": "Arabidopsis thaliana",
+  "model": "Athaliana_TAIR10",
+  "year": "",
+  "path": "data/modelseed/Athaliana-TAIR10.sbml"
+ },
+ {
+  "organism": "Amborella trichopoda",
+  "model": "Atrichopoda_v1_0",
+  "year": "",
+  "path": "data/modelseed/Atrichopoda-v1.0.sbml"
+ },
+ {
+  "organism": "Brachypodium distachyon",
+  "model": "Bdistachyon_v2_1",
+  "year": "",
+  "path": "data/modelseed/Bdistachyon-v2.1.sbml"
+ },
+ {
+  "organism": "Zea mays",
+  "model": "Broken_Plastidial_Sandbox",
+  "year": "",
+  "path": "data/modelseed/Broken_Plastidial_Sandbox.sbml"
+ },
+ {
+  "organism": "Citrus clementina",
+  "model": "Cclementina_v1_0",
+  "year": "",
+  "path": "data/modelseed/Cclementina-v1.0.sbml"
+ },
+ {
+  "organism": "Capsella grandiflora",
+  "model": "Cgrandiflora_v1_1",
+  "year": "",
+  "path": "data/modelseed/Cgrandiflora-v1.1.sbml"
+ },
+ {
+  "organism": "Carica papaya",
+  "model": "Cpapaya_ASGPBv0_4",
+  "year": "",
+  "path": "data/modelseed/Cpapaya-ASGPBv0.4.sbml"
+ },
+ {
+  "organism": "Chlamydomonas reinhardtii",
+  "model": "Creinhardtii_v5_5",
+  "year": "",
+  "path": "data/modelseed/Creinhardtii-v5.5.sbml"
+ },
+ {
+  "organism": "Capsella rubella",
+  "model": "Crubella_v1_0",
+  "year": "",
+  "path": "data/modelseed/Crubella-v1.0.sbml"
+ },
+ {
+  "organism": "Cucumis sativus",
+  "model": "Csativus_v1_0",
+  "year": "",
+  "path": "data/modelseed/Csativus-v1.0.sbml"
+ },
+ {
+  "organism": "Citrus sinensis",
+  "model": "Csinensis_v1_1",
+  "year": "",
+  "path": "data/modelseed/Csinensis-v1.1.sbml"
+ },
+ {
+  "organism": "Coccomyxa subellipsoidea C-169",
+  "model": "CsubellipsoideaC169_v2_0",
+  "year": "",
+  "path": "data/modelseed/CsubellipsoideaC169-v2.0.sbml"
+ },
+ {
+  "organism": "Eucalyptus grandis",
+  "model": "Egrandis_v1_1",
+  "year": "",
+  "path": "data/modelseed/Egrandis-v1.1.sbml"
+ },
+ {
+  "organism": "Eutrema salsugineum",
+  "model": "Esalsugineum_v1_0",
+  "year": "",
+  "path": "data/modelseed/Esalsugineum-v1.0.sbml"
+ },
+ {
+  "organism": "Fragaria vesca",
+  "model": "Fvesca_v1_1",
+  "year": "",
+  "path": "data/modelseed/Fvesca-v1.1.sbml"
+ },
+ {
+  "organism": "Glycine max",
+  "model": "Gmax_Wm82_a2_v1",
+  "year": "",
+  "path": "data/modelseed/Gmax-Wm82.a2.v1.sbml"
+ },
+ {
+  "organism": "Linum usitatissimum",
+  "model": "Lusitatissimum_v1_0",
+  "year": "",
+  "path": "data/modelseed/Lusitatissimum-v1.0.sbml"
+ },
+ {
+  "organism": "Malus domestica",
+  "model": "Mdomestica_v1_0",
+  "year": "",
+  "path": "data/modelseed/Mdomestica-v1.0.sbml"
+ },
+ {
+  "organism": "Manihot esculenta",
+  "model": "Mesculenta_v4_1",
+  "year": "",
+  "path": "data/modelseed/Mesculenta-v4.1.sbml"
+ },
+ {
+  "organism": "Erythranthe guttata",
+  "model": "Mguttatus_v2_0",
+  "year": "",
+  "path": "data/modelseed/Mguttatus-v2.0.sbml"
+ },
+ {
+  "organism": "Micromonas commoda",
+  "model": "MspRCC299_v3_0",
+  "year": "",
+  "path": "data/modelseed/MspRCC299-v3.0.sbml"
+ },
+ {
+  "organism": "Medicago truncatula",
+  "model": "Mtruncatula_Mt4_0v1",
+  "year": "",
+  "path": "data/modelseed/Mtruncatula-Mt4.0v1.sbml"
+ },
+ {
+  "organism": "Ostreococcus 'lucimarinus'",
+  "model": "Olucimarinus_v2_0",
+  "year": "",
+  "path": "data/modelseed/Olucimarinus-v2.0.sbml"
+ },
+ {
+  "organism": "Oryza sativa",
+  "model": "Osativa_v7_0",
+  "year": "",
+  "path": "data/modelseed/Osativa-v7.0.sbml"
+ },
+ {
+  "organism": "Physcomitrella patens",
+  "model": "Ppatens_v3_0",
+  "year": "",
+  "path": "data/modelseed/Ppatens-v3.0.sbml"
+ },
+ {
+  "organism": "Populus trichocarpa",
+  "model": "Ptrichocarpa_v3_0",
+  "year": "",
+  "path": "data/modelseed/Ptrichocarpa-v3.0.sbml"
+ },
+ {
+  "organism": "Phaseolus vulgaris",
+  "model": "Pvulgaris_v1_0",
+  "year": "",
+  "path": "data/modelseed/Pvulgaris-v1.0.sbml"
+ },
+ {
+  "organism": "Ricinus communis",
+  "model": "Rcommunis_v0_1",
+  "year": "",
+  "path": "data/modelseed/Rcommunis-v0.1.sbml"
+ },
+ {
+  "organism": "Sorghum bicolor",
+  "model": "Sbicolor_v2_1",
+  "year": "",
+  "path": "data/modelseed/Sbicolor-v2.1.sbml"
+ },
+ {
+  "organism": "Setaria italica",
+  "model": "Sitalica_v2_1",
+  "year": "",
+  "path": "data/modelseed/Sitalica-v2.1.sbml"
+ },
+ {
+  "organism": "Solanum lycopersicum",
+  "model": "Slycopersicum_iTAGv2_3",
+  "year": "",
+  "path": "data/modelseed/Slycopersicum-iTAGv2.3.sbml"
+ },
+ {
+  "organism": "Selaginella moellendorffii",
+  "model": "Smoellendorffii_v1_0",
+  "year": "",
+  "path": "data/modelseed/Smoellendorffii-v1.0.sbml"
+ },
+ {
+  "organism": "Spirodela polyrhiza",
+  "model": "Spolyrhiza_v2",
+  "year": "",
+  "path": "data/modelseed/Spolyrhiza-v2.sbml"
+ },
+ {
+  "organism": "Solanum tuberosum",
+  "model": "Stuberosum_v3_4",
+  "year": "",
+  "path": "data/modelseed/Stuberosum-v3.4.sbml"
+ },
+ {
+  "organism": "Theobroma cacao",
+  "model": "Tcacao_v1_1",
+  "year": "",
+  "path": "data/modelseed/Tcacao-v1.1.sbml"
+ },
+ {
+  "organism": "Volvox carteri",
+  "model": "Vcarteri_v2_0",
+  "year": "",
+  "path": "data/modelseed/Vcarteri-v2.0.sbml"
+ },
+ {
+  "organism": "Vitis vinifera",
+  "model": "Vvinifera_Genoscope_12X",
+  "year": "",
+  "path": "data/modelseed/Vvinifera-Genoscope.12X.sbml"
+ },
+ {
+  "organism": "Zea mays",
+  "model": "Zmays_5b",
+  "year": "",
+  "path": "data/modelseed/Zmays-5b.sbml"
+ }
+]

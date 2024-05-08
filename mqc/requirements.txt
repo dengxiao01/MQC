@@ -1,0 +1,6 @@
+cobra==0.25.0
+cplex==22.1.1.2
+d3flux==0.2.7
+matplotlib==3.7.2
+numpy==1.22.4
+pandas==1.5.3
