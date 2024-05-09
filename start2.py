@@ -466,7 +466,7 @@ if __name__ == '__main__':
     # main('/home/dengxiao/mqc/mqc/local_test_data/metanetx2/seed_Seed107806_1.COBRA-sbml3.xml',"tmp/metanetx/seed_Seed107806_1") 
     # main('/home/dengxiao/mqc/mqc/local_test_data/GCF_modelseed/GCA_000007365.1modelseed.xml',"tmp/GCF_modelseed/GCA_000007365") 
     # main('/home/dengxiao/mqc/mqc/local_test_data/embl_gems/models/f/facklamia/Facklamia_hominis_CCUG_36813.xml.gz',"tmp/CARVEME_COMMEN/Facklamia_hominis_CCUG_36813") 
-    main('/home/dengxiao/mqc/mqc/local_test_data/virtual_metabolic_human/Bacteroides_intestinalis_341_DSM_17393.xml',"tmp/virtual/Bacteroides_intestinalis_341_DSM_17393")
+    main('/home/dengxiao/mqc/mqc/local_test_data/other/iCac802_norm2.xml',"tmp/other/iCac802_norm2")
     # main('/home/dengxiao/mqc/mqc/local_test_data/other/methanolica_excel_xml.xml','tmp/other/methanolica_excel_xml')
 
     

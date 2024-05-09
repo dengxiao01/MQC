@@ -1273,9 +1273,13 @@ class Biomasses():
         """"""
         for rxn in model_info["reactions"]:
             if 'special_boundary' in rxn.keys():
-                model.reactions.get_by_id(rxn['id']).bounds == check_model.reactions.get_by_id(rxn['id']).bounds
+                print(rxn['id'],model.reactions.get_by_id(rxn['id']).bounds,check_model.reactions.get_by_id(rxn['id']).bounds,'aaaaa')
+                model.reactions.get_by_id(rxn['id']).bounds = check_model.reactions.get_by_id(rxn['id']).bounds
+        print(model.slim_optimize(),'xxxxxx')
         for rxnId in model_info["sink_rxn"]:
             model.reactions.remove(rxnId)
+            print(rxnId,'sssss')
+        print(model.slim_optimize(),'vvvvv')
 
     def get_final_fluxes(self, model_info, model, check_model, model_control_info, initial_rxn_id):
         """"""
@@ -1372,8 +1376,10 @@ class Biomasses():
         self.recover_atpm_bounds(model_info, model, check_model)
         self.get_result(model_info, model, sustain_result, model_control_info)
         self.modify_bios(model_info, model, model_control_info)
+        print(model.slim_optimize(),'qqqqqq')
         # self.get_exchange(model, model_control_info)
         # self.get_final_fluxes(model_info, model, check_model, model_control_info, initial_rxn_id)
         # self.convert_list_to_string(model_control_info)
         self.recover_special_boundary_rxn(model_info, model, check_model)
+        print(model.slim_optimize(),'lllll')
         # self.convert_nan_to_null(model)
