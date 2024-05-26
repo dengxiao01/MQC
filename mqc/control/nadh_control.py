@@ -232,7 +232,6 @@ class Nadhs():
             model.reactions.get_by_id(nadh_id).bounds = (0,1000)
             set_model_objective(model_info, model, nadh_id)
             # initial1 = round(model.slim_optimize(),3)
-      
             close_autotrophic_or_c_source(model_info, model, 'carbon_source')
          
             # close_autotrophic_or_c_source(model_info, model, 'autotrophic')
@@ -251,8 +250,14 @@ class Nadhs():
             with model:
                 set_c_source_supply(model_info, model, 'nadhs', check_model)
                 set_auto_source_supply(model_info, model, check_model, 'initial')
+                set_c_source_supply(model_info, model, 'nadhs', check_model)
                 final1 = round(model.slim_optimize(),3)
-            model_info["control_analysis_final"].append(final1)
+                finals = get_c_mol(model, model_info)
+                print(finals,round(model.slim_optimize(),3),'.............')
+                write_flux_file(model_info, model, nadh_id,'nadh',self.cfg)
+            # model_info["control_analysis_final"].append(final1)
+            model_info["control_analysis_final"].append(finals)
+            exit()
             if model_control_info["check_reducing_equivalents_production"][name]["score"] == 0:
                 temp["score"] = 0
                 model_control_info["check_reducing_equivalents_production"][name]["Optimal_rate_in_initial_model"] = f"Optimal {name} production rate was {model_info['control_analysis_initial'][i]} mmol/gDCW/h when no carbon sourse was supplied."

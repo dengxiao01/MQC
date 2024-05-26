@@ -395,6 +395,8 @@ class Yields():
         model_info['substance_flux'], model_info['yield_note'] = [], []
         set_c_source_supply(model_info, model, 'yields', check_model)
         set_auto_source_supply(model_info, model, check_model, 'yields')
+        # 在前面质控时碳源关掉了，比如（0，1000）这种情况恢复碳源会被直接设置成-10，但是本身供给是0~100之间的话应该是设置成原来供给的量，所以需要再次执行set_c_source_supply（）
+        set_c_source_supply(model_info, model, 'yields', check_model)
         model_control_info["check_metabolite_yield"]["score"] = 1
         # model_control_info['initial_flux']["initial_yield"] = ""
         if is_autotrophic(model_info):

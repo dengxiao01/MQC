@@ -302,25 +302,34 @@ class InitialPreprocess():
         pro1s = [NAD_NAME,NADP,FAD,FMN,Q8_NAME,MQN8,DMMQ8]
         pro2 = H_NAME
         for i, name in enumerate(nadh_name):
-            nadh_id = get_other_nadh_rxn(model, reas[i], pro1s[i], pro2, name)
-            if not nadh_id:
-                model_info["control_analysis_initial"].append("")
-                continue
-            model.reactions.get_by_id(nadh_id).bounds = (0,1000)
-            set_model_objective(model_info, model, nadh_id)
-            initial = round(model.slim_optimize(),3)
-            model_info["control_analysis_initial"].append(initial)
+            with model:
+                nadh_id = get_other_nadh_rxn(model, reas[i], pro1s[i], pro2, name)
+                if not nadh_id:
+                    model_info["control_analysis_initial"].append("")
+                    continue
+                model.reactions.get_by_id(nadh_id).bounds = (0,1000)
+                set_model_objective(model_info, model, nadh_id)
+                # write_flux_file(model_info, model, nadh_id,'nadh_initial',self.cfg)
+                print(model.slim_optimize(),'................')
+                pfba_solution = pfba(model)
+                initial = round(model.slim_optimize(),3)
+                initials = get_c_mol(model, model_info)
+                # model_info["control_analysis_initial"].append(initial)
+                model_info["control_analysis_initial"].append(initials)
         xtp = ['A','C','G','U','I']
         for k in xtp:
             name = f"{k}TP"
-            atpm_id = get_atpm_rxn(model_info, model, name, f'{k}DP')
-            if not atpm_id:
-                model_info["control_analysis_initial"].append("")
-                continue
-            model.reactions.get_by_id(atpm_id).bounds = (0,1000)
-            set_model_objective(model_info, model, atpm_id)
-            initial2 = round(model.slim_optimize(),3)
-            model_info["control_analysis_initial"].append(initial2)
+            with model:
+                atpm_id = get_atpm_rxn(model_info, model, name, f'{k}DP')
+                if not atpm_id:
+                    model_info["control_analysis_initial"].append("")
+                    continue
+                model.reactions.get_by_id(atpm_id).bounds = (0,1000)
+                set_model_objective(model_info, model, atpm_id)
+                initial2 = round(model.slim_optimize(),3)
+                initials = get_c_mol(model, model_info)
+                # model_info["control_analysis_initial"].append(initial2)
+                model_info["control_analysis_initial"].append(initials)
 
     def initial_control(self, model_info, model, check_model, model_control_info, model_check_info):
         """""" 
@@ -334,6 +343,7 @@ class InitialPreprocess():
 
         set_c_source_supply(model_info, model, 'initial', check_model)
         model_info["biomass_by_c_source"] = round(model.slim_optimize(), 3)
+        print('碳源:',model_info["carbon_source_boundary"])
         print('设置碳源后biomass值:',model.slim_optimize(),'.......................................222........................')
 
         self.get_initial_nadh_atp(model_info, model)

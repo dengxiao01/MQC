@@ -85,7 +85,7 @@ class ModelCheck():
     def model_check(self):
         """"""    
         t1 = time.time()
-        headers = ['model', 'reducing_power', 'energy', 'metabolite', 'yield', 'biomass','all']
+        headers = ['model', 'reducing_power', 'energy', 'metabolite', 'yield', 'biomass']
         controler = Preprocess(self.model_file,self.cfg)
         if not controler.model:
             model_control_info = change_model_control_info(self.model_file, self.model_control_info)
@@ -98,25 +98,18 @@ class ModelCheck():
         checks = Check(self.cfg)
         all_data = checks.check_control(model_pre_process.model_info, controler.model, controler.check_model, self.model_control_info, self.model_check_info)
         print(all_data)
-        # model_name = f'{controler.model}'
-        # if not f'{controler.model}':
-        #     model_name = self.model_file.split('/')[-1].split('.')[0]
-        # if '0' in all_data:
-        #     all_data.append('0')
-        # else:
-        #     all_data.append('1')
         # # 创建一个数据框（DataFrame）
         # df = pd.DataFrame([all_data], columns=headers)
         # # 尝试读取现有文件
         # try:
-        #     existing_df = pd.read_excel(f'/home/dengxiao/mqc/tmp/GCF_modelseed_check/{model_name}.xlsx', sheet_name='Sheet1')
+        #     existing_df = pd.read_excel('/home/dengxiao/mqc/tmp/web_CARVEME_COMMEN2/output/output5.xlsx', sheet_name='Sheet1')
         #     # 将新的数据追加到现有数据框
         #     existing_df = existing_df.append(df, ignore_index=True)
         # except FileNotFoundError:
         #     # 如果文件不存在，直接使用新数据框
         #     existing_df = df
         # # 将数据框写入Excel文件
-        # existing_df.to_excel(f'/home/dengxiao/mqc/tmp/GCF_modelseed_check/{model_name}.xlsx', index=False, header=True, sheet_name='Sheet1')
+        # existing_df.to_excel('/home/dengxiao/mqc/tmp/web_CARVEME_COMMEN2/output/output5.xlsx', index=False, header=True, sheet_name='Sheet1')
         del self.model_check_info['boundary_information']
         model_control_infos = write_result(self.model_check_info,self.cfg)
         t2 = time.time()
@@ -195,45 +188,45 @@ class ModelCheck():
             final_model = write_final_model(controler.model,self.cfg, self.model_file)
             check_model = write_check_model(controler.check_model,self.cfg, self.model_file)   
         except RuntimeError as e:
+            print('ssssssssssssssss')
             final_model = write_final_model(controler.model,self.cfg, self.model_file)
+            print('ddddddddddddddddd')
             check_model = write_check_model(controler.check_model,self.cfg, self.model_file) 
+            print('1111111111111111111111')
             model_control_infos = write_result2(self.model_control_info,self.cfg)
+            print('2222222222222222')
             print(repr(e),'.............')
             # raise
         except Exception as e:
+            print('666666666666666666')
             model_control_infos = write_result2(self.model_control_info,self.cfg)
+            print('777777777777777777')
             final_model = write_final_model(controler.model,self.cfg, self.model_file)
+            print('8888888888888888888')
             check_model = write_check_model(controler.check_model,self.cfg, self.model_file) 
             print(repr(e),'.............')
             raise 
         print('0000000000000000000000000000000000000000000000000000000000')
         control_analysis = model_pre_process.model_info["control_analysis"]
-        headers=['model','NADH','NADPH','FADH2','FMNH2','Q8H2','MQL8','DMMQL8','ATP','CTP','GTP','UTP','ITP','metabolite','yield','biomass','bio_norxn','bio_nogrow','bio_coupling','bio_zero','carbon source supply','restricted metabolites']
+        headers=['model','NADH','NADPH','FADH2','FMNH2','Q8H2','MQL8','DMMQL8','ATP','CTP','GTP','UTP','ITP','metabolite','yield','biomass','carbon source supply','restricted metabolites']
         if len(control_analysis) < 16:
             for i in range(16-len(control_analysis)):
                 control_analysis.append("")
-        control_analysis.append(model_pre_process.model_info["bio_norxn"])
-        control_analysis.append(model_pre_process.model_info["bio_nogrow"])
-        control_analysis.append(model_pre_process.model_info["bio_coupling"])
-        control_analysis.append(model_pre_process.model_info["bio_zero"])
         control_analysis.append(model_pre_process.model_info["carbon_source_boundary"])
         control_analysis.append(model_pre_process.model_info["limiting_metabolites"])
-        # 'biomass equation does not exist','cannot simulate growth'
-        model_name = f'{controler.model}'
-        if not f'{controler.model}':
-            model_name = self.model_file.split('/')[-1].split('.')[0]
+        print(model_pre_process.model_info["control_analysis"])
         # 创建一个数据框（DataFrame）
         df = pd.DataFrame([control_analysis],columns=headers)
         # 尝试读取现有文件
         try:
-            existing_df = pd.read_excel(f'/home/dengxiao/mqc/tmp/bigg_new2/{model_name}.xlsx', sheet_name='Sheet1')
+            existing_df = pd.read_excel('/home/dengxiao/mqc/tmp/control定量分析.xlsx', sheet_name='Sheet1')
             # 将新的数据追加到现有数据框
             existing_df = existing_df.append(df, ignore_index=True)
         except FileNotFoundError:
             # 如果文件不存在，直接使用新数据框
             existing_df = df
         # 将数据框写入Excel文件
-        existing_df.to_excel(f'/home/dengxiao/mqc/tmp/bigg_new2/{model_name}.xlsx', index=False, header=True, sheet_name='Sheet1')
+        existing_df.to_excel('/home/dengxiao/mqc/tmp/control定量分析.xlsx', index=False, header=True, sheet_name='Sheet1')
         modelInfo = write_model_info(model_pre_process.model_info,self.cfg)
         # model_check_infos = write_result(self.model_check_info,self.cfg)
         # if not model_control_infos:
@@ -380,7 +373,7 @@ def main(a,b):
     # a=f'/home/dengxiao/mqc/mqc/local_test_data/CARVEME_COMMEN/{file}'
     # b=f"tmp/new_CARVEME_COMMEN/{file.split('.')[0]}"
     modelCheck = ModelCheck(a,b)
-    # modelCheck.model_check()
+    modelCheck.model_check()
     modelCheck.model_check2()
 # def main(file):
 #     """"""
@@ -455,8 +448,8 @@ if __name__ == '__main__':
     'iKS1317.xml', 'iLM.c559.xml', 'iME375.xml', 'iLME620.xml', 'iMSC1255.xml', 'iLT1021.xml', 'iMcBath.xml', 'iMM1865.xml', 'iMT1026.xml', 'iMsOB3b.xml', 'iPC815.xml',
      'iNS934.xml', 'iPS584.xml', 'iRsp1140.xml', 'iPB890.xml', 'iSyu683.xml','MetaMerge.xml', 'MTBPROM2.0.xml', 'iYY11011.xml','iCTH669.xml']
     run_file=[]
-    # table = pd.read_csv('/home/dengxiao/mqc/mqc/local_test_data/embl_gems/model_list.tsv',sep='\t')
-    # files = os.listdir('mqc/local_test_data/CARVEME_COMMEN')
+    table = pd.read_csv('/home/dengxiao/mqc/mqc/local_test_data/embl_gems/model_list.tsv',sep='\t')
+    files = os.listdir('mqc/local_test_data/CARVEME_COMMEN')
     # for file in table['file_path'][2416:2500]:
     #     # if file in alreadyrun or file in yes_model:
     #     #     continue
@@ -464,14 +457,11 @@ if __name__ == '__main__':
     #     run_file.append(file)
     #     # print(run_file)
     #     main(f'/home/dengxiao/mqc/mqc/local_test_data/embl_gems/{file}',f"tmp/web_CARVEME_COMMEN/{file.split('/')[-1].split('.')[0]}")
-    modelseed_files = os.listdir('/home/dengxiao/mqc/mqc/local_test_data/bigg_data')
-    # for file in modelseed_files[100:]:
-    #     main(f'/home/dengxiao/mqc/mqc/local_test_data/bigg_data/{file}',f"tmp/BiggAll/{file.split('.xml')[0]}") 
     # main('/home/dengxiao/mqc/mqc/local_test_data/seedpy_comon_model/Streptococcus_pneumoniae_seedpy_model.xml',"tmp/new_seedpy_comon_model/Streptococcus_pneumoniae_seedpy_model") 
-    # main('/home/dengxiao/mqc/mqc/local_test_data/metanetx2/seed_Seed99287_12_796.COBRA-sbml3.xml',"tmp/metanetx/seed_Seed99287_12_796.xml") 
-    # main('/home/dengxiao/mqc/mqc/local_test_data/GCF_modelseed/GCA_000007365.1modelseed.xml',"tmp/GCF_modelseed/GCA_000007365") 
-    # main('/home/dengxiao/mqc/mqc/local_test_data/embl_gems/models/f/facklamia/Facklamia_hominis_CCUG_36813.xml.gz',"tmp/CARVEME_COMMEN/Facklamia_hominis_CCUG_36813") 
-    main('/home/dengxiao/mqc/mqc/local_test_data/bigg_data/iJN1463.xml',"tmp/bigg/iJN1463")
-    # main('/home/dengxiao/mqc/mqc/local_test_data/other/methanolica_excel_xml.xml','tmp/other/methanolica_excel_xml')
+    main('/home/dengxiao/mqc/mqc/local_test_data/other/iYli21.xml',"tmp/other/iYli21") 
+    # main('/home/dengxiao/mqc/mqc/local_test_data/gapseq/mg1655-gapseq.xml',"tmp/gapseq/mg1655-gapseq") 
+    # main('/home/dengxiao/mqc/mqc/local_test_data/CARVEME_COMMEN/Streptococcus_pneumoniaecarveme.xml',"tmp/CARVEME_COMMEN/check/Streptococcus_pneumoniaecarveme") 
+    # main('/home/dengxiao/mqc/mqc/local_test_data/literature_model/iSyu683.xml',"tmp/literature/iSyu683")
+    # main('/home/dengxiao/mqc/mqc/local_test_data/bigg_data/iCN718.xml','tmp/bigg/iCN718')
 
     

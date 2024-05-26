@@ -521,6 +521,9 @@ class Biomasses():
         initial_rxn_id = model_info["initial_rxn"]["biomass_rxn_id"]
         initial_rxn = model.reactions.get_by_id(initial_rxn_id)
         if len(model_info['no_gap_metid']) <= (len(initial_rxn.reactants)*0.2):
+            print('...........................')
+            print(model_info['no_gap_metid'],len(initial_rxn.reactants),len(initial_rxn.reactants)*0.2)
+            print('...........................')
             for metId in model_info['no_gap_metid']:
                 mets = model.metabolites.get_by_id(metId)
                 model.add_boundary(mets, type = 'sink')
@@ -1160,6 +1163,7 @@ class Biomasses():
                 print(model.slim_optimize(),'sssssssssssssssssssss')
                 temp = [f"The final biomass is still coupled with macromolecules {final_biomass}"]
                 write_biomass(model_control_info, temp, "Normalization_of_biomass")
+                model_info["bio_coupling"] = '0'
                 return -1
             while final_biomass < 990 or final_biomass > 1010:
                 get_final = self.Normalized_biomass(model, initial_rxn_id, final_biomass)
@@ -1168,6 +1172,7 @@ class Biomasses():
                     model_control_info['check_biomass_production']["score"] = 0
                     temp = [f"The final flux final is 0, error"]
                     write_biomass(model_control_info, temp, "Normalization_of_biomass")
+                    model_info["bio_zero"] = '0'
                     return -1
                 final_biomass = self.calculateResult(model, initial_rxn_id, model_info, sink_rxn, check_model, obj)
                 print('final_biomass:.................',final_biomass)
@@ -1273,9 +1278,10 @@ class Biomasses():
         """"""
         for rxn in model_info["reactions"]:
             if 'special_boundary' in rxn.keys():
-                model.reactions.get_by_id(rxn['id']).bounds == check_model.reactions.get_by_id(rxn['id']).bounds
+                model.reactions.get_by_id(rxn['id']).bounds = check_model.reactions.get_by_id(rxn['id']).bounds
         for rxnId in model_info["sink_rxn"]:
             model.reactions.remove(rxnId)
+   
 
     def get_final_fluxes(self, model_info, model, check_model, model_control_info, initial_rxn_id):
         """"""
@@ -1329,6 +1335,7 @@ class Biomasses():
         if not is_bio_exp_correct(model_info):
             model_control_info["check_biomass_production"]["Biomass_information"].append("Could not find the biomass equation, please check and try again!!!")
             model_control_info["check_biomass_production"]["score"] = 0
+            model_info["bio_norxn"] = 0
             return 0
         initial_rxn_id = model_info["initial_rxn"]["biomass_rxn_id"]
         model.reactions.get_by_id(initial_rxn_id).bounds = (0,1000)
@@ -1347,6 +1354,7 @@ class Biomasses():
             self.recover_atpm_bounds(model_info, model, check_model)
             self.modify_bios(model_info, model, model_control_info)
             self.recover_special_boundary_rxn(model_info, model, check_model)
+            model_info["bio_nogrow"] = '0'
             return 0
         # write_flux_file(model_info, model, initial_rxn_id, 'biomasss', self.cfg)
         print(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()),':检查biomass维持能')
@@ -1376,4 +1384,5 @@ class Biomasses():
         # self.get_final_fluxes(model_info, model, check_model, model_control_info, initial_rxn_id)
         # self.convert_list_to_string(model_control_info)
         self.recover_special_boundary_rxn(model_info, model, check_model)
+        
         # self.convert_nan_to_null(model)

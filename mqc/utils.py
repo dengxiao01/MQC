@@ -638,6 +638,10 @@ def del_model_boundary(model_info, model, check_model, model_control_info):
             model_info['carbon_source_supply'].extend(["Wrong initial model bounds, all carbon source bounds are (-1000, 1000)"])
             model_control_info['boundary_information']["score"] = 0
             set_single_carbon(model_info, model) # 设置单碳作为最小碳源
+        elif len(supply_carbon_source)==1 and model.slim_optimize()>1e-6:
+            model_info['need_set_carbon_source'][supply_carbon_source[0]] = check_model.reactions.get_by_id(supply_carbon_source[0]).bounds
+            model_info["min_set"] = [supply_carbon_source[0]]
+            print('存在单一供给碳源且能生长:', model_info["min_set"],model.slim_optimize())
         else:  
             min_set_dict = get_min_carbon_source_set(model_info, model, check_model, carbon_source_rxn, flag)
             if min_set_dict:
@@ -648,15 +652,14 @@ def del_model_boundary(model_info, model, check_model, model_control_info):
                 print('min_set_all', min_set_dict)
                 if min_set_all:
                     if 'min_set' == min_set_key: # 这是第一步逐一打开获取到的列表，在列表中任取一个作为最小碳源都可以满足生长，先找葡萄糖、蔗糖等，没有就任选一个作为碳源
-                        if glucose_rxnId in min_set_all:
-                            model_info['need_set_carbon_source'][glucose_rxnId] = get_lower_bound(model, check_model, glucose_rxnId)
-                            # model_info['carbon_source_supply'].extend([f"glucose present,Use glucose({glucose_rxnId}) as the carbon source\n"])
-                            min_set = glucose_rxnId
-                        else:
-                            carbon_rxnId = find_other_carbon_source(model_info, model)
-                            min_set = carbon_rxnId if carbon_rxnId in min_set_all else min_set_all[0]  
-                            # model_info['carbon_source_supply'].extend([f"There is no glucose,Use {min_set} as the carbon source\n"])
-                            model_info['need_set_carbon_source'][min_set] = get_lower_bound(model, check_model, carbon_rxnId) 
+                        # if glucose_rxnId in min_set_all:
+                        #     model_info['need_set_carbon_source'][glucose_rxnId] = get_lower_bound(model, check_model, glucose_rxnId)
+                        #     min_set = glucose_rxnId
+                        # else:
+                        #     carbon_rxnId = find_other_carbon_source(model_info, model)
+                        #     min_set = carbon_rxnId if carbon_rxnId in min_set_all else min_set_all[0]  
+                        #     model_info['need_set_carbon_source'][min_set] = get_lower_bound(model, check_model, carbon_rxnId)
+                        model_info['need_set_carbon_source'][min_set_all] = get_lower_bound(model, check_model, min_set_all)
                     elif 'min_set1' == min_set_key: # 第二步的列表，其中包含多个子列表，每个子列表都是一对碳源，任选一对碳源打开都可以满足生长
                         min_set = min_set_all[0]
                         for rxnId in min_set:
@@ -715,7 +718,7 @@ def get_min_carbon_source_set(model_info, model, check_model, carbon_source_rxn,
     flag += 1
     if flag > 5:
         return {}
-    min_set, temp, min_set1, min_set2, min_set3, min_set_dict = [], [], [], [], [], {}
+    min_set, temp, min_set1, min_set2, min_set3, min_set_dict, num = [], [], [], [], [], {}, 1e-4
     
     with model:
         # 第一步，全部关闭后逐一打开
@@ -724,11 +727,12 @@ def get_min_carbon_source_set(model_info, model, check_model, carbon_source_rxn,
   
         for rxnId in carbon_source_rxn:
             open_carbon_source_rxn(model, rxnId)
-            if model.slim_optimize() > 1e-4: 
-                min_set.append(rxnId)
+            if model.slim_optimize() > num: 
+                num = model.slim_optimize()
+                min_set = rxnId
             close_carbon_source_rxn(model, rxnId)
         print('min_set:',min_set,time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())) 
-    
+        num = 1e-4
         if min_set:
             min_set_dict['min_set'] = min_set
             return min_set_dict
@@ -738,10 +742,12 @@ def get_min_carbon_source_set(model_info, model, check_model, carbon_source_rxn,
                 open_carbon_source_rxn(model, id1)
                 for id2 in carbon_source_rxn:
                     open_carbon_source_rxn(model, id2)
-                    if model.slim_optimize() > 1e-4:   
+                    if model.slim_optimize() > num: 
+                        num = model.slim_optimize()  
                         temp.append(id1)
                         temp.append(id2)
                         if temp:
+                            min_set1 = []
                             min_set1.append(temp)
                             temp = []
                     close_carbon_source_rxn(model, id2)
@@ -910,7 +916,7 @@ def is_auto_build(model_info, model):
     for rxns in model.reactions:
         for rxn in model_info["reactions"]:
             if rxns.id == rxn['id'] and 'carbon_source' in rxn.keys():
-                print(rxns,rxns.bounds)
+                print('所有碳源',rxns,rxns.bounds)
                 total += 1
                 if rxns.bounds == (-1000,1000):
                     num += 1
@@ -1164,7 +1170,26 @@ def net_penalty_points(model_info):
         #     print(rxn["net_penalty_points"])
         #     exit()
  
-
+def get_c_mol(model, model_info):
+    """"""
+    if model.slim_optimize() > 0:
+        pfba_solution = pfba(model)
+        need_fluxes = pfba_solution.fluxes[abs(pfba_solution.fluxes)>1e-6] 
+    else:
+        need_fluxes = {}
+    num=0
+    for r,v in need_fluxes.items():
+        for rxn in model_info['reactions']:
+            if r == rxn['id']:
+                rxns = model.reactions.get_by_id(r)
+                check = rxns.check_mass_balance() 
+                if len(rxns.metabolites) == 1 and 'carbon_source' in rxn.keys():
+                    if 'C' in check and v < 0:
+                        num += abs(check['C'] * v)
+    try:                
+        return round(model.slim_optimize()/num,3)
+    except:
+        return 0
 
 def write_flux_file(model_info, model, objectiveId, yieldId, cfg:object):
     """
@@ -1184,7 +1209,7 @@ def write_flux_file(model_info, model, objectiveId, yieldId, cfg:object):
     # with open(f"tmp/y3z/{metId}.txt", 'w') as flux:  
         for r,v in need_fluxes.items():
             count+=1
-            print(count,r,model.reactions.get_by_id(r),v)
+            # print(count,r,model.reactions.get_by_id(r),v)
             for rxn in model_info['reactions']:
                 if r == rxn['id'] and r != objectiveId:
                     rxns = model.reactions.get_by_id(r)
@@ -1847,6 +1872,19 @@ def write_final_model(model, cfg:object, file_path:str):
         else:
             final_model = f"{cfg.output_dir}/{model}.xml"
             print('test',final_model)
+            # model2 = cobra.io.read_sbml_model("/home/dengxiao/mqc/tmp/other/iCac802_norm2/COBRAModel.xml")
+            # print('test',final_model)
+            # r1,r2=[],[]
+            # for rxn in model.reactions:
+            #     r1.append(rxn.id)
+            #     for rxn2 in model2.reactions:
+            #         r2.append(rxn2.id)
+            #         if rxn.id == rxn2.id:
+            #             if rxn.bounds!=rxn2.bounds:
+            #                 print(rxn.id,rxn.bounds,rxn2.bounds)
+            # print('ttttt')
+            # print([k for k in r1 if k not in list(set(r2))],'xxx')
+            # print([k for k in list(set(r2)) if k not in r1],'zzz')
             cobra.io.write_sbml_model(model,final_model)
     except:
         final_model = f"{cfg.output_dir}/{model}.json"

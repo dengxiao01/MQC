@@ -1,0 +1,350 @@
+[
+ {
+  "organism": "Actinosynnema pretiosum ATCC 31280",
+  "model": "Aspm1282",
+  "year": "2018",
+  "path": "data/literature_model/Aspm1282.xml"
+ },
+ {
+  "organism": "C.thermocellum DSM1313 ",
+  "model": "iAT601",
+  "year": "2016",
+  "path": "data/literature_model/iAT601.xml"
+ },
+ {
+    "organism": "A. baumannii",
+    "model": "iATCC19606",
+    "year": "2019",
+    "path": "data/literature_model/iATCC19606.xml"
+ },
+  {
+    "organism": "A. succinogenes 130Z",
+    "model": "iBP722",
+    "year": "2018",
+    "path": "data/literature_model/iBP722.xml"
+  },
+  {
+    "organism": "Cinara cedri",
+    "model": "iBSCc",
+    "year": "2017",
+    "path": "data/literature_model/iBSCc.xml"
+  },
+  {
+    "organism": "Clostridium sp. IBUN 13A",
+    "model": "iCbu641",
+    "year": "2017",
+    "path": "data/literature_model/iCbu641.xml"
+  },
+  {
+    "organism": "Clostridium acetobutylicum ATCC 824",
+    "model": "iCAC490",
+    "year": "2012",
+    "path": "data/literature_model/iCAC490.xml"
+  },
+  {
+    "organism": "The mitis group of streptococci ",
+    "model": "iCJ415",
+    "year": "2020",
+    "path": "data/literature_model/iCJ415.xml"
+   },
+   {
+    "organism": "A. baumannii AYE",
+    "model": "iCN718",
+    "year": "2018",
+    "path": "data/literature_model/iCN718.xml"
+   },
+   {
+    "organism": "Clostridium thermocellum",
+    "model": "iCth446",
+    "year": "2017",
+    "path": "data/literature_model/iCth446.xml"
+   },
+   {
+    "organism": "Zymomonas mobilis ZM1(ATCC 10988)",
+    "model": "iEM439",
+    "year": "2016",
+    "path": "data/literature_model/iEM439.xml"
+   },
+   {
+    "organism": "Geobacillus sp. LC300",
+    "model": "iGEL604",
+    "year": "2022",
+    "path": "data/literature_model/iGEL604.xml"
+   },
+   {
+    "organism": "Pichia pastoris",
+    "model": "ihGlycopastoris",
+    "year": "2016",
+    "path": "data/literature_model/ihGlycopastoris.xml"
+   },
+   {
+    "organism": "Limosilactobacillus reuteri",
+    "model": "iHL622",
+    "year": "2021",
+    "path": "data/literature_model/iHL622.xml"
+   },
+   {
+    "organism": "Escherichia coli Nissle 1917 ",
+    "model": "iHM1533",
+    "year": "2022",
+    "path": "data/literature_model/iHM1533.xml"
+   },
+   {
+    "organism": "Solanum lycopersicum L",
+    "model": "iHY3410",
+    "year": "2016",
+    "path": "data/literature_model/iHY3410.xml"
+   },
+   {
+    "organism": "Komagataeibacter nataicola RZS01",
+    "model": "iHZ771",
+    "year": "2017",
+    "path": "data/literature_model/iHZ771.xml"
+   },
+   {
+    "organism": " I. orientalis SD108",
+    "model": "ilsor850",
+    "year": "2020",
+    "path": "data/literature_model/ilsor850.xml"
+   },
+   {
+    "organism": "Pseudomonas putida",
+    "model": "iJN1462",
+    "year": "2020",
+    "path": "data/literature_model/iJN1462.xml"
+   },
+   {
+    "organism": "S. coelicolor",
+    "model": "iKS1317",
+    "year": "2018",
+    "path": "data/literature_model/iKS1317.xml"
+   },
+   {
+    "organism": "Leuconostoc mesenteroides",
+    "model": "iLME620",
+    "year": "2017",
+    "path": "data/literature_model/iLME620.xml"
+   },
+   {
+    "organism": "Methylococcus capsulatus (Bath)",
+    "model": "iMcBath",
+    "year": "2018",
+    "path": "data/literature_model/iMcBath.xml"
+   },
+   {
+    "organism": "Megasphaera elsdenii ",
+    "model": "iME375",
+    "year": "2020",
+    "path": "data/literature_model/iME375.xml"
+   },
+   {
+    "organism": "Mouse",
+    "model": "Imm1865",
+    "year": "2020",
+    "path": "data/literature_model/Imm1865.xml"
+   },
+   {
+    "organism": "Methylosinus trichosporium",
+    "model": "iMsOB3b",
+    "year": "2020",
+    "path": "data/literature_model/iMsOB3b.xml"
+   },
+   {
+    "organism": "N. salina",
+    "model": "iNS934 ",
+    "year": "2017",
+    "path": "data/literature_model/iNS934 .xml"
+   },
+   {
+    "organism": "Agrobacterium tumefaciens",
+    "model": "iNX1344",
+    "year": "2021",
+    "path": "data/literature_model/iNX1344.xml"
+   },
+   {
+    "organism": " Pseudomonas stutzeri A1501",
+    "model": "iPB890",
+    "year": "2015",
+    "path": "data/literature_model/iPB890.xml"
+   },
+   {
+    "organism": "P. salmonis LF-89,P. salmonis A1-15972",
+    "model": "iPC815",
+    "year": "2017",
+    "path": "data/literature_model/iPC815.xml"
+   },
+   {
+    "organism": "Lachancea kluyveri",
+    "model": "iPN730",
+    "year": "2020",
+    "path": "data/literature_model/iPN730.xml"
+   },
+   {
+    "organism": "P. salmonis LF-89,P. salmonis A1-15972",
+    "model": "iPS584",
+    "year": "2017",
+    "path": "data/literature_model/iPS584.xml"
+   },
+   {
+    "organism": "P. salmonis LF-89,P. salmonis A1-15972",
+    "model": "iPSA590",
+    "year": "2017",
+    "path": "data/literature_model/iPSA590.xml"
+   },
+   {
+    "organism": "Rhodobacter sphaeroides",
+    "model": "iRsp1140",
+    "year": "2013",
+    "path": "data/literature_model/iRsp1140.xml"
+   },
+   {
+    "organism": "Synechococcus elongatus PCC7942.",
+    "model": "iSyf715 2",
+    "year": "2007",
+    "path": "data/literature_model/iSyf715 2.xml"
+   },
+   {
+    "organism": "Synechococcus PCC 7942 and Synechococcus UTEX 2973",
+    "model": "iSyu683",
+    "year": "2017",
+    "path": "data/literature_model/iSyu683.xml"
+   },
+   {
+    "organism": "Yarrowia lipolytica",
+    "model": "iYL619_PCP",
+    "year": "2012",
+    "path": "data/literature_model/iYL619_PCP.xml"
+   },
+   {
+    "organism": "Y. lipolytica",
+    "model": "iYLI647",
+    "year": "2018",
+    "path": "data/literature_model/iYLI647.xml"
+   },
+   {
+    "organism": "B.diazoefficiens USDA110",
+    "model": "iYY1101",
+    "year": "2017",
+    "path": "data/literature_model/iYY1101 1.xml"
+   },
+   {
+    "organism": "Mycobacterium tuberculosis",
+    "model": "MetaMerge",
+    "year": "2012",
+    "path": "data/literature_model/MetaMerge.xml"
+   },
+   {
+    "organism": "Nitrosopumilus maritimus SCM1",
+    "model": "NmrFL413 ",
+    "year": "2018",
+    "path": "data/literature_model/NmrFL413 .xml"
+   },
+   {
+    "organism": " Synechocystis sp",
+    "model": "PCC 6803",
+    "year": "2013",
+    "path": "data/literature_model/PCC 6803.xml"
+   },
+   {
+    "organism": "S. tuberosum leaf",
+    "model": "PstM1",
+    "year": "2018",
+    "path": "data/literature_model/PstM1.xml"
+   },
+   {
+    "organism": "Yeast",
+    "model": "Yeast 5",
+    "year": "2012",
+    "path": "data/literature_model/Yeast 5.xml"
+   },
+   {
+    "organism": "Leishmania donovani",
+    "model": "BPK282A1",
+    "year": "2017",
+    "path": "data/literature_model/BPK282A1.xml"
+   },
+   {
+    "organism": "hepatocytes",
+    "model": "human2.0",
+    "year": "2014",
+    "path": "data/literature_model/human2.0.xml"
+   },
+   {
+    "organism": "A. platensis C1",
+    "model": "iAK888",
+    "year": "2018",
+    "path": "data/literature_model/iAK888.xml"
+   },
+   {
+    "organism": "chicken",
+    "model": "iES1300",
+    "year": "2018",
+    "path": "data/literature_model/iES1300.xml"
+   },
+   {
+    "organism": "Sinorhizobium meliloti 1021",
+    "model": "iGD1575",
+    "year": "2016",
+    "path": "data/literature_model/iGD1575.xml"
+   },
+   {
+    "organism": "hepatocytes",
+    "model": "iHepatocytes2322",
+    "year": "2018",
+    "path": "data/literature_model/iHepatocytes2322.xml"
+   },
+   {
+    "organism": "Limosilactobacillus reuteri",
+    "model": "iHL622",
+    "year": "2018",
+    "path": "data/literature_model/iHL622.xml"
+   },
+   {
+    "organism": "A. niger",
+    "model": "iJB1325_ATCC1015",
+    "year": "2018",
+    "path": "data/literature_model/iJB1325_ATCC1015.xml"
+   },
+   {
+    "organism": "A. niger",
+    "model": "iJB1325_CBS513.88",
+    "year": "2018",
+    "path": "data/literature_model/iJB1325_CBS513.88.xml"
+   },
+   {
+    "organism": "L. mesenteroides subsp. cremoris ATCC 19254",
+    "model": "iLM.c559",
+    "year": "2018",
+    "path": "data/literature_model/iLM.c559.xml"
+   },
+   {
+    "organism": "bone marrow-derived mesenchymal stem cells",
+    "model": "iMSC1255",
+    "year": "2018",
+    "path": "data/literature_model/iMSC1255.xml"
+   },
+   {
+    "organism": "P. pastoris",
+    "model": "iLT1021",
+    "year": "2018",
+    "path": "data/literature_model/iLT1021.xml"
+   },
+   {
+    "organism": "P. pastoris",
+    "model": "iMT1026",
+    "year": "2018",
+    "path": "data/literature_model/iMT1026.xml"
+   },
+   {
+    "organism": "Mycobacterium tuberculosis",
+    "model": "MTBPROM2.0",
+    "year": "2015",
+    "path": "data/literature_model/MTBPROM2.0.xml"
+   },
+   {
+    "organism": "Clostridium thermocellum",
+    "model": "iCTH669",
+    "year": "2023",
+    "path": "data/literature_model/iCTH669.xml"
+   }
+]

@@ -396,6 +396,13 @@ class ModelPreprocess():
         self.model_info["control_analysis"] = []
         self.model_info["control_analysis_initial"] = []
         self.model_info["control_analysis_final"] = []
+        self.model_info["control_analysis2"] = []
+        self.model_info["control_analysis_initial2"] = []
+        self.model_info["control_analysis_final2"] = []
+        self.model_info["bio_norxn"] = '1'
+        self.model_info["bio_nogrow"] = '1'
+        self.model_info["bio_coupling"] = '1'
+        self.model_info["bio_zero"] = '1'
         modelInfo = json.dumps(self.model_info, ensure_ascii=False, allow_nan = True, indent=1)
         with open(self.cfg.model_info, "w", newline='',) as f:
             f.write(modelInfo)
